@@ -8,7 +8,7 @@ The Visier COVID-19 case data is an aggregation of COVID-19 data sources which i
 ## Description
 The Visier COVID-19 case data includes the following content. 
 
-|||
+| | Description |
 | :---: | --- |
 | **Sources** | A consolidation by Visier from primary and secondary sources. For a description of the consolidation process and details of the sources see [Visier COVID-19 data sources](https://www.visier.com/covid-19/sources/). |
 | **Measures** | Cases, Deaths, and Recoveries. |
@@ -22,7 +22,7 @@ Visier acknowledges datasets provided by numerous organizations. For a list of p
 Please review the license and disclaimer. 
 
 ### License
-This Visier People®️: COVID-19 external data collection and all datasets in this repository are licensed under a creative commons license in the attached [LICENSE.md](LICENSE.md) file. By accessing or copying any part of the datasets, the user accepts the terms of the license and becomes a Licensee.
+The Visier COVID-19 case data, the dataset and all datasets in this repository, are licensed under a creative commons license in the attached [LICENSE.md](LICENSE.md) file. By accessing or copying any part of the datasets, the user accepts the terms of the license and becomes a Licensee.
 
 ### Disclaimer
 Although Visier has attempted to ensure the accuracy of the information, the datasets may contain technical, typographic, or analytic errors; and any released version of the datasets may not be complete or current. Visier assumes no responsibility for the accuracy of the information in the datasets. Visier may change the information in the datasets at any time without notice. Visier does not, however, make any commitment to update the information contained in the datasets.
