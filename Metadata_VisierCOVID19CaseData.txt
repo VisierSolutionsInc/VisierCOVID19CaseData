@@ -1,0 +1,12 @@
+Column,Type,Description,Example
+Date,Date, ISO 8601 date,"2020-04-29"
+Country,String,Country,United States
+State/Province,String, First level division of country,California
+Admin2,String,Second level division of the country,Orange County
+CasesCount,Integer,Cumulative confirmed cases,2151
+DeathsCount,Integer,Cumulative deceased patients,42 
+RecoveryCount,Integer,Cumulative recovered patients,Blank
+CasesCountSource,String,Label for CasesCount for location and day,USAFacts
+DeathsCountSource,String,Label for DeathsCount for location and day,ECDC
+RecoveryCountSource,String,Label for RecoveryCount for location and day,Covid19Canada
+PopulationCount,Integer,Population of location,3185968
