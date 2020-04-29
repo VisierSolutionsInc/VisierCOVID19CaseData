@@ -40,4 +40,4 @@ Please send feedback to Visier at [data@visier.com](mailto:data@visier.com).
 ### Other resources
 Further resources are available from Visier. See:
 * [Visier People® capabilities for crisis management](https://www.visier.com/wp-content/uploads/2020/03/Visier-People-CrisisManagement.pdf)
-* [Crisis Management Resources](https://www.visier.com/crisis-management/)
+* [Crisis management resources](https://www.visier.com/crisis-management/)
