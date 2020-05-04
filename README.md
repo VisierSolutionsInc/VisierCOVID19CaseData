@@ -12,8 +12,8 @@ The Visier COVID-19 case data includes the following content.
 | :---: | --- |
 | **Sources** | A consolidation by Visier® from primary and secondary sources. For a description of the consolidation process and details of the sources see [Visier COVID-19 data sources](https://www.visier.com/covid-19/sources/). |
 | **Measures** | Cases, Deaths, and Recoveries. |
-| **Coverage and granularity** | Supported locations include over 200 countries, 200 sub-national regions, and 3,200 smaller regions like counties. Coverage includes US states and their counties, states of Germany and India, regions of Italy, public health regions in England and countries in the United Kingdom, and provinces of Canada, China, and Spain. Some measures are not available for smaller areas like counties. |
-| **Released** | 2020-04-30 |
+| **Coverage and granularity** | Supported locations include over 200 countries, 250 sub-national regions, and 3,200 smaller regions like counties. Coverage includes US states and their counties, states of Germany and India, regions of Italy, public health regions in England and countries in the United Kingdom, prefectures of Japan, and provinces of Canada, China, Spain, and South Africa. Some measures are not available for smaller areas like counties. |
+| **Released** | 2020-05-04 |
 
 ## Sources
 Visier® acknowledges datasets provided by numerous organizations. For a list of providers, datasets, and licenses see [Visier COVID-19 data sources](https://www.visier.com/covid-19/sources/).
