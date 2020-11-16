@@ -3474,6 +3474,27 @@ Date,Country,State/Province,Admin2,CasesCount,DeathsCount,RecoveryCount,CasesCou
 2020-01-31,United Kingdom,England,City of York,1,,,Public Health England,,,
 2020-01-30,United Kingdom,England,TOTAL,2,,,Public Health England,,,
 2020-01-31,United Kingdom,England,TOTAL,2,,,Public Health England,,,
+2020-01-11,United Kingdom,Northern Ireland,Derry City and Strabane,1,,,Public Health England,,,
+2020-01-12,United Kingdom,Northern Ireland,Derry City and Strabane,1,,,Public Health England,,,
+2020-01-13,United Kingdom,Northern Ireland,Derry City and Strabane,1,,,Public Health England,,,
+2020-01-14,United Kingdom,Northern Ireland,Derry City and Strabane,1,,,Public Health England,,,
+2020-01-15,United Kingdom,Northern Ireland,Derry City and Strabane,1,,,Public Health England,,,
+2020-01-16,United Kingdom,Northern Ireland,Derry City and Strabane,1,,,Public Health England,,,
+2020-01-17,United Kingdom,Northern Ireland,Derry City and Strabane,1,,,Public Health England,,,
+2020-01-18,United Kingdom,Northern Ireland,Derry City and Strabane,1,,,Public Health England,,,
+2020-01-19,United Kingdom,Northern Ireland,Derry City and Strabane,1,,,Public Health England,,,
+2020-01-20,United Kingdom,Northern Ireland,Derry City and Strabane,1,,,Public Health England,,,
+2020-01-21,United Kingdom,Northern Ireland,Derry City and Strabane,1,,,Public Health England,,,
+2020-01-22,United Kingdom,Northern Ireland,Derry City and Strabane,1,,,Public Health England,,,
+2020-01-23,United Kingdom,Northern Ireland,Derry City and Strabane,1,,,Public Health England,,,
+2020-01-24,United Kingdom,Northern Ireland,Derry City and Strabane,1,,,Public Health England,,,
+2020-01-25,United Kingdom,Northern Ireland,Derry City and Strabane,1,,,Public Health England,,,
+2020-01-26,United Kingdom,Northern Ireland,Derry City and Strabane,1,,,Public Health England,,,
+2020-01-27,United Kingdom,Northern Ireland,Derry City and Strabane,1,,,Public Health England,,,
+2020-01-28,United Kingdom,Northern Ireland,Derry City and Strabane,1,,,Public Health England,,,
+2020-01-29,United Kingdom,Northern Ireland,Derry City and Strabane,1,,,Public Health England,,,
+2020-01-30,United Kingdom,Northern Ireland,Derry City and Strabane,1,,,Public Health England,,,
+2020-01-31,United Kingdom,Northern Ireland,Derry City and Strabane,1,,,Public Health England,,,
 2020-01-16,United Kingdom,Northern Ireland,Newry Mourne and Down,0,,,Public Health England,,,
 2020-01-17,United Kingdom,Northern Ireland,Newry Mourne and Down,0,,,Public Health England,,,
 2020-01-18,United Kingdom,Northern Ireland,Newry Mourne and Down,0,,,Public Health England,,,
@@ -3490,22 +3511,27 @@ Date,Country,State/Province,Admin2,CasesCount,DeathsCount,RecoveryCount,CasesCou
 2020-01-29,United Kingdom,Northern Ireland,Newry Mourne and Down,0,,,Public Health England,,,
 2020-01-30,United Kingdom,Northern Ireland,Newry Mourne and Down,0,,,Public Health England,,,
 2020-01-31,United Kingdom,Northern Ireland,Newry Mourne and Down,0,,,Public Health England,,,
-2020-01-16,United Kingdom,Northern Ireland,TOTAL,0,,,Public Health England,,,
-2020-01-17,United Kingdom,Northern Ireland,TOTAL,0,,,Public Health England,,,
-2020-01-18,United Kingdom,Northern Ireland,TOTAL,0,,,Public Health England,,,
-2020-01-19,United Kingdom,Northern Ireland,TOTAL,0,,,Public Health England,,,
-2020-01-20,United Kingdom,Northern Ireland,TOTAL,0,,,Public Health England,,,
-2020-01-21,United Kingdom,Northern Ireland,TOTAL,0,,,Public Health England,,,
-2020-01-22,United Kingdom,Northern Ireland,TOTAL,0,,,Public Health England,,,
-2020-01-23,United Kingdom,Northern Ireland,TOTAL,0,,,Public Health England,,,
-2020-01-24,United Kingdom,Northern Ireland,TOTAL,0,,,Public Health England,,,
-2020-01-25,United Kingdom,Northern Ireland,TOTAL,0,,,Public Health England,,,
-2020-01-26,United Kingdom,Northern Ireland,TOTAL,0,,,Public Health England,,,
-2020-01-27,United Kingdom,Northern Ireland,TOTAL,0,,,Public Health England,,,
-2020-01-28,United Kingdom,Northern Ireland,TOTAL,0,,,Public Health England,,,
-2020-01-29,United Kingdom,Northern Ireland,TOTAL,0,,,Public Health England,,,
-2020-01-30,United Kingdom,Northern Ireland,TOTAL,0,,,Public Health England,,,
-2020-01-31,United Kingdom,Northern Ireland,TOTAL,0,,,Public Health England,,,
+2020-01-11,United Kingdom,Northern Ireland,TOTAL,1,,,Public Health England,,,
+2020-01-12,United Kingdom,Northern Ireland,TOTAL,1,,,Public Health England,,,
+2020-01-13,United Kingdom,Northern Ireland,TOTAL,1,,,Public Health England,,,
+2020-01-14,United Kingdom,Northern Ireland,TOTAL,1,,,Public Health England,,,
+2020-01-15,United Kingdom,Northern Ireland,TOTAL,1,,,Public Health England,,,
+2020-01-16,United Kingdom,Northern Ireland,TOTAL,1,,,Public Health England,,,
+2020-01-17,United Kingdom,Northern Ireland,TOTAL,1,,,Public Health England,,,
+2020-01-18,United Kingdom,Northern Ireland,TOTAL,1,,,Public Health England,,,
+2020-01-19,United Kingdom,Northern Ireland,TOTAL,1,,,Public Health England,,,
+2020-01-20,United Kingdom,Northern Ireland,TOTAL,1,,,Public Health England,,,
+2020-01-21,United Kingdom,Northern Ireland,TOTAL,1,,,Public Health England,,,
+2020-01-22,United Kingdom,Northern Ireland,TOTAL,1,,,Public Health England,,,
+2020-01-23,United Kingdom,Northern Ireland,TOTAL,1,,,Public Health England,,,
+2020-01-24,United Kingdom,Northern Ireland,TOTAL,1,,,Public Health England,,,
+2020-01-25,United Kingdom,Northern Ireland,TOTAL,1,,,Public Health England,,,
+2020-01-26,United Kingdom,Northern Ireland,TOTAL,1,,,Public Health England,,,
+2020-01-27,United Kingdom,Northern Ireland,TOTAL,1,,,Public Health England,,,
+2020-01-28,United Kingdom,Northern Ireland,TOTAL,1,,,Public Health England,,,
+2020-01-29,United Kingdom,Northern Ireland,TOTAL,1,,,Public Health England,,,
+2020-01-30,United Kingdom,Northern Ireland,TOTAL,1,,,Public Health England,,,
+2020-01-31,United Kingdom,Northern Ireland,TOTAL,1,,,Public Health England,,,
 2020-01-01,United Kingdom,TOTAL,,0,0,,ECDC,ECDC,,67530161
 2020-01-02,United Kingdom,TOTAL,,0,0,,ECDC,ECDC,,67530161
 2020-01-03,United Kingdom,TOTAL,,0,0,,ECDC,ECDC,,67530161
@@ -3516,25 +3542,25 @@ Date,Country,State/Province,Admin2,CasesCount,DeathsCount,RecoveryCount,CasesCou
 2020-01-08,United Kingdom,TOTAL,,0,0,,ECDC,ECDC,,67530161
 2020-01-09,United Kingdom,TOTAL,,0,0,,ECDC,ECDC,,67530161
 2020-01-10,United Kingdom,TOTAL,,0,0,,ECDC,ECDC,,67530161
-2020-01-11,United Kingdom,TOTAL,,0,0,,ECDC,ECDC,,67530161
-2020-01-12,United Kingdom,TOTAL,,0,0,,ECDC,ECDC,,67530161
-2020-01-13,United Kingdom,TOTAL,,0,0,,ECDC,ECDC,,67530161
-2020-01-14,United Kingdom,TOTAL,,0,0,,ECDC,ECDC,,67530161
-2020-01-15,United Kingdom,TOTAL,,0,0,,ECDC,ECDC,,67530161
-2020-01-16,United Kingdom,TOTAL,,0,0,,ECDC,ECDC,,67530161
-2020-01-17,United Kingdom,TOTAL,,0,0,,ECDC,ECDC,,67530161
-2020-01-18,United Kingdom,TOTAL,,0,0,,ECDC,ECDC,,67530161
-2020-01-19,United Kingdom,TOTAL,,0,0,,ECDC,ECDC,,67530161
-2020-01-20,United Kingdom,TOTAL,,0,0,,ECDC,ECDC,,67530161
-2020-01-21,United Kingdom,TOTAL,,0,0,,ECDC,ECDC,,67530161
-2020-01-22,United Kingdom,TOTAL,,0,0,,ECDC,ECDC,,67530161
-2020-01-23,United Kingdom,TOTAL,,0,0,,ECDC,ECDC,,67530161
-2020-01-24,United Kingdom,TOTAL,,0,0,,ECDC,ECDC,,67530161
-2020-01-25,United Kingdom,TOTAL,,0,0,,ECDC,ECDC,,67530161
-2020-01-26,United Kingdom,TOTAL,,0,0,,ECDC,ECDC,,67530161
-2020-01-27,United Kingdom,TOTAL,,0,0,,ECDC,ECDC,,67530161
-2020-01-28,United Kingdom,TOTAL,,0,0,,ECDC,ECDC,,67530161
-2020-01-29,United Kingdom,TOTAL,,0,0,,ECDC,ECDC,,67530161
+2020-01-11,United Kingdom,TOTAL,,1,0,,Public Health England,ECDC,,67530161
+2020-01-12,United Kingdom,TOTAL,,1,0,,Public Health England,ECDC,,67530161
+2020-01-13,United Kingdom,TOTAL,,1,0,,Public Health England,ECDC,,67530161
+2020-01-14,United Kingdom,TOTAL,,1,0,,Public Health England,ECDC,,67530161
+2020-01-15,United Kingdom,TOTAL,,1,0,,Public Health England,ECDC,,67530161
+2020-01-16,United Kingdom,TOTAL,,1,0,,Public Health England,ECDC,,67530161
+2020-01-17,United Kingdom,TOTAL,,1,0,,Public Health England,ECDC,,67530161
+2020-01-18,United Kingdom,TOTAL,,1,0,,Public Health England,ECDC,,67530161
+2020-01-19,United Kingdom,TOTAL,,1,0,,Public Health England,ECDC,,67530161
+2020-01-20,United Kingdom,TOTAL,,1,0,,Public Health England,ECDC,,67530161
+2020-01-21,United Kingdom,TOTAL,,1,0,,Public Health England,ECDC,,67530161
+2020-01-22,United Kingdom,TOTAL,,1,0,,Public Health England,ECDC,,67530161
+2020-01-23,United Kingdom,TOTAL,,1,0,,Public Health England,ECDC,,67530161
+2020-01-24,United Kingdom,TOTAL,,1,0,,Public Health England,ECDC,,67530161
+2020-01-25,United Kingdom,TOTAL,,1,0,,Public Health England,ECDC,,67530161
+2020-01-26,United Kingdom,TOTAL,,1,0,,Public Health England,ECDC,,67530161
+2020-01-27,United Kingdom,TOTAL,,1,0,,Public Health England,ECDC,,67530161
+2020-01-28,United Kingdom,TOTAL,,1,0,,Public Health England,ECDC,,67530161
+2020-01-29,United Kingdom,TOTAL,,1,0,,Public Health England,ECDC,,67530161
 2020-01-30,United Kingdom,TOTAL,,2,0,,Public Health England,ECDC,,67530161
 2020-01-31,United Kingdom,TOTAL,,2,0,,Public Health England,ECDC,,67530161
 2020-01-22,United States,Alabama,Autauga County,0,0,,USAFacts,USAFacts,,55601
