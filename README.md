@@ -2,17 +2,23 @@
 
 Visier is committed to helping organizations react, respond, and recover from the COVID-19 pandemic. To assist with data-driven decisions for crisis management and workforce planning, Visier is providing curated COVID-19 data and analytic content to customers included with Visier People®️, the market leading solution for workforce planning and analysis. Visier is also making this data available to all organizations under a creative commons license.
 
-The Visier COVID-19 case data is an aggregation of COVID-19 data sources which is updated daily until a slower pace is suitable. This unified dataset is curated from public health authorities and best available news sources. Where possible, the data has location granularity below the national level. For more information on the data sources used, see the
- [Visier COVID-19 data sources](https://www.visier.com/covid-19/sources/).
+The Visier COVID-19 data comprises case and vaccination data. The case data is a consolidation of the most recent numbers from COVID-19 data sources that we update at least weekly. This unified dataset is curated from public health authorities and best available news sources. Where possible, the data has location granularity below the national level. The vaccination data is created in a similar way but has less spatial coverage. For more information on data sources and consolidation process, see [Visier COVID-19 data sources](https://www.visier.com/covid-19/sources/).
 
 ## Description
-The Visier COVID-19 case data includes the following content. Please see [here](https://www.visier.com/covid-19) for more details.
+The Visier COVID-19 case and vaccination data includes the following content. Please see [here](https://www.visier.com/covid-19) for more details.
 
-| | Description |
+| | Case data description |
 | :---: | --- |
 | **Sources** | A consolidation by Visier from primary and secondary sources. For a description of the consolidation process and details of the sources see [Visier COVID-19 data sources](https://www.visier.com/covid-19/sources/). |
 | **Measures** | Cases, Deaths, and Recoveries. |
 | **Coverage and granularity** | Supported locations include over 200 countries, 250 sub-national regions, and 3,200 smaller regions like counties. Coverage includes US states and their counties, states of Germany and India, regions of Italy, public health regions in England and countries in the United Kingdom, prefectures of Japan, and provinces of Canada, China, Spain, and South Africa. Some measures are not available for smaller areas like counties. |
+
+| | Vaccination data data description |
+| :---: | --- |
+| **Sources** | A consolidation of vaccination data by Visier from primary and secondary sources. For a description of the consolidation process and details of the sources see [Visier COVID-19 data sources](https://www.visier.com/covid-19/sources/). |
+| **Measures** | Doses given and patients vaccinated |
+| **Coverage and granularity** | Supported locations include over 40 countries and 65 sub-national regions comprising US States, countries in the United Kingdom, and provinces of Canada. |
+
 
 ### Files
 This repository includes this read me, license, and metadata files. To avoid size limits the data is found in files by month.
