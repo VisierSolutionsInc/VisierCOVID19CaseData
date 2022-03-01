@@ -340,10 +340,125 @@ Date,Country,State/Province,Admin2,CasesCount,DeathsCount,RecoveryCount,TotalDos
 2020-01-29,Cambodia,TOTAL,,1,0,0,,,,ECDC,ECDC,DXY,,,,16486542
 2020-01-30,Cambodia,TOTAL,,1,0,0,,,,ECDC,ECDC,DXY,,,,16486542
 2020-01-31,Cambodia,TOTAL,,1,0,0,,,,ECDC,ECDC,DXY,,,,16486542
+2020-01-25,Canada,Alberta,TOTAL,0,,,,,,Covid19Canada,,,,,,4395586
+2020-01-26,Canada,Alberta,TOTAL,0,,,,,,Covid19Canada,,,,,,4395586
+2020-01-27,Canada,Alberta,TOTAL,0,,,,,,Covid19Canada,,,,,,4395586
+2020-01-28,Canada,Alberta,TOTAL,0,,,,,,Covid19Canada,,,,,,4395586
+2020-01-29,Canada,Alberta,TOTAL,0,,,,,,Covid19Canada,,,,,,4395586
+2020-01-30,Canada,Alberta,TOTAL,0,,,,,,Covid19Canada,,,,,,4395586
+2020-01-31,Canada,Alberta,TOTAL,0,,,,,,Covid19Canada,,,,,,4395586
+2020-01-25,Canada,British Columbia,TOTAL,0,,,,,,Covid19Canada,,,,,,5105576
+2020-01-26,Canada,British Columbia,TOTAL,0,,,,,,Covid19Canada,,,,,,5105576
+2020-01-27,Canada,British Columbia,TOTAL,0,,,,,,Covid19Canada,,,,,,5105576
 2020-01-28,Canada,British Columbia,TOTAL,1,,,,,,Covid19Canada,,,,,,5105576
 2020-01-29,Canada,British Columbia,TOTAL,1,,,,,,Covid19Canada,,,,,,5105576
 2020-01-30,Canada,British Columbia,TOTAL,1,,,,,,Covid19Canada,,,,,,5105576
 2020-01-31,Canada,British Columbia,TOTAL,1,,,,,,Covid19Canada,,,,,,5105576
+2020-01-25,Canada,Manitoba,TOTAL,0,,,,,,Covid19Canada,,,,,,1373859
+2020-01-26,Canada,Manitoba,TOTAL,0,,,,,,Covid19Canada,,,,,,1373859
+2020-01-27,Canada,Manitoba,TOTAL,0,,,,,,Covid19Canada,,,,,,1373859
+2020-01-28,Canada,Manitoba,TOTAL,0,,,,,,Covid19Canada,,,,,,1373859
+2020-01-29,Canada,Manitoba,TOTAL,0,,,,,,Covid19Canada,,,,,,1373859
+2020-01-30,Canada,Manitoba,TOTAL,0,,,,,,Covid19Canada,,,,,,1373859
+2020-01-31,Canada,Manitoba,TOTAL,0,,,,,,Covid19Canada,,,,,,1373859
+2020-01-25,Canada,New Brunswick/Nouveau-Brunswick,TOTAL,0,,,,,,Covid19Canada,,,,,,780021
+2020-01-26,Canada,New Brunswick/Nouveau-Brunswick,TOTAL,0,,,,,,Covid19Canada,,,,,,780021
+2020-01-27,Canada,New Brunswick/Nouveau-Brunswick,TOTAL,0,,,,,,Covid19Canada,,,,,,780021
+2020-01-28,Canada,New Brunswick/Nouveau-Brunswick,TOTAL,0,,,,,,Covid19Canada,,,,,,780021
+2020-01-29,Canada,New Brunswick/Nouveau-Brunswick,TOTAL,0,,,,,,Covid19Canada,,,,,,780021
+2020-01-30,Canada,New Brunswick/Nouveau-Brunswick,TOTAL,0,,,,,,Covid19Canada,,,,,,780021
+2020-01-31,Canada,New Brunswick/Nouveau-Brunswick,TOTAL,0,,,,,,Covid19Canada,,,,,,780021
+2020-01-25,Canada,Newfoundland and Labrador,TOTAL,0,,,,,,Covid19Canada,,,,,,521922
+2020-01-26,Canada,Newfoundland and Labrador,TOTAL,0,,,,,,Covid19Canada,,,,,,521922
+2020-01-27,Canada,Newfoundland and Labrador,TOTAL,0,,,,,,Covid19Canada,,,,,,521922
+2020-01-28,Canada,Newfoundland and Labrador,TOTAL,0,,,,,,Covid19Canada,,,,,,521922
+2020-01-29,Canada,Newfoundland and Labrador,TOTAL,0,,,,,,Covid19Canada,,,,,,521922
+2020-01-30,Canada,Newfoundland and Labrador,TOTAL,0,,,,,,Covid19Canada,,,,,,521922
+2020-01-31,Canada,Newfoundland and Labrador,TOTAL,0,,,,,,Covid19Canada,,,,,,521922
+2020-01-25,Canada,Northwest Territories,TOTAL,0,,,,,,Covid19Canada,,,,,,44895
+2020-01-26,Canada,Northwest Territories,TOTAL,0,,,,,,Covid19Canada,,,,,,44895
+2020-01-27,Canada,Northwest Territories,TOTAL,0,,,,,,Covid19Canada,,,,,,44895
+2020-01-28,Canada,Northwest Territories,TOTAL,0,,,,,,Covid19Canada,,,,,,44895
+2020-01-29,Canada,Northwest Territories,TOTAL,0,,,,,,Covid19Canada,,,,,,44895
+2020-01-30,Canada,Northwest Territories,TOTAL,0,,,,,,Covid19Canada,,,,,,44895
+2020-01-31,Canada,Northwest Territories,TOTAL,0,,,,,,Covid19Canada,,,,,,44895
+2020-01-25,Canada,Nova Scotia,TOTAL,0,,,,,,Covid19Canada,,,,,,976768
+2020-01-26,Canada,Nova Scotia,TOTAL,0,,,,,,Covid19Canada,,,,,,976768
+2020-01-27,Canada,Nova Scotia,TOTAL,0,,,,,,Covid19Canada,,,,,,976768
+2020-01-28,Canada,Nova Scotia,TOTAL,0,,,,,,Covid19Canada,,,,,,976768
+2020-01-29,Canada,Nova Scotia,TOTAL,0,,,,,,Covid19Canada,,,,,,976768
+2020-01-30,Canada,Nova Scotia,TOTAL,0,,,,,,Covid19Canada,,,,,,976768
+2020-01-31,Canada,Nova Scotia,TOTAL,0,,,,,,Covid19Canada,,,,,,976768
+2020-01-25,Canada,Nunavut,TOTAL,0,,,,,,Covid19Canada,,,,,,38873
+2020-01-26,Canada,Nunavut,TOTAL,0,,,,,,Covid19Canada,,,,,,38873
+2020-01-27,Canada,Nunavut,TOTAL,0,,,,,,Covid19Canada,,,,,,38873
+2020-01-28,Canada,Nunavut,TOTAL,0,,,,,,Covid19Canada,,,,,,38873
+2020-01-29,Canada,Nunavut,TOTAL,0,,,,,,Covid19Canada,,,,,,38873
+2020-01-30,Canada,Nunavut,TOTAL,0,,,,,,Covid19Canada,,,,,,38873
+2020-01-31,Canada,Nunavut,TOTAL,0,,,,,,Covid19Canada,,,,,,38873
+2020-01-25,Canada,Ontario,Algoma,0,,,,,,Covid19Canada,,,,,,
+2020-01-26,Canada,Ontario,Algoma,0,,,,,,Covid19Canada,,,,,,
+2020-01-27,Canada,Ontario,Algoma,0,,,,,,Covid19Canada,,,,,,
+2020-01-28,Canada,Ontario,Algoma,0,,,,,,Covid19Canada,,,,,,
+2020-01-29,Canada,Ontario,Algoma,0,,,,,,Covid19Canada,,,,,,
+2020-01-30,Canada,Ontario,Algoma,0,,,,,,Covid19Canada,,,,,,
+2020-01-31,Canada,Ontario,Algoma,0,,,,,,Covid19Canada,,,,,,
+2020-01-25,Canada,Ontario,Brant,0,,,,,,Covid19Canada,,,,,,
+2020-01-26,Canada,Ontario,Brant,0,,,,,,Covid19Canada,,,,,,
+2020-01-27,Canada,Ontario,Brant,0,,,,,,Covid19Canada,,,,,,
+2020-01-28,Canada,Ontario,Brant,0,,,,,,Covid19Canada,,,,,,
+2020-01-29,Canada,Ontario,Brant,0,,,,,,Covid19Canada,,,,,,
+2020-01-30,Canada,Ontario,Brant,0,,,,,,Covid19Canada,,,,,,
+2020-01-31,Canada,Ontario,Brant,0,,,,,,Covid19Canada,,,,,,
+2020-01-25,Canada,Ontario,Durham,0,,,,,,Covid19Canada,,,,,,
+2020-01-26,Canada,Ontario,Durham,0,,,,,,Covid19Canada,,,,,,
+2020-01-27,Canada,Ontario,Durham,0,,,,,,Covid19Canada,,,,,,
+2020-01-28,Canada,Ontario,Durham,0,,,,,,Covid19Canada,,,,,,
+2020-01-29,Canada,Ontario,Durham,0,,,,,,Covid19Canada,,,,,,
+2020-01-30,Canada,Ontario,Durham,0,,,,,,Covid19Canada,,,,,,
+2020-01-31,Canada,Ontario,Durham,0,,,,,,Covid19Canada,,,,,,
+2020-01-25,Canada,Ontario,Halton,0,,,,,,Covid19Canada,,,,,,
+2020-01-26,Canada,Ontario,Halton,0,,,,,,Covid19Canada,,,,,,
+2020-01-27,Canada,Ontario,Halton,0,,,,,,Covid19Canada,,,,,,
+2020-01-28,Canada,Ontario,Halton,0,,,,,,Covid19Canada,,,,,,
+2020-01-29,Canada,Ontario,Halton,0,,,,,,Covid19Canada,,,,,,
+2020-01-30,Canada,Ontario,Halton,0,,,,,,Covid19Canada,,,,,,
+2020-01-31,Canada,Ontario,Halton,0,,,,,,Covid19Canada,,,,,,
+2020-01-25,Canada,Ontario,Hamilton,0,,,,,,Covid19Canada,,,,,,
+2020-01-26,Canada,Ontario,Hamilton,0,,,,,,Covid19Canada,,,,,,
+2020-01-27,Canada,Ontario,Hamilton,0,,,,,,Covid19Canada,,,,,,
+2020-01-28,Canada,Ontario,Hamilton,0,,,,,,Covid19Canada,,,,,,
+2020-01-29,Canada,Ontario,Hamilton,0,,,,,,Covid19Canada,,,,,,
+2020-01-30,Canada,Ontario,Hamilton,0,,,,,,Covid19Canada,,,,,,
+2020-01-31,Canada,Ontario,Hamilton,0,,,,,,Covid19Canada,,,,,,
+2020-01-25,Canada,Ontario,Ottawa,0,,,,,,Covid19Canada,,,,,,
+2020-01-26,Canada,Ontario,Ottawa,0,,,,,,Covid19Canada,,,,,,
+2020-01-27,Canada,Ontario,Ottawa,0,,,,,,Covid19Canada,,,,,,
+2020-01-28,Canada,Ontario,Ottawa,0,,,,,,Covid19Canada,,,,,,
+2020-01-29,Canada,Ontario,Ottawa,0,,,,,,Covid19Canada,,,,,,
+2020-01-30,Canada,Ontario,Ottawa,0,,,,,,Covid19Canada,,,,,,
+2020-01-31,Canada,Ontario,Ottawa,0,,,,,,Covid19Canada,,,,,,
+2020-01-25,Canada,Ontario,Peel,0,,,,,,Covid19Canada,,,,,,
+2020-01-26,Canada,Ontario,Peel,0,,,,,,Covid19Canada,,,,,,
+2020-01-27,Canada,Ontario,Peel,0,,,,,,Covid19Canada,,,,,,
+2020-01-28,Canada,Ontario,Peel,0,,,,,,Covid19Canada,,,,,,
+2020-01-29,Canada,Ontario,Peel,0,,,,,,Covid19Canada,,,,,,
+2020-01-30,Canada,Ontario,Peel,0,,,,,,Covid19Canada,,,,,,
+2020-01-31,Canada,Ontario,Peel,0,,,,,,Covid19Canada,,,,,,
+2020-01-25,Canada,Ontario,Regional Municipality of Niagara,0,,,,,,Covid19Canada,,,,,,
+2020-01-26,Canada,Ontario,Regional Municipality of Niagara,0,,,,,,Covid19Canada,,,,,,
+2020-01-27,Canada,Ontario,Regional Municipality of Niagara,0,,,,,,Covid19Canada,,,,,,
+2020-01-28,Canada,Ontario,Regional Municipality of Niagara,0,,,,,,Covid19Canada,,,,,,
+2020-01-29,Canada,Ontario,Regional Municipality of Niagara,0,,,,,,Covid19Canada,,,,,,
+2020-01-30,Canada,Ontario,Regional Municipality of Niagara,0,,,,,,Covid19Canada,,,,,,
+2020-01-31,Canada,Ontario,Regional Municipality of Niagara,0,,,,,,Covid19Canada,,,,,,
+2020-01-25,Canada,Ontario,Sudbury,0,,,,,,Covid19Canada,,,,,,
+2020-01-26,Canada,Ontario,Sudbury,0,,,,,,Covid19Canada,,,,,,
+2020-01-27,Canada,Ontario,Sudbury,0,,,,,,Covid19Canada,,,,,,
+2020-01-28,Canada,Ontario,Sudbury,0,,,,,,Covid19Canada,,,,,,
+2020-01-29,Canada,Ontario,Sudbury,0,,,,,,Covid19Canada,,,,,,
+2020-01-30,Canada,Ontario,Sudbury,0,,,,,,Covid19Canada,,,,,,
+2020-01-31,Canada,Ontario,Sudbury,0,,,,,,Covid19Canada,,,,,,
 2020-01-25,Canada,Ontario,TOTAL,1,,,,,,Covid19Canada,,,,,,14659616
 2020-01-26,Canada,Ontario,TOTAL,1,,,,,,Covid19Canada,,,,,,14659616
 2020-01-27,Canada,Ontario,TOTAL,2,,,,,,Covid19Canada,,,,,,14659616
@@ -351,6 +466,146 @@ Date,Country,State/Province,Admin2,CasesCount,DeathsCount,RecoveryCount,TotalDos
 2020-01-29,Canada,Ontario,TOTAL,2,,,,,,Covid19Canada,,,,,,14659616
 2020-01-30,Canada,Ontario,TOTAL,2,,,,,,Covid19Canada,,,,,,14659616
 2020-01-31,Canada,Ontario,TOTAL,3,,,,,,Covid19Canada,,,,,,14659616
+2020-01-25,Canada,Ontario,Timiskaming District,0,,,,,,Covid19Canada,,,,,,
+2020-01-26,Canada,Ontario,Timiskaming District,0,,,,,,Covid19Canada,,,,,,
+2020-01-27,Canada,Ontario,Timiskaming District,0,,,,,,Covid19Canada,,,,,,
+2020-01-28,Canada,Ontario,Timiskaming District,0,,,,,,Covid19Canada,,,,,,
+2020-01-29,Canada,Ontario,Timiskaming District,0,,,,,,Covid19Canada,,,,,,
+2020-01-30,Canada,Ontario,Timiskaming District,0,,,,,,Covid19Canada,,,,,,
+2020-01-31,Canada,Ontario,Timiskaming District,0,,,,,,Covid19Canada,,,,,,
+2020-01-25,Canada,Ontario,York,0,,,,,,Covid19Canada,,,,,,
+2020-01-26,Canada,Ontario,York,0,,,,,,Covid19Canada,,,,,,
+2020-01-27,Canada,Ontario,York,0,,,,,,Covid19Canada,,,,,,
+2020-01-28,Canada,Ontario,York,0,,,,,,Covid19Canada,,,,,,
+2020-01-29,Canada,Ontario,York,0,,,,,,Covid19Canada,,,,,,
+2020-01-30,Canada,Ontario,York,0,,,,,,Covid19Canada,,,,,,
+2020-01-31,Canada,Ontario,York,0,,,,,,Covid19Canada,,,,,,
+2020-01-25,Canada,Prince Edward Island,TOTAL,0,,,,,,Covid19Canada,,,,,,157901
+2020-01-26,Canada,Prince Edward Island,TOTAL,0,,,,,,Covid19Canada,,,,,,157901
+2020-01-27,Canada,Prince Edward Island,TOTAL,0,,,,,,Covid19Canada,,,,,,157901
+2020-01-28,Canada,Prince Edward Island,TOTAL,0,,,,,,Covid19Canada,,,,,,157901
+2020-01-29,Canada,Prince Edward Island,TOTAL,0,,,,,,Covid19Canada,,,,,,157901
+2020-01-30,Canada,Prince Edward Island,TOTAL,0,,,,,,Covid19Canada,,,,,,157901
+2020-01-31,Canada,Prince Edward Island,TOTAL,0,,,,,,Covid19Canada,,,,,,157901
+2020-01-25,Canada,Québec,Abitibi-Témiscamingue,0,,,,,,Covid19Canada,,,,,,
+2020-01-26,Canada,Québec,Abitibi-Témiscamingue,0,,,,,,Covid19Canada,,,,,,
+2020-01-27,Canada,Québec,Abitibi-Témiscamingue,0,,,,,,Covid19Canada,,,,,,
+2020-01-28,Canada,Québec,Abitibi-Témiscamingue,0,,,,,,Covid19Canada,,,,,,
+2020-01-29,Canada,Québec,Abitibi-Témiscamingue,0,,,,,,Covid19Canada,,,,,,
+2020-01-30,Canada,Québec,Abitibi-Témiscamingue,0,,,,,,Covid19Canada,,,,,,
+2020-01-31,Canada,Québec,Abitibi-Témiscamingue,0,,,,,,Covid19Canada,,,,,,
+2020-01-25,Canada,Québec,Bas-Saint-Laurent,0,,,,,,Covid19Canada,,,,,,
+2020-01-26,Canada,Québec,Bas-Saint-Laurent,0,,,,,,Covid19Canada,,,,,,
+2020-01-27,Canada,Québec,Bas-Saint-Laurent,0,,,,,,Covid19Canada,,,,,,
+2020-01-28,Canada,Québec,Bas-Saint-Laurent,0,,,,,,Covid19Canada,,,,,,
+2020-01-29,Canada,Québec,Bas-Saint-Laurent,0,,,,,,Covid19Canada,,,,,,
+2020-01-30,Canada,Québec,Bas-Saint-Laurent,0,,,,,,Covid19Canada,,,,,,
+2020-01-31,Canada,Québec,Bas-Saint-Laurent,0,,,,,,Covid19Canada,,,,,,
+2020-01-25,Canada,Québec,Capitale-Nationale,0,,,,,,Covid19Canada,,,,,,
+2020-01-26,Canada,Québec,Capitale-Nationale,0,,,,,,Covid19Canada,,,,,,
+2020-01-27,Canada,Québec,Capitale-Nationale,0,,,,,,Covid19Canada,,,,,,
+2020-01-28,Canada,Québec,Capitale-Nationale,0,,,,,,Covid19Canada,,,,,,
+2020-01-29,Canada,Québec,Capitale-Nationale,0,,,,,,Covid19Canada,,,,,,
+2020-01-30,Canada,Québec,Capitale-Nationale,0,,,,,,Covid19Canada,,,,,,
+2020-01-31,Canada,Québec,Capitale-Nationale,0,,,,,,Covid19Canada,,,,,,
+2020-01-25,Canada,Québec,Chaudière-Appalaches,0,,,,,,Covid19Canada,,,,,,
+2020-01-26,Canada,Québec,Chaudière-Appalaches,0,,,,,,Covid19Canada,,,,,,
+2020-01-27,Canada,Québec,Chaudière-Appalaches,0,,,,,,Covid19Canada,,,,,,
+2020-01-28,Canada,Québec,Chaudière-Appalaches,0,,,,,,Covid19Canada,,,,,,
+2020-01-29,Canada,Québec,Chaudière-Appalaches,0,,,,,,Covid19Canada,,,,,,
+2020-01-30,Canada,Québec,Chaudière-Appalaches,0,,,,,,Covid19Canada,,,,,,
+2020-01-31,Canada,Québec,Chaudière-Appalaches,0,,,,,,Covid19Canada,,,,,,
+2020-01-25,Canada,Québec,Côte-Nord,0,,,,,,Covid19Canada,,,,,,
+2020-01-26,Canada,Québec,Côte-Nord,0,,,,,,Covid19Canada,,,,,,
+2020-01-27,Canada,Québec,Côte-Nord,0,,,,,,Covid19Canada,,,,,,
+2020-01-28,Canada,Québec,Côte-Nord,0,,,,,,Covid19Canada,,,,,,
+2020-01-29,Canada,Québec,Côte-Nord,0,,,,,,Covid19Canada,,,,,,
+2020-01-30,Canada,Québec,Côte-Nord,0,,,,,,Covid19Canada,,,,,,
+2020-01-31,Canada,Québec,Côte-Nord,0,,,,,,Covid19Canada,,,,,,
+2020-01-25,Canada,Québec,Estrie,0,,,,,,Covid19Canada,,,,,,
+2020-01-26,Canada,Québec,Estrie,0,,,,,,Covid19Canada,,,,,,
+2020-01-27,Canada,Québec,Estrie,0,,,,,,Covid19Canada,,,,,,
+2020-01-28,Canada,Québec,Estrie,0,,,,,,Covid19Canada,,,,,,
+2020-01-29,Canada,Québec,Estrie,0,,,,,,Covid19Canada,,,,,,
+2020-01-30,Canada,Québec,Estrie,0,,,,,,Covid19Canada,,,,,,
+2020-01-31,Canada,Québec,Estrie,0,,,,,,Covid19Canada,,,,,,
+2020-01-25,Canada,Québec,Gaspésie-Îles-de-la-Madeleine,0,,,,,,Covid19Canada,,,,,,
+2020-01-26,Canada,Québec,Gaspésie-Îles-de-la-Madeleine,0,,,,,,Covid19Canada,,,,,,
+2020-01-27,Canada,Québec,Gaspésie-Îles-de-la-Madeleine,0,,,,,,Covid19Canada,,,,,,
+2020-01-28,Canada,Québec,Gaspésie-Îles-de-la-Madeleine,0,,,,,,Covid19Canada,,,,,,
+2020-01-29,Canada,Québec,Gaspésie-Îles-de-la-Madeleine,0,,,,,,Covid19Canada,,,,,,
+2020-01-30,Canada,Québec,Gaspésie-Îles-de-la-Madeleine,0,,,,,,Covid19Canada,,,,,,
+2020-01-31,Canada,Québec,Gaspésie-Îles-de-la-Madeleine,0,,,,,,Covid19Canada,,,,,,
+2020-01-25,Canada,Québec,Lanaudière,0,,,,,,Covid19Canada,,,,,,
+2020-01-26,Canada,Québec,Lanaudière,0,,,,,,Covid19Canada,,,,,,
+2020-01-27,Canada,Québec,Lanaudière,0,,,,,,Covid19Canada,,,,,,
+2020-01-28,Canada,Québec,Lanaudière,0,,,,,,Covid19Canada,,,,,,
+2020-01-29,Canada,Québec,Lanaudière,0,,,,,,Covid19Canada,,,,,,
+2020-01-30,Canada,Québec,Lanaudière,0,,,,,,Covid19Canada,,,,,,
+2020-01-31,Canada,Québec,Lanaudière,0,,,,,,Covid19Canada,,,,,,
+2020-01-25,Canada,Québec,Laurentides,0,,,,,,Covid19Canada,,,,,,
+2020-01-26,Canada,Québec,Laurentides,0,,,,,,Covid19Canada,,,,,,
+2020-01-27,Canada,Québec,Laurentides,0,,,,,,Covid19Canada,,,,,,
+2020-01-28,Canada,Québec,Laurentides,0,,,,,,Covid19Canada,,,,,,
+2020-01-29,Canada,Québec,Laurentides,0,,,,,,Covid19Canada,,,,,,
+2020-01-30,Canada,Québec,Laurentides,0,,,,,,Covid19Canada,,,,,,
+2020-01-31,Canada,Québec,Laurentides,0,,,,,,Covid19Canada,,,,,,
+2020-01-25,Canada,Québec,Laval,0,,,,,,Covid19Canada,,,,,,
+2020-01-26,Canada,Québec,Laval,0,,,,,,Covid19Canada,,,,,,
+2020-01-27,Canada,Québec,Laval,0,,,,,,Covid19Canada,,,,,,
+2020-01-28,Canada,Québec,Laval,0,,,,,,Covid19Canada,,,,,,
+2020-01-29,Canada,Québec,Laval,0,,,,,,Covid19Canada,,,,,,
+2020-01-30,Canada,Québec,Laval,0,,,,,,Covid19Canada,,,,,,
+2020-01-31,Canada,Québec,Laval,0,,,,,,Covid19Canada,,,,,,
+2020-01-25,Canada,Québec,Mauricie,0,,,,,,Covid19Canada,,,,,,
+2020-01-26,Canada,Québec,Mauricie,0,,,,,,Covid19Canada,,,,,,
+2020-01-27,Canada,Québec,Mauricie,0,,,,,,Covid19Canada,,,,,,
+2020-01-28,Canada,Québec,Mauricie,0,,,,,,Covid19Canada,,,,,,
+2020-01-29,Canada,Québec,Mauricie,0,,,,,,Covid19Canada,,,,,,
+2020-01-30,Canada,Québec,Mauricie,0,,,,,,Covid19Canada,,,,,,
+2020-01-31,Canada,Québec,Mauricie,0,,,,,,Covid19Canada,,,,,,
+2020-01-25,Canada,Québec,Montréal,0,,,,,,Covid19Canada,,,,,,
+2020-01-26,Canada,Québec,Montréal,0,,,,,,Covid19Canada,,,,,,
+2020-01-27,Canada,Québec,Montréal,0,,,,,,Covid19Canada,,,,,,
+2020-01-28,Canada,Québec,Montréal,0,,,,,,Covid19Canada,,,,,,
+2020-01-29,Canada,Québec,Montréal,0,,,,,,Covid19Canada,,,,,,
+2020-01-30,Canada,Québec,Montréal,0,,,,,,Covid19Canada,,,,,,
+2020-01-31,Canada,Québec,Montréal,0,,,,,,Covid19Canada,,,,,,
+2020-01-25,Canada,Québec,Montérégie,0,,,,,,Covid19Canada,,,,,,
+2020-01-26,Canada,Québec,Montérégie,0,,,,,,Covid19Canada,,,,,,
+2020-01-27,Canada,Québec,Montérégie,0,,,,,,Covid19Canada,,,,,,
+2020-01-28,Canada,Québec,Montérégie,0,,,,,,Covid19Canada,,,,,,
+2020-01-29,Canada,Québec,Montérégie,0,,,,,,Covid19Canada,,,,,,
+2020-01-30,Canada,Québec,Montérégie,0,,,,,,Covid19Canada,,,,,,
+2020-01-31,Canada,Québec,Montérégie,0,,,,,,Covid19Canada,,,,,,
+2020-01-25,Canada,Québec,Nord-du-Québec,0,,,,,,Covid19Canada,,,,,,
+2020-01-26,Canada,Québec,Nord-du-Québec,0,,,,,,Covid19Canada,,,,,,
+2020-01-27,Canada,Québec,Nord-du-Québec,0,,,,,,Covid19Canada,,,,,,
+2020-01-28,Canada,Québec,Nord-du-Québec,0,,,,,,Covid19Canada,,,,,,
+2020-01-29,Canada,Québec,Nord-du-Québec,0,,,,,,Covid19Canada,,,,,,
+2020-01-30,Canada,Québec,Nord-du-Québec,0,,,,,,Covid19Canada,,,,,,
+2020-01-31,Canada,Québec,Nord-du-Québec,0,,,,,,Covid19Canada,,,,,,
+2020-01-25,Canada,Québec,Outaouais,0,,,,,,Covid19Canada,,,,,,
+2020-01-26,Canada,Québec,Outaouais,0,,,,,,Covid19Canada,,,,,,
+2020-01-27,Canada,Québec,Outaouais,0,,,,,,Covid19Canada,,,,,,
+2020-01-28,Canada,Québec,Outaouais,0,,,,,,Covid19Canada,,,,,,
+2020-01-29,Canada,Québec,Outaouais,0,,,,,,Covid19Canada,,,,,,
+2020-01-30,Canada,Québec,Outaouais,0,,,,,,Covid19Canada,,,,,,
+2020-01-31,Canada,Québec,Outaouais,0,,,,,,Covid19Canada,,,,,,
+2020-01-25,Canada,Québec,TOTAL,0,,,,,,Covid19Canada,,,,,,8522800
+2020-01-26,Canada,Québec,TOTAL,0,,,,,,Covid19Canada,,,,,,8522800
+2020-01-27,Canada,Québec,TOTAL,0,,,,,,Covid19Canada,,,,,,8522800
+2020-01-28,Canada,Québec,TOTAL,0,,,,,,Covid19Canada,,,,,,8522800
+2020-01-29,Canada,Québec,TOTAL,0,,,,,,Covid19Canada,,,,,,8522800
+2020-01-30,Canada,Québec,TOTAL,0,,,,,,Covid19Canada,,,,,,8522800
+2020-01-31,Canada,Québec,TOTAL,0,,,,,,Covid19Canada,,,,,,8522800
+2020-01-25,Canada,Saskatchewan,TOTAL,0,,,,,,Covid19Canada,,,,,,1178657
+2020-01-26,Canada,Saskatchewan,TOTAL,0,,,,,,Covid19Canada,,,,,,1178657
+2020-01-27,Canada,Saskatchewan,TOTAL,0,,,,,,Covid19Canada,,,,,,1178657
+2020-01-28,Canada,Saskatchewan,TOTAL,0,,,,,,Covid19Canada,,,,,,1178657
+2020-01-29,Canada,Saskatchewan,TOTAL,0,,,,,,Covid19Canada,,,,,,1178657
+2020-01-30,Canada,Saskatchewan,TOTAL,0,,,,,,Covid19Canada,,,,,,1178657
+2020-01-31,Canada,Saskatchewan,TOTAL,0,,,,,,Covid19Canada,,,,,,1178657
 2020-01-01,Canada,TOTAL,,0,0,,,,,ECDC,ECDC,,,,,37797496
 2020-01-02,Canada,TOTAL,,0,0,,,,,ECDC,ECDC,,,,,37797496
 2020-01-03,Canada,TOTAL,,0,0,,,,,ECDC,ECDC,,,,,37797496
@@ -382,6 +637,13 @@ Date,Country,State/Province,Admin2,CasesCount,DeathsCount,RecoveryCount,TotalDos
 2020-01-29,Canada,TOTAL,,3,0,0,,,,ECDC,ECDC,DXY,,,,37797496
 2020-01-30,Canada,TOTAL,,3,0,0,,,,ECDC,ECDC,DXY,,,,37797496
 2020-01-31,Canada,TOTAL,,3,0,0,,,,ECDC,ECDC,DXY,,,,37797496
+2020-01-25,Canada,Yukon,TOTAL,0,,,,,,Covid19Canada,,,,,,41022
+2020-01-26,Canada,Yukon,TOTAL,0,,,,,,Covid19Canada,,,,,,41022
+2020-01-27,Canada,Yukon,TOTAL,0,,,,,,Covid19Canada,,,,,,41022
+2020-01-28,Canada,Yukon,TOTAL,0,,,,,,Covid19Canada,,,,,,41022
+2020-01-29,Canada,Yukon,TOTAL,0,,,,,,Covid19Canada,,,,,,41022
+2020-01-30,Canada,Yukon,TOTAL,0,,,,,,Covid19Canada,,,,,,41022
+2020-01-31,Canada,Yukon,TOTAL,0,,,,,,Covid19Canada,,,,,,41022
 2020-01-22,China,Anhui Sheng,TOTAL,9,0,0,,,,DXY,DXY,DXY,,,,63240000
 2020-01-23,China,Anhui Sheng,TOTAL,15,0,0,,,,DXY,DXY,DXY,,,,63240000
 2020-01-24,China,Anhui Sheng,TOTAL,39,0,0,,,,DXY,DXY,DXY,,,,63240000
@@ -1045,41 +1307,113 @@ Date,Country,State/Province,Admin2,CasesCount,DeathsCount,RecoveryCount,TotalDos
 2020-01-29,Georgia,TOTAL,,0,0,,,,,ECDC,ECDC,,,,,3996762
 2020-01-30,Georgia,TOTAL,,0,0,,,,,ECDC,ECDC,,,,,3996762
 2020-01-31,Georgia,TOTAL,,0,0,,,,,ECDC,ECDC,,,,,3996762
+2020-01-20,Germany,Baden-Württemberg Region,TOTAL,1,0,,,,,Robert Koch Institut,Robert Koch Institut,,,,,
+2020-01-21,Germany,Baden-Württemberg Region,TOTAL,1,0,,,,,Robert Koch Institut,Robert Koch Institut,,,,,
+2020-01-22,Germany,Baden-Württemberg Region,TOTAL,1,0,,,,,Robert Koch Institut,Robert Koch Institut,,,,,
+2020-01-23,Germany,Baden-Württemberg Region,TOTAL,1,0,,,,,Robert Koch Institut,Robert Koch Institut,,,,,
+2020-01-24,Germany,Baden-Württemberg Region,TOTAL,1,0,,,,,Robert Koch Institut,Robert Koch Institut,,,,,
+2020-01-25,Germany,Baden-Württemberg Region,TOTAL,1,0,,,,,Robert Koch Institut,Robert Koch Institut,,,,,
+2020-01-26,Germany,Baden-Württemberg Region,TOTAL,1,0,,,,,Robert Koch Institut,Robert Koch Institut,,,,,
+2020-01-27,Germany,Baden-Württemberg Region,TOTAL,1,0,,,,,Robert Koch Institut,Robert Koch Institut,,,,,
+2020-01-28,Germany,Baden-Württemberg Region,TOTAL,1,0,,,,,Robert Koch Institut,Robert Koch Institut,,,,,
+2020-01-29,Germany,Baden-Württemberg Region,TOTAL,1,0,,,,,Robert Koch Institut,Robert Koch Institut,,,,,
+2020-01-30,Germany,Baden-Württemberg Region,TOTAL,1,0,,,,,Robert Koch Institut,Robert Koch Institut,,,,,
+2020-01-31,Germany,Baden-Württemberg Region,TOTAL,1,0,,,,,Robert Koch Institut,Robert Koch Institut,,,,,
+2020-01-10,Germany,Bavaria,TOTAL,1,0,,,,,Robert Koch Institut,Robert Koch Institut,,,,,
+2020-01-11,Germany,Bavaria,TOTAL,1,0,,,,,Robert Koch Institut,Robert Koch Institut,,,,,
+2020-01-12,Germany,Bavaria,TOTAL,1,0,,,,,Robert Koch Institut,Robert Koch Institut,,,,,
+2020-01-13,Germany,Bavaria,TOTAL,1,0,,,,,Robert Koch Institut,Robert Koch Institut,,,,,
+2020-01-14,Germany,Bavaria,TOTAL,1,0,,,,,Robert Koch Institut,Robert Koch Institut,,,,,
+2020-01-15,Germany,Bavaria,TOTAL,1,0,,,,,Robert Koch Institut,Robert Koch Institut,,,,,
+2020-01-16,Germany,Bavaria,TOTAL,1,0,,,,,Robert Koch Institut,Robert Koch Institut,,,,,
+2020-01-17,Germany,Bavaria,TOTAL,1,0,,,,,Robert Koch Institut,Robert Koch Institut,,,,,
+2020-01-18,Germany,Bavaria,TOTAL,1,0,,,,,Robert Koch Institut,Robert Koch Institut,,,,,
+2020-01-19,Germany,Bavaria,TOTAL,1,0,,,,,Robert Koch Institut,Robert Koch Institut,,,,,
+2020-01-20,Germany,Bavaria,TOTAL,1,0,,,,,Robert Koch Institut,Robert Koch Institut,,,,,
+2020-01-21,Germany,Bavaria,TOTAL,1,0,,,,,Robert Koch Institut,Robert Koch Institut,,,,,
+2020-01-22,Germany,Bavaria,TOTAL,1,0,,,,,Robert Koch Institut,Robert Koch Institut,,,,,
+2020-01-23,Germany,Bavaria,TOTAL,1,0,,,,,Robert Koch Institut,Robert Koch Institut,,,,,
+2020-01-24,Germany,Bavaria,TOTAL,1,0,,,,,Robert Koch Institut,Robert Koch Institut,,,,,
+2020-01-25,Germany,Bavaria,TOTAL,1,0,,,,,Robert Koch Institut,Robert Koch Institut,,,,,
+2020-01-26,Germany,Bavaria,TOTAL,1,0,,,,,Robert Koch Institut,Robert Koch Institut,,,,,
+2020-01-27,Germany,Bavaria,TOTAL,1,0,,,,,Robert Koch Institut,Robert Koch Institut,,,,,
 2020-01-28,Germany,Bavaria,TOTAL,2,0,,,,,Robert Koch Institut,Robert Koch Institut,,,,,
 2020-01-29,Germany,Bavaria,TOTAL,4,0,,,,,Robert Koch Institut,Robert Koch Institut,,,,,
 2020-01-30,Germany,Bavaria,TOTAL,4,0,,,,,Robert Koch Institut,Robert Koch Institut,,,,,
-2020-01-31,Germany,Bavaria,TOTAL,7,0,,,,,Robert Koch Institut,Robert Koch Institut,,,,,
+2020-01-31,Germany,Bavaria,TOTAL,8,0,,,,,Robert Koch Institut,Robert Koch Institut,,,,,
+2020-01-02,Germany,Nordrhein-Westfalen,TOTAL,1,0,,,,,Robert Koch Institut,Robert Koch Institut,,,,,
+2020-01-03,Germany,Nordrhein-Westfalen,TOTAL,1,0,,,,,Robert Koch Institut,Robert Koch Institut,,,,,
+2020-01-04,Germany,Nordrhein-Westfalen,TOTAL,1,0,,,,,Robert Koch Institut,Robert Koch Institut,,,,,
+2020-01-05,Germany,Nordrhein-Westfalen,TOTAL,1,0,,,,,Robert Koch Institut,Robert Koch Institut,,,,,
+2020-01-06,Germany,Nordrhein-Westfalen,TOTAL,1,0,,,,,Robert Koch Institut,Robert Koch Institut,,,,,
+2020-01-07,Germany,Nordrhein-Westfalen,TOTAL,1,0,,,,,Robert Koch Institut,Robert Koch Institut,,,,,
+2020-01-08,Germany,Nordrhein-Westfalen,TOTAL,1,0,,,,,Robert Koch Institut,Robert Koch Institut,,,,,
+2020-01-09,Germany,Nordrhein-Westfalen,TOTAL,1,0,,,,,Robert Koch Institut,Robert Koch Institut,,,,,
+2020-01-10,Germany,Nordrhein-Westfalen,TOTAL,1,0,,,,,Robert Koch Institut,Robert Koch Institut,,,,,
+2020-01-11,Germany,Nordrhein-Westfalen,TOTAL,1,0,,,,,Robert Koch Institut,Robert Koch Institut,,,,,
+2020-01-12,Germany,Nordrhein-Westfalen,TOTAL,1,0,,,,,Robert Koch Institut,Robert Koch Institut,,,,,
+2020-01-13,Germany,Nordrhein-Westfalen,TOTAL,1,0,,,,,Robert Koch Institut,Robert Koch Institut,,,,,
+2020-01-14,Germany,Nordrhein-Westfalen,TOTAL,1,0,,,,,Robert Koch Institut,Robert Koch Institut,,,,,
+2020-01-15,Germany,Nordrhein-Westfalen,TOTAL,2,0,,,,,Robert Koch Institut,Robert Koch Institut,,,,,
+2020-01-16,Germany,Nordrhein-Westfalen,TOTAL,2,0,,,,,Robert Koch Institut,Robert Koch Institut,,,,,
+2020-01-17,Germany,Nordrhein-Westfalen,TOTAL,2,0,,,,,Robert Koch Institut,Robert Koch Institut,,,,,
+2020-01-18,Germany,Nordrhein-Westfalen,TOTAL,2,0,,,,,Robert Koch Institut,Robert Koch Institut,,,,,
+2020-01-19,Germany,Nordrhein-Westfalen,TOTAL,2,0,,,,,Robert Koch Institut,Robert Koch Institut,,,,,
+2020-01-20,Germany,Nordrhein-Westfalen,TOTAL,2,0,,,,,Robert Koch Institut,Robert Koch Institut,,,,,
+2020-01-21,Germany,Nordrhein-Westfalen,TOTAL,2,0,,,,,Robert Koch Institut,Robert Koch Institut,,,,,
+2020-01-22,Germany,Nordrhein-Westfalen,TOTAL,2,0,,,,,Robert Koch Institut,Robert Koch Institut,,,,,
+2020-01-23,Germany,Nordrhein-Westfalen,TOTAL,2,0,,,,,Robert Koch Institut,Robert Koch Institut,,,,,
+2020-01-24,Germany,Nordrhein-Westfalen,TOTAL,2,0,,,,,Robert Koch Institut,Robert Koch Institut,,,,,
+2020-01-25,Germany,Nordrhein-Westfalen,TOTAL,2,0,,,,,Robert Koch Institut,Robert Koch Institut,,,,,
+2020-01-26,Germany,Nordrhein-Westfalen,TOTAL,2,0,,,,,Robert Koch Institut,Robert Koch Institut,,,,,
+2020-01-27,Germany,Nordrhein-Westfalen,TOTAL,2,0,,,,,Robert Koch Institut,Robert Koch Institut,,,,,
+2020-01-28,Germany,Nordrhein-Westfalen,TOTAL,2,0,,,,,Robert Koch Institut,Robert Koch Institut,,,,,
+2020-01-29,Germany,Nordrhein-Westfalen,TOTAL,2,0,,,,,Robert Koch Institut,Robert Koch Institut,,,,,
+2020-01-30,Germany,Nordrhein-Westfalen,TOTAL,2,0,,,,,Robert Koch Institut,Robert Koch Institut,,,,,
+2020-01-31,Germany,Nordrhein-Westfalen,TOTAL,2,0,,,,,Robert Koch Institut,Robert Koch Institut,,,,,
+2020-01-23,Germany,Saarland,TOTAL,1,0,,,,,Robert Koch Institut,Robert Koch Institut,,,,,
+2020-01-24,Germany,Saarland,TOTAL,1,0,,,,,Robert Koch Institut,Robert Koch Institut,,,,,
+2020-01-25,Germany,Saarland,TOTAL,1,0,,,,,Robert Koch Institut,Robert Koch Institut,,,,,
+2020-01-26,Germany,Saarland,TOTAL,1,0,,,,,Robert Koch Institut,Robert Koch Institut,,,,,
+2020-01-27,Germany,Saarland,TOTAL,1,0,,,,,Robert Koch Institut,Robert Koch Institut,,,,,
+2020-01-28,Germany,Saarland,TOTAL,1,0,,,,,Robert Koch Institut,Robert Koch Institut,,,,,
+2020-01-29,Germany,Saarland,TOTAL,1,0,,,,,Robert Koch Institut,Robert Koch Institut,,,,,
+2020-01-30,Germany,Saarland,TOTAL,1,0,,,,,Robert Koch Institut,Robert Koch Institut,,,,,
+2020-01-31,Germany,Saarland,TOTAL,2,0,,,,,Robert Koch Institut,Robert Koch Institut,,,,,
 2020-01-01,Germany,TOTAL,,0,0,,,,,ECDC,ECDC,,,,,83517046
-2020-01-02,Germany,TOTAL,,0,0,,,,,ECDC,ECDC,,,,,83517046
-2020-01-03,Germany,TOTAL,,0,0,,,,,ECDC,ECDC,,,,,83517046
-2020-01-04,Germany,TOTAL,,0,0,,,,,ECDC,ECDC,,,,,83517046
-2020-01-05,Germany,TOTAL,,0,0,,,,,ECDC,ECDC,,,,,83517046
-2020-01-06,Germany,TOTAL,,0,0,,,,,ECDC,ECDC,,,,,83517046
-2020-01-07,Germany,TOTAL,,0,0,,,,,ECDC,ECDC,,,,,83517046
-2020-01-08,Germany,TOTAL,,0,0,,,,,ECDC,ECDC,,,,,83517046
-2020-01-09,Germany,TOTAL,,0,0,,,,,ECDC,ECDC,,,,,83517046
-2020-01-10,Germany,TOTAL,,0,0,,,,,ECDC,ECDC,,,,,83517046
-2020-01-11,Germany,TOTAL,,0,0,,,,,ECDC,ECDC,,,,,83517046
-2020-01-12,Germany,TOTAL,,0,0,,,,,ECDC,ECDC,,,,,83517046
-2020-01-13,Germany,TOTAL,,0,0,,,,,ECDC,ECDC,,,,,83517046
-2020-01-14,Germany,TOTAL,,0,0,,,,,ECDC,ECDC,,,,,83517046
-2020-01-15,Germany,TOTAL,,0,0,,,,,ECDC,ECDC,,,,,83517046
-2020-01-16,Germany,TOTAL,,0,0,,,,,ECDC,ECDC,,,,,83517046
-2020-01-17,Germany,TOTAL,,0,0,,,,,ECDC,ECDC,,,,,83517046
-2020-01-18,Germany,TOTAL,,0,0,,,,,ECDC,ECDC,,,,,83517046
-2020-01-19,Germany,TOTAL,,0,0,,,,,ECDC,ECDC,,,,,83517046
-2020-01-20,Germany,TOTAL,,0,0,,,,,ECDC,ECDC,,,,,83517046
-2020-01-21,Germany,TOTAL,,0,0,,,,,ECDC,ECDC,,,,,83517046
-2020-01-22,Germany,TOTAL,,0,0,,,,,ECDC,ECDC,,,,,83517046
-2020-01-23,Germany,TOTAL,,0,0,,,,,ECDC,ECDC,,,,,83517046
-2020-01-24,Germany,TOTAL,,0,0,,,,,ECDC,ECDC,,,,,83517046
-2020-01-25,Germany,TOTAL,,0,0,,,,,ECDC,ECDC,,,,,83517046
-2020-01-26,Germany,TOTAL,,0,0,,,,,ECDC,ECDC,,,,,83517046
-2020-01-27,Germany,TOTAL,,0,0,,,,,ECDC,ECDC,,,,,83517046
-2020-01-28,Germany,TOTAL,,2,0,0,,,,Robert Koch Institut,Robert Koch Institut,DXY,,,,83517046
-2020-01-29,Germany,TOTAL,,4,0,0,,,,Robert Koch Institut,Robert Koch Institut,DXY,,,,83517046
-2020-01-30,Germany,TOTAL,,4,0,0,,,,Robert Koch Institut,Robert Koch Institut,DXY,,,,83517046
-2020-01-31,Germany,TOTAL,,7,0,0,,,,Robert Koch Institut,Robert Koch Institut,DXY,,,,83517046
+2020-01-02,Germany,TOTAL,,1,0,,,,,Robert Koch Institut,Robert Koch Institut,,,,,83517046
+2020-01-03,Germany,TOTAL,,1,0,,,,,Robert Koch Institut,Robert Koch Institut,,,,,83517046
+2020-01-04,Germany,TOTAL,,1,0,,,,,Robert Koch Institut,Robert Koch Institut,,,,,83517046
+2020-01-05,Germany,TOTAL,,1,0,,,,,Robert Koch Institut,Robert Koch Institut,,,,,83517046
+2020-01-06,Germany,TOTAL,,1,0,,,,,Robert Koch Institut,Robert Koch Institut,,,,,83517046
+2020-01-07,Germany,TOTAL,,1,0,,,,,Robert Koch Institut,Robert Koch Institut,,,,,83517046
+2020-01-08,Germany,TOTAL,,1,0,,,,,Robert Koch Institut,Robert Koch Institut,,,,,83517046
+2020-01-09,Germany,TOTAL,,1,0,,,,,Robert Koch Institut,Robert Koch Institut,,,,,83517046
+2020-01-10,Germany,TOTAL,,1,0,,,,,Robert Koch Institut,Robert Koch Institut,,,,,83517046
+2020-01-11,Germany,TOTAL,,1,0,,,,,Robert Koch Institut,Robert Koch Institut,,,,,83517046
+2020-01-12,Germany,TOTAL,,1,0,,,,,Robert Koch Institut,Robert Koch Institut,,,,,83517046
+2020-01-13,Germany,TOTAL,,1,0,,,,,Robert Koch Institut,Robert Koch Institut,,,,,83517046
+2020-01-14,Germany,TOTAL,,1,0,,,,,Robert Koch Institut,Robert Koch Institut,,,,,83517046
+2020-01-15,Germany,TOTAL,,2,0,,,,,Robert Koch Institut,Robert Koch Institut,,,,,83517046
+2020-01-16,Germany,TOTAL,,2,0,,,,,Robert Koch Institut,Robert Koch Institut,,,,,83517046
+2020-01-17,Germany,TOTAL,,2,0,,,,,Robert Koch Institut,Robert Koch Institut,,,,,83517046
+2020-01-18,Germany,TOTAL,,2,0,,,,,Robert Koch Institut,Robert Koch Institut,,,,,83517046
+2020-01-19,Germany,TOTAL,,2,0,,,,,Robert Koch Institut,Robert Koch Institut,,,,,83517046
+2020-01-20,Germany,TOTAL,,3,0,,,,,Robert Koch Institut,Robert Koch Institut,,,,,83517046
+2020-01-21,Germany,TOTAL,,3,0,,,,,Robert Koch Institut,Robert Koch Institut,,,,,83517046
+2020-01-22,Germany,TOTAL,,3,0,,,,,Robert Koch Institut,Robert Koch Institut,,,,,83517046
+2020-01-23,Germany,TOTAL,,4,0,,,,,Robert Koch Institut,Robert Koch Institut,,,,,83517046
+2020-01-24,Germany,TOTAL,,4,0,,,,,Robert Koch Institut,Robert Koch Institut,,,,,83517046
+2020-01-25,Germany,TOTAL,,4,0,,,,,Robert Koch Institut,Robert Koch Institut,,,,,83517046
+2020-01-26,Germany,TOTAL,,4,0,,,,,Robert Koch Institut,Robert Koch Institut,,,,,83517046
+2020-01-27,Germany,TOTAL,,4,0,,,,,Robert Koch Institut,Robert Koch Institut,,,,,83517046
+2020-01-28,Germany,TOTAL,,6,0,0,,,,Robert Koch Institut,Robert Koch Institut,DXY,,,,83517046
+2020-01-29,Germany,TOTAL,,8,0,0,,,,Robert Koch Institut,Robert Koch Institut,DXY,,,,83517046
+2020-01-30,Germany,TOTAL,,8,0,0,,,,Robert Koch Institut,Robert Koch Institut,DXY,,,,83517046
+2020-01-31,Germany,TOTAL,,13,0,0,,,,Robert Koch Institut,Robert Koch Institut,DXY,,,,83517046
+2020-01-29,Germany,Thuringia,TOTAL,1,0,,,,,Robert Koch Institut,Robert Koch Institut,,,,,
+2020-01-30,Germany,Thuringia,TOTAL,1,0,,,,,Robert Koch Institut,Robert Koch Institut,,,,,
+2020-01-31,Germany,Thuringia,TOTAL,1,0,,,,,Robert Koch Institut,Robert Koch Institut,,,,,
 2020-01-01,Greece,TOTAL,,0,0,,,,,ECDC,ECDC,,,,,10473452
 2020-01-02,Greece,TOTAL,,0,0,,,,,ECDC,ECDC,,,,,10473452
 2020-01-03,Greece,TOTAL,,0,0,,,,,ECDC,ECDC,,,,,10473452
@@ -1152,8 +1486,6 @@ Date,Country,State/Province,Admin2,CasesCount,DeathsCount,RecoveryCount,TotalDos
 2020-01-29,Iceland,TOTAL,,0,0,,,,,ECDC,ECDC,,,,,339037
 2020-01-30,Iceland,TOTAL,,0,0,,,,,ECDC,ECDC,,,,,339037
 2020-01-31,Iceland,TOTAL,,0,0,,,,,ECDC,ECDC,,,,,339037
-2020-01-30,India,State of Kerala,TOTAL,1,,,,,,Covid-19 India Working Group,,,,,,
-2020-01-31,India,State of Kerala,TOTAL,1,,,,,,Covid-19 India Working Group,,,,,,
 2020-01-01,India,TOTAL,,0,0,,,,,ECDC,ECDC,,,,,1366417756
 2020-01-02,India,TOTAL,,0,0,,,,,ECDC,ECDC,,,,,1366417756
 2020-01-03,India,TOTAL,,0,0,,,,,ECDC,ECDC,,,,,1366417756
@@ -1183,8 +1515,8 @@ Date,Country,State/Province,Admin2,CasesCount,DeathsCount,RecoveryCount,TotalDos
 2020-01-27,India,TOTAL,,0,0,,,,,ECDC,ECDC,,,,,1366417756
 2020-01-28,India,TOTAL,,0,0,,,,,ECDC,ECDC,,,,,1366417756
 2020-01-29,India,TOTAL,,0,0,,,,,ECDC,ECDC,,,,,1366417756
-2020-01-30,India,TOTAL,,1,0,0,,,,Covid-19 India Working Group,Covid-19 India Working Group,Covid-19 India Working Group,,,,1366417756
-2020-01-31,India,TOTAL,,1,0,0,,,,Covid-19 India Working Group,Covid-19 India Working Group,Covid-19 India Working Group,,,,1366417756
+2020-01-30,India,TOTAL,,1,0,0,,,,ECDC,ECDC,DXY,,,,1366417756
+2020-01-31,India,TOTAL,,1,0,0,,,,ECDC,ECDC,DXY,,,,1366417756
 2020-01-01,Indonesia,TOTAL,,0,0,,,,,ECDC,ECDC,,,,,270625567
 2020-01-02,Indonesia,TOTAL,,0,0,,,,,ECDC,ECDC,,,,,270625567
 2020-01-03,Indonesia,TOTAL,,0,0,,,,,ECDC,ECDC,,,,,270625567
@@ -2282,14 +2614,14 @@ Date,Country,State/Province,Admin2,CasesCount,DeathsCount,RecoveryCount,TotalDos
 2020-01-21,Japan,TOTAL,,1,0,0,,,,ECDC,ECDC,Reustle,,,,126860299
 2020-01-22,Japan,TOTAL,,1,0,0,,,,ECDC,ECDC,Reustle,,,,126860299
 2020-01-23,Japan,TOTAL,,1,0,0,,,,ECDC,ECDC,Reustle,,,,126860299
-2020-01-24,Japan,TOTAL,,2,0,0,,,,ECDC,ECDC,Reustle,,,,126860299
-2020-01-25,Japan,TOTAL,,2,0,0,,,,ECDC,ECDC,Reustle,,,,126860299
-2020-01-26,Japan,TOTAL,,3,0,0,,,,ECDC,ECDC,Reustle,,,,126860299
-2020-01-27,Japan,TOTAL,,3,0,0,,,,ECDC,ECDC,Reustle,,,,126860299
-2020-01-28,Japan,TOTAL,,4,0,0,,,,ECDC,ECDC,Reustle,,,,126860299
-2020-01-29,Japan,TOTAL,,7,0,0,,,,ECDC,ECDC,Reustle,,,,126860299
-2020-01-30,Japan,TOTAL,,11,0,0,,,,ECDC,ECDC,Reustle,,,,126860299
-2020-01-31,Japan,TOTAL,,14,0,0,,,,ECDC,ECDC,Reustle,,,,126860299
+2020-01-24,Japan,TOTAL,,2,0,-1,,,,ECDC,ECDC,Reustle,,,,126860299
+2020-01-25,Japan,TOTAL,,2,0,-1,,,,ECDC,ECDC,Reustle,,,,126860299
+2020-01-26,Japan,TOTAL,,3,0,-2,,,,ECDC,ECDC,Reustle,,,,126860299
+2020-01-27,Japan,TOTAL,,3,0,-2,,,,ECDC,ECDC,Reustle,,,,126860299
+2020-01-28,Japan,TOTAL,,4,0,-3,,,,ECDC,ECDC,Reustle,,,,126860299
+2020-01-29,Japan,TOTAL,,7,0,-4,,,,ECDC,ECDC,Reustle,,,,126860299
+2020-01-30,Japan,TOTAL,,11,0,-4,,,,ECDC,ECDC,Reustle,,,,126860299
+2020-01-31,Japan,TOTAL,,14,0,-5,,,,ECDC,ECDC,Reustle,,,,126860299
 2020-01-08,Japan,Tochigi,TOTAL,0,0,,,,,Reustle,Reustle,,,,,
 2020-01-09,Japan,Tochigi,TOTAL,0,0,,,,,Reustle,Reustle,,,,,
 2020-01-10,Japan,Tochigi,TOTAL,0,0,,,,,Reustle,Reustle,,,,,
@@ -3472,67 +3804,8 @@ Date,Country,State/Province,Admin2,CasesCount,DeathsCount,RecoveryCount,TotalDos
 2020-01-31,United Arab Emirates,TOTAL,,4,0,0,,,,ECDC,ECDC,DXY,,,,9770526
 2020-01-30,United Kingdom,England,City of York,1,,,,,,Public Health England,,,,,,
 2020-01-31,United Kingdom,England,City of York,1,,,,,,Public Health England,,,,,,
-2020-01-31,United Kingdom,England,Hertfordshire,1,,,,,,Public Health England,,,,,,
-2020-01-30,United Kingdom,England,TOTAL,2,,,,,,Public Health England,,,,,,
-2020-01-31,United Kingdom,England,TOTAL,2,,,,,,Public Health England,,,,,,
-2020-01-11,United Kingdom,Northern Ireland,Derry City and Strabane,1,,,,,,Public Health England,,,,,,
-2020-01-12,United Kingdom,Northern Ireland,Derry City and Strabane,1,,,,,,Public Health England,,,,,,
-2020-01-13,United Kingdom,Northern Ireland,Derry City and Strabane,1,,,,,,Public Health England,,,,,,
-2020-01-14,United Kingdom,Northern Ireland,Derry City and Strabane,1,,,,,,Public Health England,,,,,,
-2020-01-15,United Kingdom,Northern Ireland,Derry City and Strabane,1,,,,,,Public Health England,,,,,,
-2020-01-16,United Kingdom,Northern Ireland,Derry City and Strabane,1,,,,,,Public Health England,,,,,,
-2020-01-17,United Kingdom,Northern Ireland,Derry City and Strabane,1,,,,,,Public Health England,,,,,,
-2020-01-18,United Kingdom,Northern Ireland,Derry City and Strabane,1,,,,,,Public Health England,,,,,,
-2020-01-19,United Kingdom,Northern Ireland,Derry City and Strabane,1,,,,,,Public Health England,,,,,,
-2020-01-20,United Kingdom,Northern Ireland,Derry City and Strabane,1,,,,,,Public Health England,,,,,,
-2020-01-21,United Kingdom,Northern Ireland,Derry City and Strabane,1,,,,,,Public Health England,,,,,,
-2020-01-22,United Kingdom,Northern Ireland,Derry City and Strabane,1,,,,,,Public Health England,,,,,,
-2020-01-23,United Kingdom,Northern Ireland,Derry City and Strabane,1,,,,,,Public Health England,,,,,,
-2020-01-24,United Kingdom,Northern Ireland,Derry City and Strabane,1,,,,,,Public Health England,,,,,,
-2020-01-25,United Kingdom,Northern Ireland,Derry City and Strabane,1,,,,,,Public Health England,,,,,,
-2020-01-26,United Kingdom,Northern Ireland,Derry City and Strabane,1,,,,,,Public Health England,,,,,,
-2020-01-27,United Kingdom,Northern Ireland,Derry City and Strabane,1,,,,,,Public Health England,,,,,,
-2020-01-28,United Kingdom,Northern Ireland,Derry City and Strabane,1,,,,,,Public Health England,,,,,,
-2020-01-29,United Kingdom,Northern Ireland,Derry City and Strabane,1,,,,,,Public Health England,,,,,,
-2020-01-30,United Kingdom,Northern Ireland,Derry City and Strabane,1,,,,,,Public Health England,,,,,,
-2020-01-31,United Kingdom,Northern Ireland,Derry City and Strabane,1,,,,,,Public Health England,,,,,,
-2020-01-16,United Kingdom,Northern Ireland,Newry Mourne and Down,0,,,,,,Public Health England,,,,,,
-2020-01-17,United Kingdom,Northern Ireland,Newry Mourne and Down,0,,,,,,Public Health England,,,,,,
-2020-01-18,United Kingdom,Northern Ireland,Newry Mourne and Down,0,,,,,,Public Health England,,,,,,
-2020-01-19,United Kingdom,Northern Ireland,Newry Mourne and Down,0,,,,,,Public Health England,,,,,,
-2020-01-20,United Kingdom,Northern Ireland,Newry Mourne and Down,0,,,,,,Public Health England,,,,,,
-2020-01-21,United Kingdom,Northern Ireland,Newry Mourne and Down,0,,,,,,Public Health England,,,,,,
-2020-01-22,United Kingdom,Northern Ireland,Newry Mourne and Down,0,,,,,,Public Health England,,,,,,
-2020-01-23,United Kingdom,Northern Ireland,Newry Mourne and Down,0,,,,,,Public Health England,,,,,,
-2020-01-24,United Kingdom,Northern Ireland,Newry Mourne and Down,0,,,,,,Public Health England,,,,,,
-2020-01-25,United Kingdom,Northern Ireland,Newry Mourne and Down,0,,,,,,Public Health England,,,,,,
-2020-01-26,United Kingdom,Northern Ireland,Newry Mourne and Down,0,,,,,,Public Health England,,,,,,
-2020-01-27,United Kingdom,Northern Ireland,Newry Mourne and Down,0,,,,,,Public Health England,,,,,,
-2020-01-28,United Kingdom,Northern Ireland,Newry Mourne and Down,0,,,,,,Public Health England,,,,,,
-2020-01-29,United Kingdom,Northern Ireland,Newry Mourne and Down,0,,,,,,Public Health England,,,,,,
-2020-01-30,United Kingdom,Northern Ireland,Newry Mourne and Down,0,,,,,,Public Health England,,,,,,
-2020-01-31,United Kingdom,Northern Ireland,Newry Mourne and Down,0,,,,,,Public Health England,,,,,,
-2020-01-11,United Kingdom,Northern Ireland,TOTAL,1,,,,,,Public Health England,,,,,,
-2020-01-12,United Kingdom,Northern Ireland,TOTAL,1,,,,,,Public Health England,,,,,,
-2020-01-13,United Kingdom,Northern Ireland,TOTAL,1,,,,,,Public Health England,,,,,,
-2020-01-14,United Kingdom,Northern Ireland,TOTAL,1,,,,,,Public Health England,,,,,,
-2020-01-15,United Kingdom,Northern Ireland,TOTAL,1,,,,,,Public Health England,,,,,,
-2020-01-16,United Kingdom,Northern Ireland,TOTAL,1,,,,,,Public Health England,,,,,,
-2020-01-17,United Kingdom,Northern Ireland,TOTAL,1,,,,,,Public Health England,,,,,,
-2020-01-18,United Kingdom,Northern Ireland,TOTAL,1,,,,,,Public Health England,,,,,,
-2020-01-19,United Kingdom,Northern Ireland,TOTAL,1,,,,,,Public Health England,,,,,,
-2020-01-20,United Kingdom,Northern Ireland,TOTAL,1,,,,,,Public Health England,,,,,,
-2020-01-21,United Kingdom,Northern Ireland,TOTAL,1,,,,,,Public Health England,,,,,,
-2020-01-22,United Kingdom,Northern Ireland,TOTAL,1,,,,,,Public Health England,,,,,,
-2020-01-23,United Kingdom,Northern Ireland,TOTAL,1,,,,,,Public Health England,,,,,,
-2020-01-24,United Kingdom,Northern Ireland,TOTAL,1,,,,,,Public Health England,,,,,,
-2020-01-25,United Kingdom,Northern Ireland,TOTAL,1,,,,,,Public Health England,,,,,,
-2020-01-26,United Kingdom,Northern Ireland,TOTAL,1,,,,,,Public Health England,,,,,,
-2020-01-27,United Kingdom,Northern Ireland,TOTAL,1,,,,,,Public Health England,,,,,,
-2020-01-28,United Kingdom,Northern Ireland,TOTAL,1,,,,,,Public Health England,,,,,,
-2020-01-29,United Kingdom,Northern Ireland,TOTAL,1,,,,,,Public Health England,,,,,,
-2020-01-30,United Kingdom,Northern Ireland,TOTAL,1,,,,,,Public Health England,,,,,,
-2020-01-31,United Kingdom,Northern Ireland,TOTAL,1,,,,,,Public Health England,,,,,,
+2020-01-30,United Kingdom,England,TOTAL,1,,,,,,Public Health England,,,,,,
+2020-01-31,United Kingdom,England,TOTAL,1,,,,,,Public Health England,,,,,,
 2020-01-01,United Kingdom,TOTAL,,0,0,,,,,ECDC,ECDC,,,,,67530161
 2020-01-02,United Kingdom,TOTAL,,0,0,,,,,ECDC,ECDC,,,,,67530161
 2020-01-03,United Kingdom,TOTAL,,0,0,,,,,ECDC,ECDC,,,,,67530161
@@ -3543,27 +3816,27 @@ Date,Country,State/Province,Admin2,CasesCount,DeathsCount,RecoveryCount,TotalDos
 2020-01-08,United Kingdom,TOTAL,,0,0,,,,,ECDC,ECDC,,,,,67530161
 2020-01-09,United Kingdom,TOTAL,,0,0,,,,,ECDC,ECDC,,,,,67530161
 2020-01-10,United Kingdom,TOTAL,,0,0,,,,,ECDC,ECDC,,,,,67530161
-2020-01-11,United Kingdom,TOTAL,,1,0,,,,,Public Health England,ECDC,,,,,67530161
-2020-01-12,United Kingdom,TOTAL,,1,0,,,,,Public Health England,ECDC,,,,,67530161
-2020-01-13,United Kingdom,TOTAL,,1,0,,,,,Public Health England,ECDC,,,,,67530161
-2020-01-14,United Kingdom,TOTAL,,1,0,,,,,Public Health England,ECDC,,,,,67530161
-2020-01-15,United Kingdom,TOTAL,,1,0,,,,,Public Health England,ECDC,,,,,67530161
-2020-01-16,United Kingdom,TOTAL,,1,0,,,,,Public Health England,ECDC,,,,,67530161
-2020-01-17,United Kingdom,TOTAL,,1,0,,,,,Public Health England,ECDC,,,,,67530161
-2020-01-18,United Kingdom,TOTAL,,1,0,,,,,Public Health England,ECDC,,,,,67530161
-2020-01-19,United Kingdom,TOTAL,,1,0,,,,,Public Health England,ECDC,,,,,67530161
-2020-01-20,United Kingdom,TOTAL,,1,0,,,,,Public Health England,ECDC,,,,,67530161
-2020-01-21,United Kingdom,TOTAL,,1,0,,,,,Public Health England,ECDC,,,,,67530161
-2020-01-22,United Kingdom,TOTAL,,1,0,,,,,Public Health England,ECDC,,,,,67530161
-2020-01-23,United Kingdom,TOTAL,,1,0,,,,,Public Health England,ECDC,,,,,67530161
-2020-01-24,United Kingdom,TOTAL,,1,0,,,,,Public Health England,ECDC,,,,,67530161
-2020-01-25,United Kingdom,TOTAL,,1,0,,,,,Public Health England,ECDC,,,,,67530161
-2020-01-26,United Kingdom,TOTAL,,1,0,,,,,Public Health England,ECDC,,,,,67530161
-2020-01-27,United Kingdom,TOTAL,,1,0,,,,,Public Health England,ECDC,,,,,67530161
-2020-01-28,United Kingdom,TOTAL,,1,0,,,,,Public Health England,ECDC,,,,,67530161
-2020-01-29,United Kingdom,TOTAL,,1,0,,,,,Public Health England,ECDC,,,,,67530161
-2020-01-30,United Kingdom,TOTAL,,2,0,,,,,Public Health England,ECDC,,,,,67530161
-2020-01-31,United Kingdom,TOTAL,,2,0,,,,,Public Health England,ECDC,,,,,67530161
+2020-01-11,United Kingdom,TOTAL,,0,0,,,,,ECDC,ECDC,,,,,67530161
+2020-01-12,United Kingdom,TOTAL,,0,0,,,,,ECDC,ECDC,,,,,67530161
+2020-01-13,United Kingdom,TOTAL,,0,0,,,,,ECDC,ECDC,,,,,67530161
+2020-01-14,United Kingdom,TOTAL,,0,0,,,,,ECDC,ECDC,,,,,67530161
+2020-01-15,United Kingdom,TOTAL,,0,0,,,,,ECDC,ECDC,,,,,67530161
+2020-01-16,United Kingdom,TOTAL,,0,0,,,,,ECDC,ECDC,,,,,67530161
+2020-01-17,United Kingdom,TOTAL,,0,0,,,,,ECDC,ECDC,,,,,67530161
+2020-01-18,United Kingdom,TOTAL,,0,0,,,,,ECDC,ECDC,,,,,67530161
+2020-01-19,United Kingdom,TOTAL,,0,0,,,,,ECDC,ECDC,,,,,67530161
+2020-01-20,United Kingdom,TOTAL,,0,0,,,,,ECDC,ECDC,,,,,67530161
+2020-01-21,United Kingdom,TOTAL,,0,0,,,,,ECDC,ECDC,,,,,67530161
+2020-01-22,United Kingdom,TOTAL,,0,0,,,,,ECDC,ECDC,,,,,67530161
+2020-01-23,United Kingdom,TOTAL,,0,0,,,,,ECDC,ECDC,,,,,67530161
+2020-01-24,United Kingdom,TOTAL,,0,0,,,,,ECDC,ECDC,,,,,67530161
+2020-01-25,United Kingdom,TOTAL,,0,0,,,,,ECDC,ECDC,,,,,67530161
+2020-01-26,United Kingdom,TOTAL,,0,0,,,,,ECDC,ECDC,,,,,67530161
+2020-01-27,United Kingdom,TOTAL,,0,0,,,,,ECDC,ECDC,,,,,67530161
+2020-01-28,United Kingdom,TOTAL,,0,0,,,,,ECDC,ECDC,,,,,67530161
+2020-01-29,United Kingdom,TOTAL,,0,0,,,,,ECDC,ECDC,,,,,67530161
+2020-01-30,United Kingdom,TOTAL,,1,0,,,,,Public Health England,ECDC,,,,,67530161
+2020-01-31,United Kingdom,TOTAL,,1,0,,,,,Public Health England,ECDC,,,,,67530161
 2020-01-22,United States,Alabama,Autauga County,0,0,,,,,USAFacts,USAFacts,,,,,55601
 2020-01-23,United States,Alabama,Autauga County,0,0,,,,,USAFacts,USAFacts,,,,,55601
 2020-01-24,United States,Alabama,Autauga County,0,0,,,,,USAFacts,USAFacts,,,,,55601
@@ -5464,16 +5737,16 @@ Date,Country,State/Province,Admin2,CasesCount,DeathsCount,RecoveryCount,TotalDos
 2020-01-29,United States,Arkansas,Yell County,0,0,,,,,USAFacts,USAFacts,,,,,21535
 2020-01-30,United States,Arkansas,Yell County,0,0,,,,,USAFacts,USAFacts,,,,,21535
 2020-01-31,United States,Arkansas,Yell County,0,0,,,,,USAFacts,USAFacts,,,,,21535
-2020-01-22,United States,California,Alameda County,0,0,,,,,USAFacts,USAFacts,,,,,1666753
-2020-01-23,United States,California,Alameda County,0,0,,,,,USAFacts,USAFacts,,,,,1666753
-2020-01-24,United States,California,Alameda County,0,0,,,,,USAFacts,USAFacts,,,,,1666753
-2020-01-25,United States,California,Alameda County,0,0,,,,,USAFacts,USAFacts,,,,,1666753
-2020-01-26,United States,California,Alameda County,0,0,,,,,USAFacts,USAFacts,,,,,1666753
-2020-01-27,United States,California,Alameda County,0,0,,,,,USAFacts,USAFacts,,,,,1666753
-2020-01-28,United States,California,Alameda County,0,0,,,,,USAFacts,USAFacts,,,,,1666753
-2020-01-29,United States,California,Alameda County,0,0,,,,,USAFacts,USAFacts,,,,,1666753
-2020-01-30,United States,California,Alameda County,0,0,,,,,USAFacts,USAFacts,,,,,1666753
-2020-01-31,United States,California,Alameda County,0,0,,,,,USAFacts,USAFacts,,,,,1666753
+2020-01-22,United States,California,Alameda County,4,0,,,,,USAFacts,USAFacts,,,,,1666753
+2020-01-23,United States,California,Alameda County,4,0,,,,,USAFacts,USAFacts,,,,,1666753
+2020-01-24,United States,California,Alameda County,4,0,,,,,USAFacts,USAFacts,,,,,1666753
+2020-01-25,United States,California,Alameda County,5,0,,,,,USAFacts,USAFacts,,,,,1666753
+2020-01-26,United States,California,Alameda County,5,0,,,,,USAFacts,USAFacts,,,,,1666753
+2020-01-27,United States,California,Alameda County,5,0,,,,,USAFacts,USAFacts,,,,,1666753
+2020-01-28,United States,California,Alameda County,5,0,,,,,USAFacts,USAFacts,,,,,1666753
+2020-01-29,United States,California,Alameda County,5,0,,,,,USAFacts,USAFacts,,,,,1666753
+2020-01-30,United States,California,Alameda County,5,0,,,,,USAFacts,USAFacts,,,,,1666753
+2020-01-31,United States,California,Alameda County,5,0,,,,,USAFacts,USAFacts,,,,,1666753
 2020-01-22,United States,California,Alpine County,0,0,,,,,USAFacts,USAFacts,,,,,1101
 2020-01-23,United States,California,Alpine County,0,0,,,,,USAFacts,USAFacts,,,,,1101
 2020-01-24,United States,California,Alpine County,0,0,,,,,USAFacts,USAFacts,,,,,1101
@@ -5484,16 +5757,16 @@ Date,Country,State/Province,Admin2,CasesCount,DeathsCount,RecoveryCount,TotalDos
 2020-01-29,United States,California,Alpine County,0,0,,,,,USAFacts,USAFacts,,,,,1101
 2020-01-30,United States,California,Alpine County,0,0,,,,,USAFacts,USAFacts,,,,,1101
 2020-01-31,United States,California,Alpine County,0,0,,,,,USAFacts,USAFacts,,,,,1101
-2020-01-22,United States,California,Amador County,0,0,,,,,USAFacts,USAFacts,,,,,39383
-2020-01-23,United States,California,Amador County,0,0,,,,,USAFacts,USAFacts,,,,,39383
-2020-01-24,United States,California,Amador County,0,0,,,,,USAFacts,USAFacts,,,,,39383
-2020-01-25,United States,California,Amador County,0,0,,,,,USAFacts,USAFacts,,,,,39383
-2020-01-26,United States,California,Amador County,0,0,,,,,USAFacts,USAFacts,,,,,39383
-2020-01-27,United States,California,Amador County,0,0,,,,,USAFacts,USAFacts,,,,,39383
-2020-01-28,United States,California,Amador County,0,0,,,,,USAFacts,USAFacts,,,,,39383
-2020-01-29,United States,California,Amador County,0,0,,,,,USAFacts,USAFacts,,,,,39383
-2020-01-30,United States,California,Amador County,0,0,,,,,USAFacts,USAFacts,,,,,39383
-2020-01-31,United States,California,Amador County,0,0,,,,,USAFacts,USAFacts,,,,,39383
+2020-01-22,United States,California,Amador County,1,0,,,,,USAFacts,USAFacts,,,,,39383
+2020-01-23,United States,California,Amador County,1,0,,,,,USAFacts,USAFacts,,,,,39383
+2020-01-24,United States,California,Amador County,1,0,,,,,USAFacts,USAFacts,,,,,39383
+2020-01-25,United States,California,Amador County,1,0,,,,,USAFacts,USAFacts,,,,,39383
+2020-01-26,United States,California,Amador County,1,0,,,,,USAFacts,USAFacts,,,,,39383
+2020-01-27,United States,California,Amador County,1,0,,,,,USAFacts,USAFacts,,,,,39383
+2020-01-28,United States,California,Amador County,1,0,,,,,USAFacts,USAFacts,,,,,39383
+2020-01-29,United States,California,Amador County,1,0,,,,,USAFacts,USAFacts,,,,,39383
+2020-01-30,United States,California,Amador County,1,0,,,,,USAFacts,USAFacts,,,,,39383
+2020-01-31,United States,California,Amador County,1,0,,,,,USAFacts,USAFacts,,,,,39383
 2020-01-22,United States,California,Butte County,0,0,,,,,USAFacts,USAFacts,,,,,231256
 2020-01-23,United States,California,Butte County,0,0,,,,,USAFacts,USAFacts,,,,,231256
 2020-01-24,United States,California,Butte County,0,0,,,,,USAFacts,USAFacts,,,,,231256
@@ -5504,26 +5777,26 @@ Date,Country,State/Province,Admin2,CasesCount,DeathsCount,RecoveryCount,TotalDos
 2020-01-29,United States,California,Butte County,0,0,,,,,USAFacts,USAFacts,,,,,231256
 2020-01-30,United States,California,Butte County,0,0,,,,,USAFacts,USAFacts,,,,,231256
 2020-01-31,United States,California,Butte County,0,0,,,,,USAFacts,USAFacts,,,,,231256
-2020-01-22,United States,California,Calaveras County,0,0,,,,,USAFacts,USAFacts,,,,,45602
-2020-01-23,United States,California,Calaveras County,0,0,,,,,USAFacts,USAFacts,,,,,45602
-2020-01-24,United States,California,Calaveras County,0,0,,,,,USAFacts,USAFacts,,,,,45602
-2020-01-25,United States,California,Calaveras County,0,0,,,,,USAFacts,USAFacts,,,,,45602
-2020-01-26,United States,California,Calaveras County,0,0,,,,,USAFacts,USAFacts,,,,,45602
-2020-01-27,United States,California,Calaveras County,0,0,,,,,USAFacts,USAFacts,,,,,45602
-2020-01-28,United States,California,Calaveras County,0,0,,,,,USAFacts,USAFacts,,,,,45602
-2020-01-29,United States,California,Calaveras County,0,0,,,,,USAFacts,USAFacts,,,,,45602
-2020-01-30,United States,California,Calaveras County,0,0,,,,,USAFacts,USAFacts,,,,,45602
-2020-01-31,United States,California,Calaveras County,0,0,,,,,USAFacts,USAFacts,,,,,45602
-2020-01-22,United States,California,City and County of San Francisco,0,0,,,,,USAFacts,USAFacts,,,,,883305
-2020-01-23,United States,California,City and County of San Francisco,0,0,,,,,USAFacts,USAFacts,,,,,883305
-2020-01-24,United States,California,City and County of San Francisco,0,0,,,,,USAFacts,USAFacts,,,,,883305
-2020-01-25,United States,California,City and County of San Francisco,0,0,,,,,USAFacts,USAFacts,,,,,883305
-2020-01-26,United States,California,City and County of San Francisco,0,0,,,,,USAFacts,USAFacts,,,,,883305
-2020-01-27,United States,California,City and County of San Francisco,0,0,,,,,USAFacts,USAFacts,,,,,883305
-2020-01-28,United States,California,City and County of San Francisco,0,0,,,,,USAFacts,USAFacts,,,,,883305
-2020-01-29,United States,California,City and County of San Francisco,0,0,,,,,USAFacts,USAFacts,,,,,883305
-2020-01-30,United States,California,City and County of San Francisco,0,0,,,,,USAFacts,USAFacts,,,,,883305
-2020-01-31,United States,California,City and County of San Francisco,0,0,,,,,USAFacts,USAFacts,,,,,883305
+2020-01-22,United States,California,Calaveras County,2,0,,,,,USAFacts,USAFacts,,,,,45602
+2020-01-23,United States,California,Calaveras County,2,0,,,,,USAFacts,USAFacts,,,,,45602
+2020-01-24,United States,California,Calaveras County,2,0,,,,,USAFacts,USAFacts,,,,,45602
+2020-01-25,United States,California,Calaveras County,2,0,,,,,USAFacts,USAFacts,,,,,45602
+2020-01-26,United States,California,Calaveras County,2,0,,,,,USAFacts,USAFacts,,,,,45602
+2020-01-27,United States,California,Calaveras County,2,0,,,,,USAFacts,USAFacts,,,,,45602
+2020-01-28,United States,California,Calaveras County,2,0,,,,,USAFacts,USAFacts,,,,,45602
+2020-01-29,United States,California,Calaveras County,2,0,,,,,USAFacts,USAFacts,,,,,45602
+2020-01-30,United States,California,Calaveras County,2,0,,,,,USAFacts,USAFacts,,,,,45602
+2020-01-31,United States,California,Calaveras County,2,0,,,,,USAFacts,USAFacts,,,,,45602
+2020-01-22,United States,California,City and County of San Francisco,11,0,,,,,USAFacts,USAFacts,,,,,883305
+2020-01-23,United States,California,City and County of San Francisco,11,0,,,,,USAFacts,USAFacts,,,,,883305
+2020-01-24,United States,California,City and County of San Francisco,11,0,,,,,USAFacts,USAFacts,,,,,883305
+2020-01-25,United States,California,City and County of San Francisco,11,0,,,,,USAFacts,USAFacts,,,,,883305
+2020-01-26,United States,California,City and County of San Francisco,11,0,,,,,USAFacts,USAFacts,,,,,883305
+2020-01-27,United States,California,City and County of San Francisco,11,0,,,,,USAFacts,USAFacts,,,,,883305
+2020-01-28,United States,California,City and County of San Francisco,12,0,,,,,USAFacts,USAFacts,,,,,883305
+2020-01-29,United States,California,City and County of San Francisco,12,0,,,,,USAFacts,USAFacts,,,,,883305
+2020-01-30,United States,California,City and County of San Francisco,14,0,,,,,USAFacts,USAFacts,,,,,883305
+2020-01-31,United States,California,City and County of San Francisco,14,0,,,,,USAFacts,USAFacts,,,,,883305
 2020-01-22,United States,California,Colusa County,0,0,,,,,USAFacts,USAFacts,,,,,21627
 2020-01-23,United States,California,Colusa County,0,0,,,,,USAFacts,USAFacts,,,,,21627
 2020-01-24,United States,California,Colusa County,0,0,,,,,USAFacts,USAFacts,,,,,21627
@@ -5534,16 +5807,16 @@ Date,Country,State/Province,Admin2,CasesCount,DeathsCount,RecoveryCount,TotalDos
 2020-01-29,United States,California,Colusa County,0,0,,,,,USAFacts,USAFacts,,,,,21627
 2020-01-30,United States,California,Colusa County,0,0,,,,,USAFacts,USAFacts,,,,,21627
 2020-01-31,United States,California,Colusa County,0,0,,,,,USAFacts,USAFacts,,,,,21627
-2020-01-22,United States,California,Contra Costa County,0,0,,,,,USAFacts,USAFacts,,,,,1150215
-2020-01-23,United States,California,Contra Costa County,0,0,,,,,USAFacts,USAFacts,,,,,1150215
-2020-01-24,United States,California,Contra Costa County,0,0,,,,,USAFacts,USAFacts,,,,,1150215
-2020-01-25,United States,California,Contra Costa County,0,0,,,,,USAFacts,USAFacts,,,,,1150215
-2020-01-26,United States,California,Contra Costa County,0,0,,,,,USAFacts,USAFacts,,,,,1150215
-2020-01-27,United States,California,Contra Costa County,0,0,,,,,USAFacts,USAFacts,,,,,1150215
-2020-01-28,United States,California,Contra Costa County,0,0,,,,,USAFacts,USAFacts,,,,,1150215
-2020-01-29,United States,California,Contra Costa County,0,0,,,,,USAFacts,USAFacts,,,,,1150215
-2020-01-30,United States,California,Contra Costa County,0,0,,,,,USAFacts,USAFacts,,,,,1150215
-2020-01-31,United States,California,Contra Costa County,0,0,,,,,USAFacts,USAFacts,,,,,1150215
+2020-01-22,United States,California,Contra Costa County,8,0,,,,,USAFacts,USAFacts,,,,,1150215
+2020-01-23,United States,California,Contra Costa County,8,0,,,,,USAFacts,USAFacts,,,,,1150215
+2020-01-24,United States,California,Contra Costa County,8,0,,,,,USAFacts,USAFacts,,,,,1150215
+2020-01-25,United States,California,Contra Costa County,8,0,,,,,USAFacts,USAFacts,,,,,1150215
+2020-01-26,United States,California,Contra Costa County,8,0,,,,,USAFacts,USAFacts,,,,,1150215
+2020-01-27,United States,California,Contra Costa County,8,0,,,,,USAFacts,USAFacts,,,,,1150215
+2020-01-28,United States,California,Contra Costa County,8,0,,,,,USAFacts,USAFacts,,,,,1150215
+2020-01-29,United States,California,Contra Costa County,8,0,,,,,USAFacts,USAFacts,,,,,1150215
+2020-01-30,United States,California,Contra Costa County,8,0,,,,,USAFacts,USAFacts,,,,,1150215
+2020-01-31,United States,California,Contra Costa County,8,0,,,,,USAFacts,USAFacts,,,,,1150215
 2020-01-22,United States,California,Del Norte County,0,0,,,,,USAFacts,USAFacts,,,,,27828
 2020-01-23,United States,California,Del Norte County,0,0,,,,,USAFacts,USAFacts,,,,,27828
 2020-01-24,United States,California,Del Norte County,0,0,,,,,USAFacts,USAFacts,,,,,27828
@@ -5564,46 +5837,46 @@ Date,Country,State/Province,Admin2,CasesCount,DeathsCount,RecoveryCount,TotalDos
 2020-01-29,United States,California,El Dorado County,0,0,,,,,USAFacts,USAFacts,,,,,190678
 2020-01-30,United States,California,El Dorado County,0,0,,,,,USAFacts,USAFacts,,,,,190678
 2020-01-31,United States,California,El Dorado County,0,0,,,,,USAFacts,USAFacts,,,,,190678
-2020-01-22,United States,California,Fresno County,0,0,,,,,USAFacts,USAFacts,,,,,994400
-2020-01-23,United States,California,Fresno County,0,0,,,,,USAFacts,USAFacts,,,,,994400
-2020-01-24,United States,California,Fresno County,0,0,,,,,USAFacts,USAFacts,,,,,994400
-2020-01-25,United States,California,Fresno County,0,0,,,,,USAFacts,USAFacts,,,,,994400
-2020-01-26,United States,California,Fresno County,0,0,,,,,USAFacts,USAFacts,,,,,994400
-2020-01-27,United States,California,Fresno County,0,0,,,,,USAFacts,USAFacts,,,,,994400
-2020-01-28,United States,California,Fresno County,0,0,,,,,USAFacts,USAFacts,,,,,994400
-2020-01-29,United States,California,Fresno County,0,0,,,,,USAFacts,USAFacts,,,,,994400
-2020-01-30,United States,California,Fresno County,0,0,,,,,USAFacts,USAFacts,,,,,994400
-2020-01-31,United States,California,Fresno County,0,0,,,,,USAFacts,USAFacts,,,,,994400
-2020-01-22,United States,California,Glenn County,0,0,,,,,USAFacts,USAFacts,,,,,28047
-2020-01-23,United States,California,Glenn County,0,0,,,,,USAFacts,USAFacts,,,,,28047
-2020-01-24,United States,California,Glenn County,0,0,,,,,USAFacts,USAFacts,,,,,28047
-2020-01-25,United States,California,Glenn County,0,0,,,,,USAFacts,USAFacts,,,,,28047
-2020-01-26,United States,California,Glenn County,0,0,,,,,USAFacts,USAFacts,,,,,28047
-2020-01-27,United States,California,Glenn County,0,0,,,,,USAFacts,USAFacts,,,,,28047
-2020-01-28,United States,California,Glenn County,0,0,,,,,USAFacts,USAFacts,,,,,28047
-2020-01-29,United States,California,Glenn County,0,0,,,,,USAFacts,USAFacts,,,,,28047
-2020-01-30,United States,California,Glenn County,0,0,,,,,USAFacts,USAFacts,,,,,28047
-2020-01-31,United States,California,Glenn County,0,0,,,,,USAFacts,USAFacts,,,,,28047
-2020-01-22,United States,California,Humboldt County,0,0,,,,,USAFacts,USAFacts,,,,,136373
-2020-01-23,United States,California,Humboldt County,0,0,,,,,USAFacts,USAFacts,,,,,136373
-2020-01-24,United States,California,Humboldt County,0,0,,,,,USAFacts,USAFacts,,,,,136373
-2020-01-25,United States,California,Humboldt County,0,0,,,,,USAFacts,USAFacts,,,,,136373
-2020-01-26,United States,California,Humboldt County,0,0,,,,,USAFacts,USAFacts,,,,,136373
-2020-01-27,United States,California,Humboldt County,0,0,,,,,USAFacts,USAFacts,,,,,136373
-2020-01-28,United States,California,Humboldt County,0,0,,,,,USAFacts,USAFacts,,,,,136373
-2020-01-29,United States,California,Humboldt County,0,0,,,,,USAFacts,USAFacts,,,,,136373
-2020-01-30,United States,California,Humboldt County,0,0,,,,,USAFacts,USAFacts,,,,,136373
-2020-01-31,United States,California,Humboldt County,0,0,,,,,USAFacts,USAFacts,,,,,136373
-2020-01-22,United States,California,Imperial County,0,0,,,,,USAFacts,USAFacts,,,,,181827
-2020-01-23,United States,California,Imperial County,0,0,,,,,USAFacts,USAFacts,,,,,181827
-2020-01-24,United States,California,Imperial County,0,0,,,,,USAFacts,USAFacts,,,,,181827
-2020-01-25,United States,California,Imperial County,0,0,,,,,USAFacts,USAFacts,,,,,181827
-2020-01-26,United States,California,Imperial County,0,0,,,,,USAFacts,USAFacts,,,,,181827
-2020-01-27,United States,California,Imperial County,0,0,,,,,USAFacts,USAFacts,,,,,181827
-2020-01-28,United States,California,Imperial County,0,0,,,,,USAFacts,USAFacts,,,,,181827
-2020-01-29,United States,California,Imperial County,0,0,,,,,USAFacts,USAFacts,,,,,181827
-2020-01-30,United States,California,Imperial County,0,0,,,,,USAFacts,USAFacts,,,,,181827
-2020-01-31,United States,California,Imperial County,0,0,,,,,USAFacts,USAFacts,,,,,181827
+2020-01-22,United States,California,Fresno County,4,0,,,,,USAFacts,USAFacts,,,,,994400
+2020-01-23,United States,California,Fresno County,4,0,,,,,USAFacts,USAFacts,,,,,994400
+2020-01-24,United States,California,Fresno County,4,0,,,,,USAFacts,USAFacts,,,,,994400
+2020-01-25,United States,California,Fresno County,4,0,,,,,USAFacts,USAFacts,,,,,994400
+2020-01-26,United States,California,Fresno County,5,0,,,,,USAFacts,USAFacts,,,,,994400
+2020-01-27,United States,California,Fresno County,5,0,,,,,USAFacts,USAFacts,,,,,994400
+2020-01-28,United States,California,Fresno County,5,0,,,,,USAFacts,USAFacts,,,,,994400
+2020-01-29,United States,California,Fresno County,5,0,,,,,USAFacts,USAFacts,,,,,994400
+2020-01-30,United States,California,Fresno County,6,0,,,,,USAFacts,USAFacts,,,,,994400
+2020-01-31,United States,California,Fresno County,6,0,,,,,USAFacts,USAFacts,,,,,994400
+2020-01-22,United States,California,Glenn County,2,0,,,,,USAFacts,USAFacts,,,,,28047
+2020-01-23,United States,California,Glenn County,2,0,,,,,USAFacts,USAFacts,,,,,28047
+2020-01-24,United States,California,Glenn County,2,0,,,,,USAFacts,USAFacts,,,,,28047
+2020-01-25,United States,California,Glenn County,2,0,,,,,USAFacts,USAFacts,,,,,28047
+2020-01-26,United States,California,Glenn County,3,0,,,,,USAFacts,USAFacts,,,,,28047
+2020-01-27,United States,California,Glenn County,3,0,,,,,USAFacts,USAFacts,,,,,28047
+2020-01-28,United States,California,Glenn County,3,0,,,,,USAFacts,USAFacts,,,,,28047
+2020-01-29,United States,California,Glenn County,3,0,,,,,USAFacts,USAFacts,,,,,28047
+2020-01-30,United States,California,Glenn County,3,0,,,,,USAFacts,USAFacts,,,,,28047
+2020-01-31,United States,California,Glenn County,3,0,,,,,USAFacts,USAFacts,,,,,28047
+2020-01-22,United States,California,Humboldt County,3,0,,,,,USAFacts,USAFacts,,,,,136373
+2020-01-23,United States,California,Humboldt County,3,0,,,,,USAFacts,USAFacts,,,,,136373
+2020-01-24,United States,California,Humboldt County,3,0,,,,,USAFacts,USAFacts,,,,,136373
+2020-01-25,United States,California,Humboldt County,3,0,,,,,USAFacts,USAFacts,,,,,136373
+2020-01-26,United States,California,Humboldt County,4,0,,,,,USAFacts,USAFacts,,,,,136373
+2020-01-27,United States,California,Humboldt County,4,0,,,,,USAFacts,USAFacts,,,,,136373
+2020-01-28,United States,California,Humboldt County,4,0,,,,,USAFacts,USAFacts,,,,,136373
+2020-01-29,United States,California,Humboldt County,4,0,,,,,USAFacts,USAFacts,,,,,136373
+2020-01-30,United States,California,Humboldt County,4,0,,,,,USAFacts,USAFacts,,,,,136373
+2020-01-31,United States,California,Humboldt County,4,0,,,,,USAFacts,USAFacts,,,,,136373
+2020-01-22,United States,California,Imperial County,5,0,,,,,USAFacts,USAFacts,,,,,181827
+2020-01-23,United States,California,Imperial County,5,0,,,,,USAFacts,USAFacts,,,,,181827
+2020-01-24,United States,California,Imperial County,5,0,,,,,USAFacts,USAFacts,,,,,181827
+2020-01-25,United States,California,Imperial County,5,0,,,,,USAFacts,USAFacts,,,,,181827
+2020-01-26,United States,California,Imperial County,5,0,,,,,USAFacts,USAFacts,,,,,181827
+2020-01-27,United States,California,Imperial County,5,0,,,,,USAFacts,USAFacts,,,,,181827
+2020-01-28,United States,California,Imperial County,5,0,,,,,USAFacts,USAFacts,,,,,181827
+2020-01-29,United States,California,Imperial County,5,0,,,,,USAFacts,USAFacts,,,,,181827
+2020-01-30,United States,California,Imperial County,5,0,,,,,USAFacts,USAFacts,,,,,181827
+2020-01-31,United States,California,Imperial County,5,0,,,,,USAFacts,USAFacts,,,,,181827
 2020-01-22,United States,California,Inyo County,0,0,,,,,USAFacts,USAFacts,,,,,17987
 2020-01-23,United States,California,Inyo County,0,0,,,,,USAFacts,USAFacts,,,,,17987
 2020-01-24,United States,California,Inyo County,0,0,,,,,USAFacts,USAFacts,,,,,17987
@@ -5614,26 +5887,26 @@ Date,Country,State/Province,Admin2,CasesCount,DeathsCount,RecoveryCount,TotalDos
 2020-01-29,United States,California,Inyo County,0,0,,,,,USAFacts,USAFacts,,,,,17987
 2020-01-30,United States,California,Inyo County,0,0,,,,,USAFacts,USAFacts,,,,,17987
 2020-01-31,United States,California,Inyo County,0,0,,,,,USAFacts,USAFacts,,,,,17987
-2020-01-22,United States,California,Kern County,0,0,,,,,USAFacts,USAFacts,,,,,896764
-2020-01-23,United States,California,Kern County,0,0,,,,,USAFacts,USAFacts,,,,,896764
-2020-01-24,United States,California,Kern County,0,0,,,,,USAFacts,USAFacts,,,,,896764
-2020-01-25,United States,California,Kern County,0,0,,,,,USAFacts,USAFacts,,,,,896764
-2020-01-26,United States,California,Kern County,0,0,,,,,USAFacts,USAFacts,,,,,896764
-2020-01-27,United States,California,Kern County,0,0,,,,,USAFacts,USAFacts,,,,,896764
-2020-01-28,United States,California,Kern County,0,0,,,,,USAFacts,USAFacts,,,,,896764
-2020-01-29,United States,California,Kern County,0,0,,,,,USAFacts,USAFacts,,,,,896764
-2020-01-30,United States,California,Kern County,0,0,,,,,USAFacts,USAFacts,,,,,896764
-2020-01-31,United States,California,Kern County,0,0,,,,,USAFacts,USAFacts,,,,,896764
-2020-01-22,United States,California,Kings County,0,0,,,,,USAFacts,USAFacts,,,,,151366
-2020-01-23,United States,California,Kings County,0,0,,,,,USAFacts,USAFacts,,,,,151366
-2020-01-24,United States,California,Kings County,0,0,,,,,USAFacts,USAFacts,,,,,151366
-2020-01-25,United States,California,Kings County,0,0,,,,,USAFacts,USAFacts,,,,,151366
-2020-01-26,United States,California,Kings County,0,0,,,,,USAFacts,USAFacts,,,,,151366
-2020-01-27,United States,California,Kings County,0,0,,,,,USAFacts,USAFacts,,,,,151366
-2020-01-28,United States,California,Kings County,0,0,,,,,USAFacts,USAFacts,,,,,151366
-2020-01-29,United States,California,Kings County,0,0,,,,,USAFacts,USAFacts,,,,,151366
-2020-01-30,United States,California,Kings County,0,0,,,,,USAFacts,USAFacts,,,,,151366
-2020-01-31,United States,California,Kings County,0,0,,,,,USAFacts,USAFacts,,,,,151366
+2020-01-22,United States,California,Kern County,7,0,,,,,USAFacts,USAFacts,,,,,896764
+2020-01-23,United States,California,Kern County,7,0,,,,,USAFacts,USAFacts,,,,,896764
+2020-01-24,United States,California,Kern County,7,0,,,,,USAFacts,USAFacts,,,,,896764
+2020-01-25,United States,California,Kern County,7,0,,,,,USAFacts,USAFacts,,,,,896764
+2020-01-26,United States,California,Kern County,7,0,,,,,USAFacts,USAFacts,,,,,896764
+2020-01-27,United States,California,Kern County,7,0,,,,,USAFacts,USAFacts,,,,,896764
+2020-01-28,United States,California,Kern County,7,0,,,,,USAFacts,USAFacts,,,,,896764
+2020-01-29,United States,California,Kern County,8,0,,,,,USAFacts,USAFacts,,,,,896764
+2020-01-30,United States,California,Kern County,8,0,,,,,USAFacts,USAFacts,,,,,896764
+2020-01-31,United States,California,Kern County,8,0,,,,,USAFacts,USAFacts,,,,,896764
+2020-01-22,United States,California,Kings County,13,0,,,,,USAFacts,USAFacts,,,,,151366
+2020-01-23,United States,California,Kings County,14,0,,,,,USAFacts,USAFacts,,,,,151366
+2020-01-24,United States,California,Kings County,14,0,,,,,USAFacts,USAFacts,,,,,151366
+2020-01-25,United States,California,Kings County,14,0,,,,,USAFacts,USAFacts,,,,,151366
+2020-01-26,United States,California,Kings County,14,0,,,,,USAFacts,USAFacts,,,,,151366
+2020-01-27,United States,California,Kings County,14,0,,,,,USAFacts,USAFacts,,,,,151366
+2020-01-28,United States,California,Kings County,14,0,,,,,USAFacts,USAFacts,,,,,151366
+2020-01-29,United States,California,Kings County,14,0,,,,,USAFacts,USAFacts,,,,,151366
+2020-01-30,United States,California,Kings County,14,0,,,,,USAFacts,USAFacts,,,,,151366
+2020-01-31,United States,California,Kings County,14,0,,,,,USAFacts,USAFacts,,,,,151366
 2020-01-22,United States,California,Lake County,0,0,,,,,USAFacts,USAFacts,,,,,64382
 2020-01-23,United States,California,Lake County,0,0,,,,,USAFacts,USAFacts,,,,,64382
 2020-01-24,United States,California,Lake County,0,0,,,,,USAFacts,USAFacts,,,,,64382
@@ -5654,36 +5927,36 @@ Date,Country,State/Province,Admin2,CasesCount,DeathsCount,RecoveryCount,TotalDos
 2020-01-29,United States,California,Lassen County,0,0,,,,,USAFacts,USAFacts,,,,,30802
 2020-01-30,United States,California,Lassen County,0,0,,,,,USAFacts,USAFacts,,,,,30802
 2020-01-31,United States,California,Lassen County,0,0,,,,,USAFacts,USAFacts,,,,,30802
-2020-01-22,United States,California,Los Angeles County,0,0,,,,,USAFacts,USAFacts,,,,,10105518
-2020-01-23,United States,California,Los Angeles County,0,0,,,,,USAFacts,USAFacts,,,,,10105518
-2020-01-24,United States,California,Los Angeles County,0,0,,,,,USAFacts,USAFacts,,,,,10105518
-2020-01-25,United States,California,Los Angeles County,0,0,,,,,USAFacts,USAFacts,,,,,10105518
-2020-01-26,United States,California,Los Angeles County,1,0,,,,,USAFacts,USAFacts,,,,,10105518
-2020-01-27,United States,California,Los Angeles County,1,0,,,,,USAFacts,USAFacts,,,,,10105518
-2020-01-28,United States,California,Los Angeles County,1,0,,,,,USAFacts,USAFacts,,,,,10105518
-2020-01-29,United States,California,Los Angeles County,1,0,,,,,USAFacts,USAFacts,,,,,10105518
-2020-01-30,United States,California,Los Angeles County,1,0,,,,,USAFacts,USAFacts,,,,,10105518
-2020-01-31,United States,California,Los Angeles County,1,0,,,,,USAFacts,USAFacts,,,,,10105518
-2020-01-22,United States,California,Madera County,0,0,,,,,USAFacts,USAFacts,,,,,157672
-2020-01-23,United States,California,Madera County,0,0,,,,,USAFacts,USAFacts,,,,,157672
-2020-01-24,United States,California,Madera County,0,0,,,,,USAFacts,USAFacts,,,,,157672
-2020-01-25,United States,California,Madera County,0,0,,,,,USAFacts,USAFacts,,,,,157672
-2020-01-26,United States,California,Madera County,0,0,,,,,USAFacts,USAFacts,,,,,157672
-2020-01-27,United States,California,Madera County,0,0,,,,,USAFacts,USAFacts,,,,,157672
-2020-01-28,United States,California,Madera County,0,0,,,,,USAFacts,USAFacts,,,,,157672
-2020-01-29,United States,California,Madera County,0,0,,,,,USAFacts,USAFacts,,,,,157672
-2020-01-30,United States,California,Madera County,0,0,,,,,USAFacts,USAFacts,,,,,157672
-2020-01-31,United States,California,Madera County,0,0,,,,,USAFacts,USAFacts,,,,,157672
-2020-01-22,United States,California,Marin County,0,0,,,,,USAFacts,USAFacts,,,,,259666
-2020-01-23,United States,California,Marin County,0,0,,,,,USAFacts,USAFacts,,,,,259666
-2020-01-24,United States,California,Marin County,0,0,,,,,USAFacts,USAFacts,,,,,259666
-2020-01-25,United States,California,Marin County,0,0,,,,,USAFacts,USAFacts,,,,,259666
-2020-01-26,United States,California,Marin County,0,0,,,,,USAFacts,USAFacts,,,,,259666
-2020-01-27,United States,California,Marin County,0,0,,,,,USAFacts,USAFacts,,,,,259666
-2020-01-28,United States,California,Marin County,0,0,,,,,USAFacts,USAFacts,,,,,259666
-2020-01-29,United States,California,Marin County,0,0,,,,,USAFacts,USAFacts,,,,,259666
-2020-01-30,United States,California,Marin County,0,0,,,,,USAFacts,USAFacts,,,,,259666
-2020-01-31,United States,California,Marin County,0,0,,,,,USAFacts,USAFacts,,,,,259666
+2020-01-22,United States,California,Los Angeles County,375,0,,,,,USAFacts,USAFacts,,,,,10105518
+2020-01-23,United States,California,Los Angeles County,379,0,,,,,USAFacts,USAFacts,,,,,10105518
+2020-01-24,United States,California,Los Angeles County,382,0,,,,,USAFacts,USAFacts,,,,,10105518
+2020-01-25,United States,California,Los Angeles County,384,0,,,,,USAFacts,USAFacts,,,,,10105518
+2020-01-26,United States,California,Los Angeles County,385,0,,,,,USAFacts,USAFacts,,,,,10105518
+2020-01-27,United States,California,Los Angeles County,388,0,,,,,USAFacts,USAFacts,,,,,10105518
+2020-01-28,United States,California,Los Angeles County,390,0,,,,,USAFacts,USAFacts,,,,,10105518
+2020-01-29,United States,California,Los Angeles County,391,0,,,,,USAFacts,USAFacts,,,,,10105518
+2020-01-30,United States,California,Los Angeles County,392,0,,,,,USAFacts,USAFacts,,,,,10105518
+2020-01-31,United States,California,Los Angeles County,401,0,,,,,USAFacts,USAFacts,,,,,10105518
+2020-01-22,United States,California,Madera County,3,0,,,,,USAFacts,USAFacts,,,,,157672
+2020-01-23,United States,California,Madera County,3,0,,,,,USAFacts,USAFacts,,,,,157672
+2020-01-24,United States,California,Madera County,3,0,,,,,USAFacts,USAFacts,,,,,157672
+2020-01-25,United States,California,Madera County,3,0,,,,,USAFacts,USAFacts,,,,,157672
+2020-01-26,United States,California,Madera County,3,0,,,,,USAFacts,USAFacts,,,,,157672
+2020-01-27,United States,California,Madera County,3,0,,,,,USAFacts,USAFacts,,,,,157672
+2020-01-28,United States,California,Madera County,3,0,,,,,USAFacts,USAFacts,,,,,157672
+2020-01-29,United States,California,Madera County,3,0,,,,,USAFacts,USAFacts,,,,,157672
+2020-01-30,United States,California,Madera County,3,0,,,,,USAFacts,USAFacts,,,,,157672
+2020-01-31,United States,California,Madera County,3,0,,,,,USAFacts,USAFacts,,,,,157672
+2020-01-22,United States,California,Marin County,6,0,,,,,USAFacts,USAFacts,,,,,259666
+2020-01-23,United States,California,Marin County,6,0,,,,,USAFacts,USAFacts,,,,,259666
+2020-01-24,United States,California,Marin County,6,0,,,,,USAFacts,USAFacts,,,,,259666
+2020-01-25,United States,California,Marin County,6,0,,,,,USAFacts,USAFacts,,,,,259666
+2020-01-26,United States,California,Marin County,6,0,,,,,USAFacts,USAFacts,,,,,259666
+2020-01-27,United States,California,Marin County,6,0,,,,,USAFacts,USAFacts,,,,,259666
+2020-01-28,United States,California,Marin County,6,0,,,,,USAFacts,USAFacts,,,,,259666
+2020-01-29,United States,California,Marin County,6,0,,,,,USAFacts,USAFacts,,,,,259666
+2020-01-30,United States,California,Marin County,6,0,,,,,USAFacts,USAFacts,,,,,259666
+2020-01-31,United States,California,Marin County,6,0,,,,,USAFacts,USAFacts,,,,,259666
 2020-01-22,United States,California,Mariposa County,0,0,,,,,USAFacts,USAFacts,,,,,17471
 2020-01-23,United States,California,Mariposa County,0,0,,,,,USAFacts,USAFacts,,,,,17471
 2020-01-24,United States,California,Mariposa County,0,0,,,,,USAFacts,USAFacts,,,,,17471
@@ -5704,16 +5977,16 @@ Date,Country,State/Province,Admin2,CasesCount,DeathsCount,RecoveryCount,TotalDos
 2020-01-29,United States,California,Mendocino County,0,0,,,,,USAFacts,USAFacts,,,,,87606
 2020-01-30,United States,California,Mendocino County,0,0,,,,,USAFacts,USAFacts,,,,,87606
 2020-01-31,United States,California,Mendocino County,0,0,,,,,USAFacts,USAFacts,,,,,87606
-2020-01-22,United States,California,Merced County,0,0,,,,,USAFacts,USAFacts,,,,,274765
-2020-01-23,United States,California,Merced County,0,0,,,,,USAFacts,USAFacts,,,,,274765
-2020-01-24,United States,California,Merced County,0,0,,,,,USAFacts,USAFacts,,,,,274765
-2020-01-25,United States,California,Merced County,0,0,,,,,USAFacts,USAFacts,,,,,274765
-2020-01-26,United States,California,Merced County,0,0,,,,,USAFacts,USAFacts,,,,,274765
-2020-01-27,United States,California,Merced County,0,0,,,,,USAFacts,USAFacts,,,,,274765
-2020-01-28,United States,California,Merced County,0,0,,,,,USAFacts,USAFacts,,,,,274765
-2020-01-29,United States,California,Merced County,0,0,,,,,USAFacts,USAFacts,,,,,274765
-2020-01-30,United States,California,Merced County,0,0,,,,,USAFacts,USAFacts,,,,,274765
-2020-01-31,United States,California,Merced County,0,0,,,,,USAFacts,USAFacts,,,,,274765
+2020-01-22,United States,California,Merced County,2,0,,,,,USAFacts,USAFacts,,,,,274765
+2020-01-23,United States,California,Merced County,3,0,,,,,USAFacts,USAFacts,,,,,274765
+2020-01-24,United States,California,Merced County,3,0,,,,,USAFacts,USAFacts,,,,,274765
+2020-01-25,United States,California,Merced County,3,0,,,,,USAFacts,USAFacts,,,,,274765
+2020-01-26,United States,California,Merced County,3,0,,,,,USAFacts,USAFacts,,,,,274765
+2020-01-27,United States,California,Merced County,3,0,,,,,USAFacts,USAFacts,,,,,274765
+2020-01-28,United States,California,Merced County,3,0,,,,,USAFacts,USAFacts,,,,,274765
+2020-01-29,United States,California,Merced County,3,0,,,,,USAFacts,USAFacts,,,,,274765
+2020-01-30,United States,California,Merced County,3,0,,,,,USAFacts,USAFacts,,,,,274765
+2020-01-31,United States,California,Merced County,3,0,,,,,USAFacts,USAFacts,,,,,274765
 2020-01-22,United States,California,Modoc County,0,0,,,,,USAFacts,USAFacts,,,,,8777
 2020-01-23,United States,California,Modoc County,0,0,,,,,USAFacts,USAFacts,,,,,8777
 2020-01-24,United States,California,Modoc County,0,0,,,,,USAFacts,USAFacts,,,,,8777
@@ -5724,66 +5997,66 @@ Date,Country,State/Province,Admin2,CasesCount,DeathsCount,RecoveryCount,TotalDos
 2020-01-29,United States,California,Modoc County,0,0,,,,,USAFacts,USAFacts,,,,,8777
 2020-01-30,United States,California,Modoc County,0,0,,,,,USAFacts,USAFacts,,,,,8777
 2020-01-31,United States,California,Modoc County,0,0,,,,,USAFacts,USAFacts,,,,,8777
-2020-01-22,United States,California,Mono County,0,0,,,,,USAFacts,USAFacts,,,,,14250
-2020-01-23,United States,California,Mono County,0,0,,,,,USAFacts,USAFacts,,,,,14250
-2020-01-24,United States,California,Mono County,0,0,,,,,USAFacts,USAFacts,,,,,14250
-2020-01-25,United States,California,Mono County,0,0,,,,,USAFacts,USAFacts,,,,,14250
-2020-01-26,United States,California,Mono County,0,0,,,,,USAFacts,USAFacts,,,,,14250
-2020-01-27,United States,California,Mono County,0,0,,,,,USAFacts,USAFacts,,,,,14250
-2020-01-28,United States,California,Mono County,0,0,,,,,USAFacts,USAFacts,,,,,14250
-2020-01-29,United States,California,Mono County,0,0,,,,,USAFacts,USAFacts,,,,,14250
-2020-01-30,United States,California,Mono County,0,0,,,,,USAFacts,USAFacts,,,,,14250
-2020-01-31,United States,California,Mono County,0,0,,,,,USAFacts,USAFacts,,,,,14250
-2020-01-22,United States,California,Monterey County,0,0,,,,,USAFacts,USAFacts,,,,,435594
-2020-01-23,United States,California,Monterey County,0,0,,,,,USAFacts,USAFacts,,,,,435594
-2020-01-24,United States,California,Monterey County,0,0,,,,,USAFacts,USAFacts,,,,,435594
-2020-01-25,United States,California,Monterey County,0,0,,,,,USAFacts,USAFacts,,,,,435594
-2020-01-26,United States,California,Monterey County,0,0,,,,,USAFacts,USAFacts,,,,,435594
-2020-01-27,United States,California,Monterey County,0,0,,,,,USAFacts,USAFacts,,,,,435594
-2020-01-28,United States,California,Monterey County,0,0,,,,,USAFacts,USAFacts,,,,,435594
-2020-01-29,United States,California,Monterey County,0,0,,,,,USAFacts,USAFacts,,,,,435594
-2020-01-30,United States,California,Monterey County,0,0,,,,,USAFacts,USAFacts,,,,,435594
-2020-01-31,United States,California,Monterey County,0,0,,,,,USAFacts,USAFacts,,,,,435594
-2020-01-22,United States,California,Napa County,0,0,,,,,USAFacts,USAFacts,,,,,139417
-2020-01-23,United States,California,Napa County,0,0,,,,,USAFacts,USAFacts,,,,,139417
-2020-01-24,United States,California,Napa County,0,0,,,,,USAFacts,USAFacts,,,,,139417
-2020-01-25,United States,California,Napa County,0,0,,,,,USAFacts,USAFacts,,,,,139417
-2020-01-26,United States,California,Napa County,0,0,,,,,USAFacts,USAFacts,,,,,139417
-2020-01-27,United States,California,Napa County,0,0,,,,,USAFacts,USAFacts,,,,,139417
-2020-01-28,United States,California,Napa County,0,0,,,,,USAFacts,USAFacts,,,,,139417
-2020-01-29,United States,California,Napa County,0,0,,,,,USAFacts,USAFacts,,,,,139417
-2020-01-30,United States,California,Napa County,0,0,,,,,USAFacts,USAFacts,,,,,139417
-2020-01-31,United States,California,Napa County,0,0,,,,,USAFacts,USAFacts,,,,,139417
-2020-01-22,United States,California,Nevada County,0,0,,,,,USAFacts,USAFacts,,,,,99696
-2020-01-23,United States,California,Nevada County,0,0,,,,,USAFacts,USAFacts,,,,,99696
-2020-01-24,United States,California,Nevada County,0,0,,,,,USAFacts,USAFacts,,,,,99696
-2020-01-25,United States,California,Nevada County,0,0,,,,,USAFacts,USAFacts,,,,,99696
-2020-01-26,United States,California,Nevada County,0,0,,,,,USAFacts,USAFacts,,,,,99696
-2020-01-27,United States,California,Nevada County,0,0,,,,,USAFacts,USAFacts,,,,,99696
-2020-01-28,United States,California,Nevada County,0,0,,,,,USAFacts,USAFacts,,,,,99696
-2020-01-29,United States,California,Nevada County,0,0,,,,,USAFacts,USAFacts,,,,,99696
-2020-01-30,United States,California,Nevada County,0,0,,,,,USAFacts,USAFacts,,,,,99696
-2020-01-31,United States,California,Nevada County,0,0,,,,,USAFacts,USAFacts,,,,,99696
-2020-01-22,United States,California,Orange County,0,0,,,,,USAFacts,USAFacts,,,,,3185968
-2020-01-23,United States,California,Orange County,0,0,,,,,USAFacts,USAFacts,,,,,3185968
-2020-01-24,United States,California,Orange County,0,0,,,,,USAFacts,USAFacts,,,,,3185968
-2020-01-25,United States,California,Orange County,0,0,,,,,USAFacts,USAFacts,,,,,3185968
-2020-01-26,United States,California,Orange County,1,0,,,,,USAFacts,USAFacts,,,,,3185968
-2020-01-27,United States,California,Orange County,1,0,,,,,USAFacts,USAFacts,,,,,3185968
-2020-01-28,United States,California,Orange County,1,0,,,,,USAFacts,USAFacts,,,,,3185968
-2020-01-29,United States,California,Orange County,1,0,,,,,USAFacts,USAFacts,,,,,3185968
-2020-01-30,United States,California,Orange County,1,0,,,,,USAFacts,USAFacts,,,,,3185968
-2020-01-31,United States,California,Orange County,1,0,,,,,USAFacts,USAFacts,,,,,3185968
-2020-01-22,United States,California,Placer County,0,0,,,,,USAFacts,USAFacts,,,,,393149
-2020-01-23,United States,California,Placer County,0,0,,,,,USAFacts,USAFacts,,,,,393149
-2020-01-24,United States,California,Placer County,0,0,,,,,USAFacts,USAFacts,,,,,393149
-2020-01-25,United States,California,Placer County,0,0,,,,,USAFacts,USAFacts,,,,,393149
-2020-01-26,United States,California,Placer County,0,0,,,,,USAFacts,USAFacts,,,,,393149
-2020-01-27,United States,California,Placer County,0,0,,,,,USAFacts,USAFacts,,,,,393149
-2020-01-28,United States,California,Placer County,0,0,,,,,USAFacts,USAFacts,,,,,393149
-2020-01-29,United States,California,Placer County,0,0,,,,,USAFacts,USAFacts,,,,,393149
-2020-01-30,United States,California,Placer County,0,0,,,,,USAFacts,USAFacts,,,,,393149
-2020-01-31,United States,California,Placer County,0,0,,,,,USAFacts,USAFacts,,,,,393149
+2020-01-22,United States,California,Mono County,1,0,,,,,USAFacts,USAFacts,,,,,14250
+2020-01-23,United States,California,Mono County,1,0,,,,,USAFacts,USAFacts,,,,,14250
+2020-01-24,United States,California,Mono County,1,0,,,,,USAFacts,USAFacts,,,,,14250
+2020-01-25,United States,California,Mono County,1,0,,,,,USAFacts,USAFacts,,,,,14250
+2020-01-26,United States,California,Mono County,1,0,,,,,USAFacts,USAFacts,,,,,14250
+2020-01-27,United States,California,Mono County,1,0,,,,,USAFacts,USAFacts,,,,,14250
+2020-01-28,United States,California,Mono County,1,0,,,,,USAFacts,USAFacts,,,,,14250
+2020-01-29,United States,California,Mono County,1,0,,,,,USAFacts,USAFacts,,,,,14250
+2020-01-30,United States,California,Mono County,1,0,,,,,USAFacts,USAFacts,,,,,14250
+2020-01-31,United States,California,Mono County,1,0,,,,,USAFacts,USAFacts,,,,,14250
+2020-01-22,United States,California,Monterey County,1,0,,,,,USAFacts,USAFacts,,,,,435594
+2020-01-23,United States,California,Monterey County,1,0,,,,,USAFacts,USAFacts,,,,,435594
+2020-01-24,United States,California,Monterey County,1,0,,,,,USAFacts,USAFacts,,,,,435594
+2020-01-25,United States,California,Monterey County,1,0,,,,,USAFacts,USAFacts,,,,,435594
+2020-01-26,United States,California,Monterey County,1,0,,,,,USAFacts,USAFacts,,,,,435594
+2020-01-27,United States,California,Monterey County,1,0,,,,,USAFacts,USAFacts,,,,,435594
+2020-01-28,United States,California,Monterey County,1,0,,,,,USAFacts,USAFacts,,,,,435594
+2020-01-29,United States,California,Monterey County,1,0,,,,,USAFacts,USAFacts,,,,,435594
+2020-01-30,United States,California,Monterey County,1,0,,,,,USAFacts,USAFacts,,,,,435594
+2020-01-31,United States,California,Monterey County,1,0,,,,,USAFacts,USAFacts,,,,,435594
+2020-01-22,United States,California,Napa County,1,0,,,,,USAFacts,USAFacts,,,,,139417
+2020-01-23,United States,California,Napa County,1,0,,,,,USAFacts,USAFacts,,,,,139417
+2020-01-24,United States,California,Napa County,1,0,,,,,USAFacts,USAFacts,,,,,139417
+2020-01-25,United States,California,Napa County,1,0,,,,,USAFacts,USAFacts,,,,,139417
+2020-01-26,United States,California,Napa County,2,0,,,,,USAFacts,USAFacts,,,,,139417
+2020-01-27,United States,California,Napa County,2,0,,,,,USAFacts,USAFacts,,,,,139417
+2020-01-28,United States,California,Napa County,2,0,,,,,USAFacts,USAFacts,,,,,139417
+2020-01-29,United States,California,Napa County,2,0,,,,,USAFacts,USAFacts,,,,,139417
+2020-01-30,United States,California,Napa County,2,0,,,,,USAFacts,USAFacts,,,,,139417
+2020-01-31,United States,California,Napa County,2,0,,,,,USAFacts,USAFacts,,,,,139417
+2020-01-22,United States,California,Nevada County,4,0,,,,,USAFacts,USAFacts,,,,,99696
+2020-01-23,United States,California,Nevada County,4,0,,,,,USAFacts,USAFacts,,,,,99696
+2020-01-24,United States,California,Nevada County,4,0,,,,,USAFacts,USAFacts,,,,,99696
+2020-01-25,United States,California,Nevada County,4,0,,,,,USAFacts,USAFacts,,,,,99696
+2020-01-26,United States,California,Nevada County,4,0,,,,,USAFacts,USAFacts,,,,,99696
+2020-01-27,United States,California,Nevada County,4,0,,,,,USAFacts,USAFacts,,,,,99696
+2020-01-28,United States,California,Nevada County,4,0,,,,,USAFacts,USAFacts,,,,,99696
+2020-01-29,United States,California,Nevada County,4,0,,,,,USAFacts,USAFacts,,,,,99696
+2020-01-30,United States,California,Nevada County,4,0,,,,,USAFacts,USAFacts,,,,,99696
+2020-01-31,United States,California,Nevada County,5,0,,,,,USAFacts,USAFacts,,,,,99696
+2020-01-22,United States,California,Orange County,8,0,,,,,USAFacts,USAFacts,,,,,3185968
+2020-01-23,United States,California,Orange County,8,0,,,,,USAFacts,USAFacts,,,,,3185968
+2020-01-24,United States,California,Orange County,9,0,,,,,USAFacts,USAFacts,,,,,3185968
+2020-01-25,United States,California,Orange County,9,0,,,,,USAFacts,USAFacts,,,,,3185968
+2020-01-26,United States,California,Orange County,9,0,,,,,USAFacts,USAFacts,,,,,3185968
+2020-01-27,United States,California,Orange County,9,0,,,,,USAFacts,USAFacts,,,,,3185968
+2020-01-28,United States,California,Orange County,9,0,,,,,USAFacts,USAFacts,,,,,3185968
+2020-01-29,United States,California,Orange County,9,0,,,,,USAFacts,USAFacts,,,,,3185968
+2020-01-30,United States,California,Orange County,10,0,,,,,USAFacts,USAFacts,,,,,3185968
+2020-01-31,United States,California,Orange County,10,0,,,,,USAFacts,USAFacts,,,,,3185968
+2020-01-22,United States,California,Placer County,3,0,,,,,USAFacts,USAFacts,,,,,393149
+2020-01-23,United States,California,Placer County,3,0,,,,,USAFacts,USAFacts,,,,,393149
+2020-01-24,United States,California,Placer County,3,0,,,,,USAFacts,USAFacts,,,,,393149
+2020-01-25,United States,California,Placer County,3,0,,,,,USAFacts,USAFacts,,,,,393149
+2020-01-26,United States,California,Placer County,3,0,,,,,USAFacts,USAFacts,,,,,393149
+2020-01-27,United States,California,Placer County,3,0,,,,,USAFacts,USAFacts,,,,,393149
+2020-01-28,United States,California,Placer County,3,0,,,,,USAFacts,USAFacts,,,,,393149
+2020-01-29,United States,California,Placer County,3,0,,,,,USAFacts,USAFacts,,,,,393149
+2020-01-30,United States,California,Placer County,4,0,,,,,USAFacts,USAFacts,,,,,393149
+2020-01-31,United States,California,Placer County,4,0,,,,,USAFacts,USAFacts,,,,,393149
 2020-01-22,United States,California,Plumas County,0,0,,,,,USAFacts,USAFacts,,,,,18804
 2020-01-23,United States,California,Plumas County,0,0,,,,,USAFacts,USAFacts,,,,,18804
 2020-01-24,United States,California,Plumas County,0,0,,,,,USAFacts,USAFacts,,,,,18804
@@ -5794,46 +6067,46 @@ Date,Country,State/Province,Admin2,CasesCount,DeathsCount,RecoveryCount,TotalDos
 2020-01-29,United States,California,Plumas County,0,0,,,,,USAFacts,USAFacts,,,,,18804
 2020-01-30,United States,California,Plumas County,0,0,,,,,USAFacts,USAFacts,,,,,18804
 2020-01-31,United States,California,Plumas County,0,0,,,,,USAFacts,USAFacts,,,,,18804
-2020-01-22,United States,California,Riverside County,0,0,,,,,USAFacts,USAFacts,,,,,2450758
-2020-01-23,United States,California,Riverside County,0,0,,,,,USAFacts,USAFacts,,,,,2450758
-2020-01-24,United States,California,Riverside County,0,0,,,,,USAFacts,USAFacts,,,,,2450758
-2020-01-25,United States,California,Riverside County,0,0,,,,,USAFacts,USAFacts,,,,,2450758
-2020-01-26,United States,California,Riverside County,0,0,,,,,USAFacts,USAFacts,,,,,2450758
-2020-01-27,United States,California,Riverside County,0,0,,,,,USAFacts,USAFacts,,,,,2450758
-2020-01-28,United States,California,Riverside County,0,0,,,,,USAFacts,USAFacts,,,,,2450758
-2020-01-29,United States,California,Riverside County,0,0,,,,,USAFacts,USAFacts,,,,,2450758
-2020-01-30,United States,California,Riverside County,0,0,,,,,USAFacts,USAFacts,,,,,2450758
-2020-01-31,United States,California,Riverside County,0,0,,,,,USAFacts,USAFacts,,,,,2450758
-2020-01-22,United States,California,Sacramento County,0,0,,,,,USAFacts,USAFacts,,,,,1540975
-2020-01-23,United States,California,Sacramento County,0,0,,,,,USAFacts,USAFacts,,,,,1540975
-2020-01-24,United States,California,Sacramento County,0,0,,,,,USAFacts,USAFacts,,,,,1540975
-2020-01-25,United States,California,Sacramento County,0,0,,,,,USAFacts,USAFacts,,,,,1540975
-2020-01-26,United States,California,Sacramento County,0,0,,,,,USAFacts,USAFacts,,,,,1540975
-2020-01-27,United States,California,Sacramento County,0,0,,,,,USAFacts,USAFacts,,,,,1540975
-2020-01-28,United States,California,Sacramento County,0,0,,,,,USAFacts,USAFacts,,,,,1540975
-2020-01-29,United States,California,Sacramento County,0,0,,,,,USAFacts,USAFacts,,,,,1540975
-2020-01-30,United States,California,Sacramento County,0,0,,,,,USAFacts,USAFacts,,,,,1540975
-2020-01-31,United States,California,Sacramento County,0,0,,,,,USAFacts,USAFacts,,,,,1540975
-2020-01-22,United States,California,San Benito County,0,0,,,,,USAFacts,USAFacts,,,,,61537
-2020-01-23,United States,California,San Benito County,0,0,,,,,USAFacts,USAFacts,,,,,61537
-2020-01-24,United States,California,San Benito County,0,0,,,,,USAFacts,USAFacts,,,,,61537
-2020-01-25,United States,California,San Benito County,0,0,,,,,USAFacts,USAFacts,,,,,61537
-2020-01-26,United States,California,San Benito County,0,0,,,,,USAFacts,USAFacts,,,,,61537
-2020-01-27,United States,California,San Benito County,0,0,,,,,USAFacts,USAFacts,,,,,61537
-2020-01-28,United States,California,San Benito County,0,0,,,,,USAFacts,USAFacts,,,,,61537
-2020-01-29,United States,California,San Benito County,0,0,,,,,USAFacts,USAFacts,,,,,61537
-2020-01-30,United States,California,San Benito County,0,0,,,,,USAFacts,USAFacts,,,,,61537
-2020-01-31,United States,California,San Benito County,0,0,,,,,USAFacts,USAFacts,,,,,61537
-2020-01-22,United States,California,San Bernardino County,0,0,,,,,USAFacts,USAFacts,,,,,2171603
-2020-01-23,United States,California,San Bernardino County,0,0,,,,,USAFacts,USAFacts,,,,,2171603
-2020-01-24,United States,California,San Bernardino County,0,0,,,,,USAFacts,USAFacts,,,,,2171603
-2020-01-25,United States,California,San Bernardino County,0,0,,,,,USAFacts,USAFacts,,,,,2171603
-2020-01-26,United States,California,San Bernardino County,0,0,,,,,USAFacts,USAFacts,,,,,2171603
-2020-01-27,United States,California,San Bernardino County,0,0,,,,,USAFacts,USAFacts,,,,,2171603
-2020-01-28,United States,California,San Bernardino County,0,0,,,,,USAFacts,USAFacts,,,,,2171603
-2020-01-29,United States,California,San Bernardino County,0,0,,,,,USAFacts,USAFacts,,,,,2171603
-2020-01-30,United States,California,San Bernardino County,0,0,,,,,USAFacts,USAFacts,,,,,2171603
-2020-01-31,United States,California,San Bernardino County,0,0,,,,,USAFacts,USAFacts,,,,,2171603
+2020-01-22,United States,California,Riverside County,60,0,,,,,USAFacts,USAFacts,,,,,2450758
+2020-01-23,United States,California,Riverside County,60,0,,,,,USAFacts,USAFacts,,,,,2450758
+2020-01-24,United States,California,Riverside County,60,0,,,,,USAFacts,USAFacts,,,,,2450758
+2020-01-25,United States,California,Riverside County,60,0,,,,,USAFacts,USAFacts,,,,,2450758
+2020-01-26,United States,California,Riverside County,60,0,,,,,USAFacts,USAFacts,,,,,2450758
+2020-01-27,United States,California,Riverside County,61,0,,,,,USAFacts,USAFacts,,,,,2450758
+2020-01-28,United States,California,Riverside County,61,0,,,,,USAFacts,USAFacts,,,,,2450758
+2020-01-29,United States,California,Riverside County,61,0,,,,,USAFacts,USAFacts,,,,,2450758
+2020-01-30,United States,California,Riverside County,61,0,,,,,USAFacts,USAFacts,,,,,2450758
+2020-01-31,United States,California,Riverside County,62,0,,,,,USAFacts,USAFacts,,,,,2450758
+2020-01-22,United States,California,Sacramento County,1,0,,,,,USAFacts,USAFacts,,,,,1540975
+2020-01-23,United States,California,Sacramento County,1,0,,,,,USAFacts,USAFacts,,,,,1540975
+2020-01-24,United States,California,Sacramento County,1,0,,,,,USAFacts,USAFacts,,,,,1540975
+2020-01-25,United States,California,Sacramento County,1,0,,,,,USAFacts,USAFacts,,,,,1540975
+2020-01-26,United States,California,Sacramento County,1,0,,,,,USAFacts,USAFacts,,,,,1540975
+2020-01-27,United States,California,Sacramento County,2,0,,,,,USAFacts,USAFacts,,,,,1540975
+2020-01-28,United States,California,Sacramento County,2,0,,,,,USAFacts,USAFacts,,,,,1540975
+2020-01-29,United States,California,Sacramento County,2,0,,,,,USAFacts,USAFacts,,,,,1540975
+2020-01-30,United States,California,Sacramento County,2,0,,,,,USAFacts,USAFacts,,,,,1540975
+2020-01-31,United States,California,Sacramento County,2,0,,,,,USAFacts,USAFacts,,,,,1540975
+2020-01-22,United States,California,San Benito County,4,0,,,,,USAFacts,USAFacts,,,,,61537
+2020-01-23,United States,California,San Benito County,4,0,,,,,USAFacts,USAFacts,,,,,61537
+2020-01-24,United States,California,San Benito County,4,0,,,,,USAFacts,USAFacts,,,,,61537
+2020-01-25,United States,California,San Benito County,5,0,,,,,USAFacts,USAFacts,,,,,61537
+2020-01-26,United States,California,San Benito County,5,0,,,,,USAFacts,USAFacts,,,,,61537
+2020-01-27,United States,California,San Benito County,5,0,,,,,USAFacts,USAFacts,,,,,61537
+2020-01-28,United States,California,San Benito County,6,0,,,,,USAFacts,USAFacts,,,,,61537
+2020-01-29,United States,California,San Benito County,6,0,,,,,USAFacts,USAFacts,,,,,61537
+2020-01-30,United States,California,San Benito County,6,0,,,,,USAFacts,USAFacts,,,,,61537
+2020-01-31,United States,California,San Benito County,6,0,,,,,USAFacts,USAFacts,,,,,61537
+2020-01-22,United States,California,San Bernardino County,76,0,,,,,USAFacts,USAFacts,,,,,2171603
+2020-01-23,United States,California,San Bernardino County,78,0,,,,,USAFacts,USAFacts,,,,,2171603
+2020-01-24,United States,California,San Bernardino County,78,0,,,,,USAFacts,USAFacts,,,,,2171603
+2020-01-25,United States,California,San Bernardino County,80,0,,,,,USAFacts,USAFacts,,,,,2171603
+2020-01-26,United States,California,San Bernardino County,81,0,,,,,USAFacts,USAFacts,,,,,2171603
+2020-01-27,United States,California,San Bernardino County,83,0,,,,,USAFacts,USAFacts,,,,,2171603
+2020-01-28,United States,California,San Bernardino County,84,0,,,,,USAFacts,USAFacts,,,,,2171603
+2020-01-29,United States,California,San Bernardino County,85,0,,,,,USAFacts,USAFacts,,,,,2171603
+2020-01-30,United States,California,San Bernardino County,86,0,,,,,USAFacts,USAFacts,,,,,2171603
+2020-01-31,United States,California,San Bernardino County,89,0,,,,,USAFacts,USAFacts,,,,,2171603
 2020-01-22,United States,California,San Diego County,0,0,,,,,USAFacts,USAFacts,,,,,3343364
 2020-01-23,United States,California,San Diego County,0,0,,,,,USAFacts,USAFacts,,,,,3343364
 2020-01-24,United States,California,San Diego County,0,0,,,,,USAFacts,USAFacts,,,,,3343364
@@ -5844,36 +6117,36 @@ Date,Country,State/Province,Admin2,CasesCount,DeathsCount,RecoveryCount,TotalDos
 2020-01-29,United States,California,San Diego County,0,0,,,,,USAFacts,USAFacts,,,,,3343364
 2020-01-30,United States,California,San Diego County,0,0,,,,,USAFacts,USAFacts,,,,,3343364
 2020-01-31,United States,California,San Diego County,0,0,,,,,USAFacts,USAFacts,,,,,3343364
-2020-01-22,United States,California,San Joaquin County,0,0,,,,,USAFacts,USAFacts,,,,,752660
-2020-01-23,United States,California,San Joaquin County,0,0,,,,,USAFacts,USAFacts,,,,,752660
-2020-01-24,United States,California,San Joaquin County,0,0,,,,,USAFacts,USAFacts,,,,,752660
-2020-01-25,United States,California,San Joaquin County,0,0,,,,,USAFacts,USAFacts,,,,,752660
-2020-01-26,United States,California,San Joaquin County,0,0,,,,,USAFacts,USAFacts,,,,,752660
-2020-01-27,United States,California,San Joaquin County,0,0,,,,,USAFacts,USAFacts,,,,,752660
-2020-01-28,United States,California,San Joaquin County,0,0,,,,,USAFacts,USAFacts,,,,,752660
-2020-01-29,United States,California,San Joaquin County,0,0,,,,,USAFacts,USAFacts,,,,,752660
-2020-01-30,United States,California,San Joaquin County,0,0,,,,,USAFacts,USAFacts,,,,,752660
-2020-01-31,United States,California,San Joaquin County,0,0,,,,,USAFacts,USAFacts,,,,,752660
-2020-01-22,United States,California,San Luis Obispo County,0,0,,,,,USAFacts,USAFacts,,,,,284010
-2020-01-23,United States,California,San Luis Obispo County,0,0,,,,,USAFacts,USAFacts,,,,,284010
-2020-01-24,United States,California,San Luis Obispo County,0,0,,,,,USAFacts,USAFacts,,,,,284010
-2020-01-25,United States,California,San Luis Obispo County,0,0,,,,,USAFacts,USAFacts,,,,,284010
-2020-01-26,United States,California,San Luis Obispo County,0,0,,,,,USAFacts,USAFacts,,,,,284010
-2020-01-27,United States,California,San Luis Obispo County,0,0,,,,,USAFacts,USAFacts,,,,,284010
-2020-01-28,United States,California,San Luis Obispo County,0,0,,,,,USAFacts,USAFacts,,,,,284010
-2020-01-29,United States,California,San Luis Obispo County,0,0,,,,,USAFacts,USAFacts,,,,,284010
-2020-01-30,United States,California,San Luis Obispo County,0,0,,,,,USAFacts,USAFacts,,,,,284010
-2020-01-31,United States,California,San Luis Obispo County,0,0,,,,,USAFacts,USAFacts,,,,,284010
-2020-01-22,United States,California,San Mateo County,0,0,,,,,USAFacts,USAFacts,,,,,769545
-2020-01-23,United States,California,San Mateo County,0,0,,,,,USAFacts,USAFacts,,,,,769545
-2020-01-24,United States,California,San Mateo County,0,0,,,,,USAFacts,USAFacts,,,,,769545
-2020-01-25,United States,California,San Mateo County,0,0,,,,,USAFacts,USAFacts,,,,,769545
-2020-01-26,United States,California,San Mateo County,0,0,,,,,USAFacts,USAFacts,,,,,769545
-2020-01-27,United States,California,San Mateo County,0,0,,,,,USAFacts,USAFacts,,,,,769545
-2020-01-28,United States,California,San Mateo County,0,0,,,,,USAFacts,USAFacts,,,,,769545
-2020-01-29,United States,California,San Mateo County,0,0,,,,,USAFacts,USAFacts,,,,,769545
-2020-01-30,United States,California,San Mateo County,0,0,,,,,USAFacts,USAFacts,,,,,769545
-2020-01-31,United States,California,San Mateo County,0,0,,,,,USAFacts,USAFacts,,,,,769545
+2020-01-22,United States,California,San Joaquin County,7,0,,,,,USAFacts,USAFacts,,,,,752660
+2020-01-23,United States,California,San Joaquin County,7,0,,,,,USAFacts,USAFacts,,,,,752660
+2020-01-24,United States,California,San Joaquin County,7,0,,,,,USAFacts,USAFacts,,,,,752660
+2020-01-25,United States,California,San Joaquin County,7,0,,,,,USAFacts,USAFacts,,,,,752660
+2020-01-26,United States,California,San Joaquin County,7,0,,,,,USAFacts,USAFacts,,,,,752660
+2020-01-27,United States,California,San Joaquin County,7,0,,,,,USAFacts,USAFacts,,,,,752660
+2020-01-28,United States,California,San Joaquin County,7,0,,,,,USAFacts,USAFacts,,,,,752660
+2020-01-29,United States,California,San Joaquin County,7,0,,,,,USAFacts,USAFacts,,,,,752660
+2020-01-30,United States,California,San Joaquin County,7,0,,,,,USAFacts,USAFacts,,,,,752660
+2020-01-31,United States,California,San Joaquin County,7,0,,,,,USAFacts,USAFacts,,,,,752660
+2020-01-22,United States,California,San Luis Obispo County,14,0,,,,,USAFacts,USAFacts,,,,,284010
+2020-01-23,United States,California,San Luis Obispo County,15,0,,,,,USAFacts,USAFacts,,,,,284010
+2020-01-24,United States,California,San Luis Obispo County,15,0,,,,,USAFacts,USAFacts,,,,,284010
+2020-01-25,United States,California,San Luis Obispo County,15,0,,,,,USAFacts,USAFacts,,,,,284010
+2020-01-26,United States,California,San Luis Obispo County,15,0,,,,,USAFacts,USAFacts,,,,,284010
+2020-01-27,United States,California,San Luis Obispo County,16,0,,,,,USAFacts,USAFacts,,,,,284010
+2020-01-28,United States,California,San Luis Obispo County,16,0,,,,,USAFacts,USAFacts,,,,,284010
+2020-01-29,United States,California,San Luis Obispo County,16,0,,,,,USAFacts,USAFacts,,,,,284010
+2020-01-30,United States,California,San Luis Obispo County,16,0,,,,,USAFacts,USAFacts,,,,,284010
+2020-01-31,United States,California,San Luis Obispo County,16,0,,,,,USAFacts,USAFacts,,,,,284010
+2020-01-22,United States,California,San Mateo County,5,0,,,,,USAFacts,USAFacts,,,,,769545
+2020-01-23,United States,California,San Mateo County,5,0,,,,,USAFacts,USAFacts,,,,,769545
+2020-01-24,United States,California,San Mateo County,5,0,,,,,USAFacts,USAFacts,,,,,769545
+2020-01-25,United States,California,San Mateo County,5,0,,,,,USAFacts,USAFacts,,,,,769545
+2020-01-26,United States,California,San Mateo County,5,0,,,,,USAFacts,USAFacts,,,,,769545
+2020-01-27,United States,California,San Mateo County,5,0,,,,,USAFacts,USAFacts,,,,,769545
+2020-01-28,United States,California,San Mateo County,5,0,,,,,USAFacts,USAFacts,,,,,769545
+2020-01-29,United States,California,San Mateo County,5,0,,,,,USAFacts,USAFacts,,,,,769545
+2020-01-30,United States,California,San Mateo County,5,0,,,,,USAFacts,USAFacts,,,,,769545
+2020-01-31,United States,California,San Mateo County,5,0,,,,,USAFacts,USAFacts,,,,,769545
 2020-01-22,United States,California,Santa Barbara County,0,0,,,,,USAFacts,USAFacts,,,,,446527
 2020-01-23,United States,California,Santa Barbara County,0,0,,,,,USAFacts,USAFacts,,,,,446527
 2020-01-24,United States,California,Santa Barbara County,0,0,,,,,USAFacts,USAFacts,,,,,446527
@@ -5884,26 +6157,26 @@ Date,Country,State/Province,Admin2,CasesCount,DeathsCount,RecoveryCount,TotalDos
 2020-01-29,United States,California,Santa Barbara County,0,0,,,,,USAFacts,USAFacts,,,,,446527
 2020-01-30,United States,California,Santa Barbara County,0,0,,,,,USAFacts,USAFacts,,,,,446527
 2020-01-31,United States,California,Santa Barbara County,0,0,,,,,USAFacts,USAFacts,,,,,446527
-2020-01-22,United States,California,Santa Clara County,0,0,,,,,USAFacts,USAFacts,,,,,1937570
-2020-01-23,United States,California,Santa Clara County,0,0,,,,,USAFacts,USAFacts,,,,,1937570
-2020-01-24,United States,California,Santa Clara County,0,0,,,,,USAFacts,USAFacts,,,,,1937570
-2020-01-25,United States,California,Santa Clara County,0,0,,,,,USAFacts,USAFacts,,,,,1937570
-2020-01-26,United States,California,Santa Clara County,0,0,,,,,USAFacts,USAFacts,,,,,1937570
-2020-01-27,United States,California,Santa Clara County,1,0,,,,,USAFacts,USAFacts,,,,,1937570
-2020-01-28,United States,California,Santa Clara County,1,0,,,,,USAFacts,USAFacts,,,,,1937570
-2020-01-29,United States,California,Santa Clara County,2,0,,,,,USAFacts,USAFacts,,,,,1937570
-2020-01-30,United States,California,Santa Clara County,2,0,,,,,USAFacts,USAFacts,,,,,1937570
-2020-01-31,United States,California,Santa Clara County,2,0,,,,,USAFacts,USAFacts,,,,,1937570
-2020-01-22,United States,California,Santa Cruz County,0,0,,,,,USAFacts,USAFacts,,,,,274255
-2020-01-23,United States,California,Santa Cruz County,0,0,,,,,USAFacts,USAFacts,,,,,274255
-2020-01-24,United States,California,Santa Cruz County,0,0,,,,,USAFacts,USAFacts,,,,,274255
-2020-01-25,United States,California,Santa Cruz County,0,0,,,,,USAFacts,USAFacts,,,,,274255
-2020-01-26,United States,California,Santa Cruz County,0,0,,,,,USAFacts,USAFacts,,,,,274255
-2020-01-27,United States,California,Santa Cruz County,0,0,,,,,USAFacts,USAFacts,,,,,274255
-2020-01-28,United States,California,Santa Cruz County,0,0,,,,,USAFacts,USAFacts,,,,,274255
-2020-01-29,United States,California,Santa Cruz County,0,0,,,,,USAFacts,USAFacts,,,,,274255
-2020-01-30,United States,California,Santa Cruz County,0,0,,,,,USAFacts,USAFacts,,,,,274255
-2020-01-31,United States,California,Santa Cruz County,0,0,,,,,USAFacts,USAFacts,,,,,274255
+2020-01-22,United States,California,Santa Clara County,21,0,,,,,USAFacts,USAFacts,,,,,1937570
+2020-01-23,United States,California,Santa Clara County,22,0,,,,,USAFacts,USAFacts,,,,,1937570
+2020-01-24,United States,California,Santa Clara County,24,0,,,,,USAFacts,USAFacts,,,,,1937570
+2020-01-25,United States,California,Santa Clara County,24,0,,,,,USAFacts,USAFacts,,,,,1937570
+2020-01-26,United States,California,Santa Clara County,24,0,,,,,USAFacts,USAFacts,,,,,1937570
+2020-01-27,United States,California,Santa Clara County,25,0,,,,,USAFacts,USAFacts,,,,,1937570
+2020-01-28,United States,California,Santa Clara County,25,0,,,,,USAFacts,USAFacts,,,,,1937570
+2020-01-29,United States,California,Santa Clara County,25,0,,,,,USAFacts,USAFacts,,,,,1937570
+2020-01-30,United States,California,Santa Clara County,25,0,,,,,USAFacts,USAFacts,,,,,1937570
+2020-01-31,United States,California,Santa Clara County,25,0,,,,,USAFacts,USAFacts,,,,,1937570
+2020-01-22,United States,California,Santa Cruz County,1,0,,,,,USAFacts,USAFacts,,,,,274255
+2020-01-23,United States,California,Santa Cruz County,1,0,,,,,USAFacts,USAFacts,,,,,274255
+2020-01-24,United States,California,Santa Cruz County,1,0,,,,,USAFacts,USAFacts,,,,,274255
+2020-01-25,United States,California,Santa Cruz County,1,0,,,,,USAFacts,USAFacts,,,,,274255
+2020-01-26,United States,California,Santa Cruz County,1,0,,,,,USAFacts,USAFacts,,,,,274255
+2020-01-27,United States,California,Santa Cruz County,1,0,,,,,USAFacts,USAFacts,,,,,274255
+2020-01-28,United States,California,Santa Cruz County,1,0,,,,,USAFacts,USAFacts,,,,,274255
+2020-01-29,United States,California,Santa Cruz County,1,0,,,,,USAFacts,USAFacts,,,,,274255
+2020-01-30,United States,California,Santa Cruz County,1,0,,,,,USAFacts,USAFacts,,,,,274255
+2020-01-31,United States,California,Santa Cruz County,1,0,,,,,USAFacts,USAFacts,,,,,274255
 2020-01-22,United States,California,Shasta County,0,0,,,,,USAFacts,USAFacts,,,,,180040
 2020-01-23,United States,California,Shasta County,0,0,,,,,USAFacts,USAFacts,,,,,180040
 2020-01-24,United States,California,Shasta County,0,0,,,,,USAFacts,USAFacts,,,,,180040
@@ -5914,16 +6187,16 @@ Date,Country,State/Province,Admin2,CasesCount,DeathsCount,RecoveryCount,TotalDos
 2020-01-29,United States,California,Shasta County,0,0,,,,,USAFacts,USAFacts,,,,,180040
 2020-01-30,United States,California,Shasta County,0,0,,,,,USAFacts,USAFacts,,,,,180040
 2020-01-31,United States,California,Shasta County,0,0,,,,,USAFacts,USAFacts,,,,,180040
-2020-01-22,United States,California,Sierra County,0,0,,,,,USAFacts,USAFacts,,,,,2987
-2020-01-23,United States,California,Sierra County,0,0,,,,,USAFacts,USAFacts,,,,,2987
-2020-01-24,United States,California,Sierra County,0,0,,,,,USAFacts,USAFacts,,,,,2987
-2020-01-25,United States,California,Sierra County,0,0,,,,,USAFacts,USAFacts,,,,,2987
-2020-01-26,United States,California,Sierra County,0,0,,,,,USAFacts,USAFacts,,,,,2987
-2020-01-27,United States,California,Sierra County,0,0,,,,,USAFacts,USAFacts,,,,,2987
-2020-01-28,United States,California,Sierra County,0,0,,,,,USAFacts,USAFacts,,,,,2987
-2020-01-29,United States,California,Sierra County,0,0,,,,,USAFacts,USAFacts,,,,,2987
-2020-01-30,United States,California,Sierra County,0,0,,,,,USAFacts,USAFacts,,,,,2987
-2020-01-31,United States,California,Sierra County,0,0,,,,,USAFacts,USAFacts,,,,,2987
+2020-01-22,United States,California,Sierra County,1,0,,,,,USAFacts,USAFacts,,,,,2987
+2020-01-23,United States,California,Sierra County,1,0,,,,,USAFacts,USAFacts,,,,,2987
+2020-01-24,United States,California,Sierra County,1,0,,,,,USAFacts,USAFacts,,,,,2987
+2020-01-25,United States,California,Sierra County,1,0,,,,,USAFacts,USAFacts,,,,,2987
+2020-01-26,United States,California,Sierra County,1,0,,,,,USAFacts,USAFacts,,,,,2987
+2020-01-27,United States,California,Sierra County,1,0,,,,,USAFacts,USAFacts,,,,,2987
+2020-01-28,United States,California,Sierra County,1,0,,,,,USAFacts,USAFacts,,,,,2987
+2020-01-29,United States,California,Sierra County,1,0,,,,,USAFacts,USAFacts,,,,,2987
+2020-01-30,United States,California,Sierra County,1,0,,,,,USAFacts,USAFacts,,,,,2987
+2020-01-31,United States,California,Sierra County,1,0,,,,,USAFacts,USAFacts,,,,,2987
 2020-01-22,United States,California,Siskiyou County,0,0,,,,,USAFacts,USAFacts,,,,,43724
 2020-01-23,United States,California,Siskiyou County,0,0,,,,,USAFacts,USAFacts,,,,,43724
 2020-01-24,United States,California,Siskiyou County,0,0,,,,,USAFacts,USAFacts,,,,,43724
@@ -5934,56 +6207,56 @@ Date,Country,State/Province,Admin2,CasesCount,DeathsCount,RecoveryCount,TotalDos
 2020-01-29,United States,California,Siskiyou County,0,0,,,,,USAFacts,USAFacts,,,,,43724
 2020-01-30,United States,California,Siskiyou County,0,0,,,,,USAFacts,USAFacts,,,,,43724
 2020-01-31,United States,California,Siskiyou County,0,0,,,,,USAFacts,USAFacts,,,,,43724
-2020-01-22,United States,California,Solano County,0,0,,,,,USAFacts,USAFacts,,,,,446610
-2020-01-23,United States,California,Solano County,0,0,,,,,USAFacts,USAFacts,,,,,446610
-2020-01-24,United States,California,Solano County,0,0,,,,,USAFacts,USAFacts,,,,,446610
-2020-01-25,United States,California,Solano County,0,0,,,,,USAFacts,USAFacts,,,,,446610
-2020-01-26,United States,California,Solano County,0,0,,,,,USAFacts,USAFacts,,,,,446610
-2020-01-27,United States,California,Solano County,0,0,,,,,USAFacts,USAFacts,,,,,446610
-2020-01-28,United States,California,Solano County,0,0,,,,,USAFacts,USAFacts,,,,,446610
-2020-01-29,United States,California,Solano County,0,0,,,,,USAFacts,USAFacts,,,,,446610
-2020-01-30,United States,California,Solano County,0,0,,,,,USAFacts,USAFacts,,,,,446610
-2020-01-31,United States,California,Solano County,0,0,,,,,USAFacts,USAFacts,,,,,446610
-2020-01-22,United States,California,Sonoma County,0,0,,,,,USAFacts,USAFacts,,,,,499942
-2020-01-23,United States,California,Sonoma County,0,0,,,,,USAFacts,USAFacts,,,,,499942
-2020-01-24,United States,California,Sonoma County,0,0,,,,,USAFacts,USAFacts,,,,,499942
-2020-01-25,United States,California,Sonoma County,0,0,,,,,USAFacts,USAFacts,,,,,499942
-2020-01-26,United States,California,Sonoma County,0,0,,,,,USAFacts,USAFacts,,,,,499942
-2020-01-27,United States,California,Sonoma County,0,0,,,,,USAFacts,USAFacts,,,,,499942
-2020-01-28,United States,California,Sonoma County,0,0,,,,,USAFacts,USAFacts,,,,,499942
-2020-01-29,United States,California,Sonoma County,0,0,,,,,USAFacts,USAFacts,,,,,499942
-2020-01-30,United States,California,Sonoma County,0,0,,,,,USAFacts,USAFacts,,,,,499942
-2020-01-31,United States,California,Sonoma County,0,0,,,,,USAFacts,USAFacts,,,,,499942
-2020-01-22,United States,California,Stanislaus County,0,0,,,,,USAFacts,USAFacts,,,,,549815
-2020-01-23,United States,California,Stanislaus County,0,0,,,,,USAFacts,USAFacts,,,,,549815
-2020-01-24,United States,California,Stanislaus County,0,0,,,,,USAFacts,USAFacts,,,,,549815
-2020-01-25,United States,California,Stanislaus County,0,0,,,,,USAFacts,USAFacts,,,,,549815
-2020-01-26,United States,California,Stanislaus County,0,0,,,,,USAFacts,USAFacts,,,,,549815
-2020-01-27,United States,California,Stanislaus County,0,0,,,,,USAFacts,USAFacts,,,,,549815
-2020-01-28,United States,California,Stanislaus County,0,0,,,,,USAFacts,USAFacts,,,,,549815
-2020-01-29,United States,California,Stanislaus County,0,0,,,,,USAFacts,USAFacts,,,,,549815
-2020-01-30,United States,California,Stanislaus County,0,0,,,,,USAFacts,USAFacts,,,,,549815
-2020-01-31,United States,California,Stanislaus County,0,0,,,,,USAFacts,USAFacts,,,,,549815
-2020-01-22,United States,California,Sutter County,0,0,,,,,USAFacts,USAFacts,,,,,96807
-2020-01-23,United States,California,Sutter County,0,0,,,,,USAFacts,USAFacts,,,,,96807
-2020-01-24,United States,California,Sutter County,0,0,,,,,USAFacts,USAFacts,,,,,96807
-2020-01-25,United States,California,Sutter County,0,0,,,,,USAFacts,USAFacts,,,,,96807
-2020-01-26,United States,California,Sutter County,0,0,,,,,USAFacts,USAFacts,,,,,96807
-2020-01-27,United States,California,Sutter County,0,0,,,,,USAFacts,USAFacts,,,,,96807
-2020-01-28,United States,California,Sutter County,0,0,,,,,USAFacts,USAFacts,,,,,96807
-2020-01-29,United States,California,Sutter County,0,0,,,,,USAFacts,USAFacts,,,,,96807
-2020-01-30,United States,California,Sutter County,0,0,,,,,USAFacts,USAFacts,,,,,96807
-2020-01-31,United States,California,Sutter County,0,0,,,,,USAFacts,USAFacts,,,,,96807
-2020-01-22,United States,California,TOTAL,0,0,,,,,USAFacts,USAFacts,,,,,39557045
-2020-01-23,United States,California,TOTAL,0,0,,,,,USAFacts,USAFacts,,,,,39557045
-2020-01-24,United States,California,TOTAL,0,0,,,,,USAFacts,USAFacts,,,,,39557045
-2020-01-25,United States,California,TOTAL,0,0,,,,,USAFacts,USAFacts,,,,,39557045
-2020-01-26,United States,California,TOTAL,2,0,,,,,USAFacts,USAFacts,,,,,39557045
-2020-01-27,United States,California,TOTAL,3,0,,,,,USAFacts,USAFacts,,,,,39557045
-2020-01-28,United States,California,TOTAL,3,0,,,,,USAFacts,USAFacts,,,,,39557045
-2020-01-29,United States,California,TOTAL,4,0,,,,,USAFacts,USAFacts,,,,,39557045
-2020-01-30,United States,California,TOTAL,4,0,,,,,USAFacts,USAFacts,,,,,39557045
-2020-01-31,United States,California,TOTAL,4,0,,,,,USAFacts,USAFacts,,,,,39557045
+2020-01-22,United States,California,Solano County,16,0,,,,,USAFacts,USAFacts,,,,,446610
+2020-01-23,United States,California,Solano County,17,0,,,,,USAFacts,USAFacts,,,,,446610
+2020-01-24,United States,California,Solano County,17,0,,,,,USAFacts,USAFacts,,,,,446610
+2020-01-25,United States,California,Solano County,18,0,,,,,USAFacts,USAFacts,,,,,446610
+2020-01-26,United States,California,Solano County,18,0,,,,,USAFacts,USAFacts,,,,,446610
+2020-01-27,United States,California,Solano County,19,0,,,,,USAFacts,USAFacts,,,,,446610
+2020-01-28,United States,California,Solano County,19,0,,,,,USAFacts,USAFacts,,,,,446610
+2020-01-29,United States,California,Solano County,20,0,,,,,USAFacts,USAFacts,,,,,446610
+2020-01-30,United States,California,Solano County,20,0,,,,,USAFacts,USAFacts,,,,,446610
+2020-01-31,United States,California,Solano County,20,0,,,,,USAFacts,USAFacts,,,,,446610
+2020-01-22,United States,California,Sonoma County,10,0,,,,,USAFacts,USAFacts,,,,,499942
+2020-01-23,United States,California,Sonoma County,10,0,,,,,USAFacts,USAFacts,,,,,499942
+2020-01-24,United States,California,Sonoma County,10,0,,,,,USAFacts,USAFacts,,,,,499942
+2020-01-25,United States,California,Sonoma County,11,0,,,,,USAFacts,USAFacts,,,,,499942
+2020-01-26,United States,California,Sonoma County,11,0,,,,,USAFacts,USAFacts,,,,,499942
+2020-01-27,United States,California,Sonoma County,11,0,,,,,USAFacts,USAFacts,,,,,499942
+2020-01-28,United States,California,Sonoma County,11,0,,,,,USAFacts,USAFacts,,,,,499942
+2020-01-29,United States,California,Sonoma County,11,0,,,,,USAFacts,USAFacts,,,,,499942
+2020-01-30,United States,California,Sonoma County,11,0,,,,,USAFacts,USAFacts,,,,,499942
+2020-01-31,United States,California,Sonoma County,11,0,,,,,USAFacts,USAFacts,,,,,499942
+2020-01-22,United States,California,Stanislaus County,16,0,,,,,USAFacts,USAFacts,,,,,549815
+2020-01-23,United States,California,Stanislaus County,16,0,,,,,USAFacts,USAFacts,,,,,549815
+2020-01-24,United States,California,Stanislaus County,16,0,,,,,USAFacts,USAFacts,,,,,549815
+2020-01-25,United States,California,Stanislaus County,18,0,,,,,USAFacts,USAFacts,,,,,549815
+2020-01-26,United States,California,Stanislaus County,18,0,,,,,USAFacts,USAFacts,,,,,549815
+2020-01-27,United States,California,Stanislaus County,18,0,,,,,USAFacts,USAFacts,,,,,549815
+2020-01-28,United States,California,Stanislaus County,19,0,,,,,USAFacts,USAFacts,,,,,549815
+2020-01-29,United States,California,Stanislaus County,19,0,,,,,USAFacts,USAFacts,,,,,549815
+2020-01-30,United States,California,Stanislaus County,19,0,,,,,USAFacts,USAFacts,,,,,549815
+2020-01-31,United States,California,Stanislaus County,20,0,,,,,USAFacts,USAFacts,,,,,549815
+2020-01-22,United States,California,Sutter County,7,0,,,,,USAFacts,USAFacts,,,,,96807
+2020-01-23,United States,California,Sutter County,7,0,,,,,USAFacts,USAFacts,,,,,96807
+2020-01-24,United States,California,Sutter County,7,0,,,,,USAFacts,USAFacts,,,,,96807
+2020-01-25,United States,California,Sutter County,7,0,,,,,USAFacts,USAFacts,,,,,96807
+2020-01-26,United States,California,Sutter County,7,0,,,,,USAFacts,USAFacts,,,,,96807
+2020-01-27,United States,California,Sutter County,7,0,,,,,USAFacts,USAFacts,,,,,96807
+2020-01-28,United States,California,Sutter County,7,0,,,,,USAFacts,USAFacts,,,,,96807
+2020-01-29,United States,California,Sutter County,7,0,,,,,USAFacts,USAFacts,,,,,96807
+2020-01-30,United States,California,Sutter County,7,0,,,,,USAFacts,USAFacts,,,,,96807
+2020-01-31,United States,California,Sutter County,7,0,,,,,USAFacts,USAFacts,,,,,96807
+2020-01-22,United States,California,TOTAL,722,0,,,,,USAFacts,USAFacts,,,,,39557045
+2020-01-23,United States,California,TOTAL,733,0,,,,,USAFacts,USAFacts,,,,,39557045
+2020-01-24,United States,California,TOTAL,739,0,,,,,USAFacts,USAFacts,,,,,39557045
+2020-01-25,United States,California,TOTAL,749,0,,,,,USAFacts,USAFacts,,,,,39557045
+2020-01-26,United States,California,TOTAL,756,0,,,,,USAFacts,USAFacts,,,,,39557045
+2020-01-27,United States,California,TOTAL,766,0,,,,,USAFacts,USAFacts,,,,,39557045
+2020-01-28,United States,California,TOTAL,772,0,,,,,USAFacts,USAFacts,,,,,39557045
+2020-01-29,United States,California,TOTAL,776,0,,,,,USAFacts,USAFacts,,,,,39557045
+2020-01-30,United States,California,TOTAL,783,0,,,,,USAFacts,USAFacts,,,,,39557045
+2020-01-31,United States,California,TOTAL,798,0,,,,,USAFacts,USAFacts,,,,,39557045
 2020-01-22,United States,California,Tehama County,0,0,,,,,USAFacts,USAFacts,,,,,63916
 2020-01-23,United States,California,Tehama County,0,0,,,,,USAFacts,USAFacts,,,,,63916
 2020-01-24,United States,California,Tehama County,0,0,,,,,USAFacts,USAFacts,,,,,63916
@@ -6004,16 +6277,16 @@ Date,Country,State/Province,Admin2,CasesCount,DeathsCount,RecoveryCount,TotalDos
 2020-01-29,United States,California,Trinity County,0,0,,,,,USAFacts,USAFacts,,,,,12535
 2020-01-30,United States,California,Trinity County,0,0,,,,,USAFacts,USAFacts,,,,,12535
 2020-01-31,United States,California,Trinity County,0,0,,,,,USAFacts,USAFacts,,,,,12535
-2020-01-22,United States,California,Tulare County,0,0,,,,,USAFacts,USAFacts,,,,,465861
-2020-01-23,United States,California,Tulare County,0,0,,,,,USAFacts,USAFacts,,,,,465861
-2020-01-24,United States,California,Tulare County,0,0,,,,,USAFacts,USAFacts,,,,,465861
-2020-01-25,United States,California,Tulare County,0,0,,,,,USAFacts,USAFacts,,,,,465861
-2020-01-26,United States,California,Tulare County,0,0,,,,,USAFacts,USAFacts,,,,,465861
-2020-01-27,United States,California,Tulare County,0,0,,,,,USAFacts,USAFacts,,,,,465861
-2020-01-28,United States,California,Tulare County,0,0,,,,,USAFacts,USAFacts,,,,,465861
-2020-01-29,United States,California,Tulare County,0,0,,,,,USAFacts,USAFacts,,,,,465861
-2020-01-30,United States,California,Tulare County,0,0,,,,,USAFacts,USAFacts,,,,,465861
-2020-01-31,United States,California,Tulare County,0,0,,,,,USAFacts,USAFacts,,,,,465861
+2020-01-22,United States,California,Tulare County,7,0,,,,,USAFacts,USAFacts,,,,,465861
+2020-01-23,United States,California,Tulare County,7,0,,,,,USAFacts,USAFacts,,,,,465861
+2020-01-24,United States,California,Tulare County,7,0,,,,,USAFacts,USAFacts,,,,,465861
+2020-01-25,United States,California,Tulare County,7,0,,,,,USAFacts,USAFacts,,,,,465861
+2020-01-26,United States,California,Tulare County,7,0,,,,,USAFacts,USAFacts,,,,,465861
+2020-01-27,United States,California,Tulare County,7,0,,,,,USAFacts,USAFacts,,,,,465861
+2020-01-28,United States,California,Tulare County,7,0,,,,,USAFacts,USAFacts,,,,,465861
+2020-01-29,United States,California,Tulare County,7,0,,,,,USAFacts,USAFacts,,,,,465861
+2020-01-30,United States,California,Tulare County,7,0,,,,,USAFacts,USAFacts,,,,,465861
+2020-01-31,United States,California,Tulare County,7,0,,,,,USAFacts,USAFacts,,,,,465861
 2020-01-22,United States,California,Tuolumne County,0,0,,,,,USAFacts,USAFacts,,,,,54539
 2020-01-23,United States,California,Tuolumne County,0,0,,,,,USAFacts,USAFacts,,,,,54539
 2020-01-24,United States,California,Tuolumne County,0,0,,,,,USAFacts,USAFacts,,,,,54539
@@ -6024,36 +6297,36 @@ Date,Country,State/Province,Admin2,CasesCount,DeathsCount,RecoveryCount,TotalDos
 2020-01-29,United States,California,Tuolumne County,0,0,,,,,USAFacts,USAFacts,,,,,54539
 2020-01-30,United States,California,Tuolumne County,0,0,,,,,USAFacts,USAFacts,,,,,54539
 2020-01-31,United States,California,Tuolumne County,0,0,,,,,USAFacts,USAFacts,,,,,54539
-2020-01-22,United States,California,Ventura County,0,0,,,,,USAFacts,USAFacts,,,,,850967
-2020-01-23,United States,California,Ventura County,0,0,,,,,USAFacts,USAFacts,,,,,850967
-2020-01-24,United States,California,Ventura County,0,0,,,,,USAFacts,USAFacts,,,,,850967
-2020-01-25,United States,California,Ventura County,0,0,,,,,USAFacts,USAFacts,,,,,850967
-2020-01-26,United States,California,Ventura County,0,0,,,,,USAFacts,USAFacts,,,,,850967
-2020-01-27,United States,California,Ventura County,0,0,,,,,USAFacts,USAFacts,,,,,850967
-2020-01-28,United States,California,Ventura County,0,0,,,,,USAFacts,USAFacts,,,,,850967
-2020-01-29,United States,California,Ventura County,0,0,,,,,USAFacts,USAFacts,,,,,850967
-2020-01-30,United States,California,Ventura County,0,0,,,,,USAFacts,USAFacts,,,,,850967
-2020-01-31,United States,California,Ventura County,0,0,,,,,USAFacts,USAFacts,,,,,850967
-2020-01-22,United States,California,Yolo County,0,0,,,,,USAFacts,USAFacts,,,,,220408
-2020-01-23,United States,California,Yolo County,0,0,,,,,USAFacts,USAFacts,,,,,220408
-2020-01-24,United States,California,Yolo County,0,0,,,,,USAFacts,USAFacts,,,,,220408
-2020-01-25,United States,California,Yolo County,0,0,,,,,USAFacts,USAFacts,,,,,220408
-2020-01-26,United States,California,Yolo County,0,0,,,,,USAFacts,USAFacts,,,,,220408
-2020-01-27,United States,California,Yolo County,0,0,,,,,USAFacts,USAFacts,,,,,220408
-2020-01-28,United States,California,Yolo County,0,0,,,,,USAFacts,USAFacts,,,,,220408
-2020-01-29,United States,California,Yolo County,0,0,,,,,USAFacts,USAFacts,,,,,220408
-2020-01-30,United States,California,Yolo County,0,0,,,,,USAFacts,USAFacts,,,,,220408
-2020-01-31,United States,California,Yolo County,0,0,,,,,USAFacts,USAFacts,,,,,220408
-2020-01-22,United States,California,Yuba County,0,0,,,,,USAFacts,USAFacts,,,,,78041
-2020-01-23,United States,California,Yuba County,0,0,,,,,USAFacts,USAFacts,,,,,78041
-2020-01-24,United States,California,Yuba County,0,0,,,,,USAFacts,USAFacts,,,,,78041
-2020-01-25,United States,California,Yuba County,0,0,,,,,USAFacts,USAFacts,,,,,78041
-2020-01-26,United States,California,Yuba County,0,0,,,,,USAFacts,USAFacts,,,,,78041
-2020-01-27,United States,California,Yuba County,0,0,,,,,USAFacts,USAFacts,,,,,78041
-2020-01-28,United States,California,Yuba County,0,0,,,,,USAFacts,USAFacts,,,,,78041
-2020-01-29,United States,California,Yuba County,0,0,,,,,USAFacts,USAFacts,,,,,78041
-2020-01-30,United States,California,Yuba County,0,0,,,,,USAFacts,USAFacts,,,,,78041
-2020-01-31,United States,California,Yuba County,0,0,,,,,USAFacts,USAFacts,,,,,78041
+2020-01-22,United States,California,Ventura County,7,0,,,,,USAFacts,USAFacts,,,,,850967
+2020-01-23,United States,California,Ventura County,7,0,,,,,USAFacts,USAFacts,,,,,850967
+2020-01-24,United States,California,Ventura County,7,0,,,,,USAFacts,USAFacts,,,,,850967
+2020-01-25,United States,California,Ventura County,7,0,,,,,USAFacts,USAFacts,,,,,850967
+2020-01-26,United States,California,Ventura County,8,0,,,,,USAFacts,USAFacts,,,,,850967
+2020-01-27,United States,California,Ventura County,8,0,,,,,USAFacts,USAFacts,,,,,850967
+2020-01-28,United States,California,Ventura County,8,0,,,,,USAFacts,USAFacts,,,,,850967
+2020-01-29,United States,California,Ventura County,8,0,,,,,USAFacts,USAFacts,,,,,850967
+2020-01-30,United States,California,Ventura County,8,0,,,,,USAFacts,USAFacts,,,,,850967
+2020-01-31,United States,California,Ventura County,8,0,,,,,USAFacts,USAFacts,,,,,850967
+2020-01-22,United States,California,Yolo County,3,0,,,,,USAFacts,USAFacts,,,,,220408
+2020-01-23,United States,California,Yolo County,3,0,,,,,USAFacts,USAFacts,,,,,220408
+2020-01-24,United States,California,Yolo County,3,0,,,,,USAFacts,USAFacts,,,,,220408
+2020-01-25,United States,California,Yolo County,3,0,,,,,USAFacts,USAFacts,,,,,220408
+2020-01-26,United States,California,Yolo County,3,0,,,,,USAFacts,USAFacts,,,,,220408
+2020-01-27,United States,California,Yolo County,3,0,,,,,USAFacts,USAFacts,,,,,220408
+2020-01-28,United States,California,Yolo County,3,0,,,,,USAFacts,USAFacts,,,,,220408
+2020-01-29,United States,California,Yolo County,3,0,,,,,USAFacts,USAFacts,,,,,220408
+2020-01-30,United States,California,Yolo County,3,0,,,,,USAFacts,USAFacts,,,,,220408
+2020-01-31,United States,California,Yolo County,3,0,,,,,USAFacts,USAFacts,,,,,220408
+2020-01-22,United States,California,Yuba County,2,0,,,,,USAFacts,USAFacts,,,,,78041
+2020-01-23,United States,California,Yuba County,2,0,,,,,USAFacts,USAFacts,,,,,78041
+2020-01-24,United States,California,Yuba County,2,0,,,,,USAFacts,USAFacts,,,,,78041
+2020-01-25,United States,California,Yuba County,2,0,,,,,USAFacts,USAFacts,,,,,78041
+2020-01-26,United States,California,Yuba County,2,0,,,,,USAFacts,USAFacts,,,,,78041
+2020-01-27,United States,California,Yuba County,2,0,,,,,USAFacts,USAFacts,,,,,78041
+2020-01-28,United States,California,Yuba County,2,0,,,,,USAFacts,USAFacts,,,,,78041
+2020-01-29,United States,California,Yuba County,2,0,,,,,USAFacts,USAFacts,,,,,78041
+2020-01-30,United States,California,Yuba County,2,0,,,,,USAFacts,USAFacts,,,,,78041
+2020-01-31,United States,California,Yuba County,2,0,,,,,USAFacts,USAFacts,,,,,78041
 2020-01-22,United States,Colorado,Adams County,0,0,,,,,USAFacts,USAFacts,,,,,511868
 2020-01-23,United States,Colorado,Adams County,0,0,,,,,USAFacts,USAFacts,,,,,511868
 2020-01-24,United States,Colorado,Adams County,0,0,,,,,USAFacts,USAFacts,,,,,511868
@@ -6844,16 +7117,6 @@ Date,Country,State/Province,Admin2,CasesCount,DeathsCount,RecoveryCount,TotalDos
 2020-01-29,United States,District of Columbia,TOTAL,0,0,,,,,USAFacts,USAFacts,,,,,702455
 2020-01-30,United States,District of Columbia,TOTAL,0,0,,,,,USAFacts,USAFacts,,,,,702455
 2020-01-31,United States,District of Columbia,TOTAL,0,0,,,,,USAFacts,USAFacts,,,,,702455
-2020-01-22,United States,District of Columbia,Washington County,0,0,,,,,USAFacts,USAFacts,,,,,
-2020-01-23,United States,District of Columbia,Washington County,0,0,,,,,USAFacts,USAFacts,,,,,
-2020-01-24,United States,District of Columbia,Washington County,0,0,,,,,USAFacts,USAFacts,,,,,
-2020-01-25,United States,District of Columbia,Washington County,0,0,,,,,USAFacts,USAFacts,,,,,
-2020-01-26,United States,District of Columbia,Washington County,0,0,,,,,USAFacts,USAFacts,,,,,
-2020-01-27,United States,District of Columbia,Washington County,0,0,,,,,USAFacts,USAFacts,,,,,
-2020-01-28,United States,District of Columbia,Washington County,0,0,,,,,USAFacts,USAFacts,,,,,
-2020-01-29,United States,District of Columbia,Washington County,0,0,,,,,USAFacts,USAFacts,,,,,
-2020-01-30,United States,District of Columbia,Washington County,0,0,,,,,USAFacts,USAFacts,,,,,
-2020-01-31,United States,District of Columbia,Washington County,0,0,,,,,USAFacts,USAFacts,,,,,
 2020-01-22,United States,Florida,Alachua County,0,0,,,,,USAFacts,USAFacts,,,,,269956
 2020-01-23,United States,Florida,Alachua County,0,0,,,,,USAFacts,USAFacts,,,,,269956
 2020-01-24,United States,Florida,Alachua County,0,0,,,,,USAFacts,USAFacts,,,,,269956
@@ -32695,16 +32958,6 @@ Date,Country,State/Province,Admin2,CasesCount,DeathsCount,RecoveryCount,TotalDos
 2020-01-29,United States,Virginia,City of Norfolk,0,0,,,,,USAFacts,USAFacts,,,,,244076
 2020-01-30,United States,Virginia,City of Norfolk,0,0,,,,,USAFacts,USAFacts,,,,,244076
 2020-01-31,United States,Virginia,City of Norfolk,0,0,,,,,USAFacts,USAFacts,,,,,244076
-2020-01-22,United States,Virginia,City of Norton,0,0,,,,,USAFacts,USAFacts,,,,,3968
-2020-01-23,United States,Virginia,City of Norton,0,0,,,,,USAFacts,USAFacts,,,,,3968
-2020-01-24,United States,Virginia,City of Norton,0,0,,,,,USAFacts,USAFacts,,,,,3968
-2020-01-25,United States,Virginia,City of Norton,0,0,,,,,USAFacts,USAFacts,,,,,3968
-2020-01-26,United States,Virginia,City of Norton,0,0,,,,,USAFacts,USAFacts,,,,,3968
-2020-01-27,United States,Virginia,City of Norton,0,0,,,,,USAFacts,USAFacts,,,,,3968
-2020-01-28,United States,Virginia,City of Norton,0,0,,,,,USAFacts,USAFacts,,,,,3968
-2020-01-29,United States,Virginia,City of Norton,0,0,,,,,USAFacts,USAFacts,,,,,3968
-2020-01-30,United States,Virginia,City of Norton,0,0,,,,,USAFacts,USAFacts,,,,,3968
-2020-01-31,United States,Virginia,City of Norton,0,0,,,,,USAFacts,USAFacts,,,,,3968
 2020-01-22,United States,Virginia,City of Petersburg,0,0,,,,,USAFacts,USAFacts,,,,,31567
 2020-01-23,United States,Virginia,City of Petersburg,0,0,,,,,USAFacts,USAFacts,,,,,31567
 2020-01-24,United States,Virginia,City of Petersburg,0,0,,,,,USAFacts,USAFacts,,,,,31567
@@ -34855,16 +35108,16 @@ Date,Country,State/Province,Admin2,CasesCount,DeathsCount,RecoveryCount,TotalDos
 2020-01-29,United States,Wisconsin,Kewaunee County,0,0,,,,,USAFacts,USAFacts,,,,,20383
 2020-01-30,United States,Wisconsin,Kewaunee County,0,0,,,,,USAFacts,USAFacts,,,,,20383
 2020-01-31,United States,Wisconsin,Kewaunee County,0,0,,,,,USAFacts,USAFacts,,,,,20383
-2020-01-22,United States,Wisconsin,La Crosse County,0,0,,,,,USAFacts,USAFacts,,,,,118230
-2020-01-23,United States,Wisconsin,La Crosse County,0,0,,,,,USAFacts,USAFacts,,,,,118230
-2020-01-24,United States,Wisconsin,La Crosse County,0,0,,,,,USAFacts,USAFacts,,,,,118230
-2020-01-25,United States,Wisconsin,La Crosse County,0,0,,,,,USAFacts,USAFacts,,,,,118230
-2020-01-26,United States,Wisconsin,La Crosse County,0,0,,,,,USAFacts,USAFacts,,,,,118230
-2020-01-27,United States,Wisconsin,La Crosse County,0,0,,,,,USAFacts,USAFacts,,,,,118230
-2020-01-28,United States,Wisconsin,La Crosse County,0,0,,,,,USAFacts,USAFacts,,,,,118230
-2020-01-29,United States,Wisconsin,La Crosse County,0,0,,,,,USAFacts,USAFacts,,,,,118230
-2020-01-30,United States,Wisconsin,La Crosse County,0,0,,,,,USAFacts,USAFacts,,,,,118230
-2020-01-31,United States,Wisconsin,La Crosse County,0,0,,,,,USAFacts,USAFacts,,,,,118230
+2020-01-22,United States,Wisconsin,La Crosse County,0,1,,,,,USAFacts,USAFacts,,,,,118230
+2020-01-23,United States,Wisconsin,La Crosse County,0,1,,,,,USAFacts,USAFacts,,,,,118230
+2020-01-24,United States,Wisconsin,La Crosse County,0,1,,,,,USAFacts,USAFacts,,,,,118230
+2020-01-25,United States,Wisconsin,La Crosse County,0,1,,,,,USAFacts,USAFacts,,,,,118230
+2020-01-26,United States,Wisconsin,La Crosse County,0,1,,,,,USAFacts,USAFacts,,,,,118230
+2020-01-27,United States,Wisconsin,La Crosse County,0,1,,,,,USAFacts,USAFacts,,,,,118230
+2020-01-28,United States,Wisconsin,La Crosse County,0,1,,,,,USAFacts,USAFacts,,,,,118230
+2020-01-29,United States,Wisconsin,La Crosse County,0,1,,,,,USAFacts,USAFacts,,,,,118230
+2020-01-30,United States,Wisconsin,La Crosse County,0,1,,,,,USAFacts,USAFacts,,,,,118230
+2020-01-31,United States,Wisconsin,La Crosse County,0,1,,,,,USAFacts,USAFacts,,,,,118230
 2020-01-22,United States,Wisconsin,Lafayette County,0,0,,,,,USAFacts,USAFacts,,,,,16665
 2020-01-23,United States,Wisconsin,Lafayette County,0,0,,,,,USAFacts,USAFacts,,,,,16665
 2020-01-24,United States,Wisconsin,Lafayette County,0,0,,,,,USAFacts,USAFacts,,,,,16665
@@ -35145,16 +35398,16 @@ Date,Country,State/Province,Admin2,CasesCount,DeathsCount,RecoveryCount,TotalDos
 2020-01-29,United States,Wisconsin,Sheboygan County,0,0,,,,,USAFacts,USAFacts,,,,,115456
 2020-01-30,United States,Wisconsin,Sheboygan County,0,0,,,,,USAFacts,USAFacts,,,,,115456
 2020-01-31,United States,Wisconsin,Sheboygan County,0,0,,,,,USAFacts,USAFacts,,,,,115456
-2020-01-22,United States,Wisconsin,TOTAL,0,0,,,,,USAFacts,USAFacts,,,,,5813568
-2020-01-23,United States,Wisconsin,TOTAL,0,0,,,,,USAFacts,USAFacts,,,,,5813568
-2020-01-24,United States,Wisconsin,TOTAL,0,0,,,,,USAFacts,USAFacts,,,,,5813568
-2020-01-25,United States,Wisconsin,TOTAL,0,0,,,,,USAFacts,USAFacts,,,,,5813568
-2020-01-26,United States,Wisconsin,TOTAL,0,0,,,,,USAFacts,USAFacts,,,,,5813568
-2020-01-27,United States,Wisconsin,TOTAL,0,0,,,,,USAFacts,USAFacts,,,,,5813568
-2020-01-28,United States,Wisconsin,TOTAL,0,0,,,,,USAFacts,USAFacts,,,,,5813568
-2020-01-29,United States,Wisconsin,TOTAL,0,0,,,,,USAFacts,USAFacts,,,,,5813568
-2020-01-30,United States,Wisconsin,TOTAL,0,0,,,,,USAFacts,USAFacts,,,,,5813568
-2020-01-31,United States,Wisconsin,TOTAL,0,0,,,,,USAFacts,USAFacts,,,,,5813568
+2020-01-22,United States,Wisconsin,TOTAL,0,1,,,,,USAFacts,USAFacts,,,,,5813568
+2020-01-23,United States,Wisconsin,TOTAL,0,1,,,,,USAFacts,USAFacts,,,,,5813568
+2020-01-24,United States,Wisconsin,TOTAL,0,1,,,,,USAFacts,USAFacts,,,,,5813568
+2020-01-25,United States,Wisconsin,TOTAL,0,1,,,,,USAFacts,USAFacts,,,,,5813568
+2020-01-26,United States,Wisconsin,TOTAL,0,1,,,,,USAFacts,USAFacts,,,,,5813568
+2020-01-27,United States,Wisconsin,TOTAL,0,1,,,,,USAFacts,USAFacts,,,,,5813568
+2020-01-28,United States,Wisconsin,TOTAL,0,1,,,,,USAFacts,USAFacts,,,,,5813568
+2020-01-29,United States,Wisconsin,TOTAL,0,1,,,,,USAFacts,USAFacts,,,,,5813568
+2020-01-30,United States,Wisconsin,TOTAL,0,1,,,,,USAFacts,USAFacts,,,,,5813568
+2020-01-31,United States,Wisconsin,TOTAL,0,1,,,,,USAFacts,USAFacts,,,,,5813568
 2020-01-22,United States,Wisconsin,Taylor County,0,0,,,,,USAFacts,USAFacts,,,,,20412
 2020-01-23,United States,Wisconsin,Taylor County,0,0,,,,,USAFacts,USAFacts,,,,,20412
 2020-01-24,United States,Wisconsin,Taylor County,0,0,,,,,USAFacts,USAFacts,,,,,20412
