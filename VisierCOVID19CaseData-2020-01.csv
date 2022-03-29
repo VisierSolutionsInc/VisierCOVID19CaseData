@@ -3802,10 +3802,6 @@ Date,Country,State/Province,Admin2,CasesCount,DeathsCount,RecoveryCount,TotalDos
 2020-01-29,United Arab Emirates,TOTAL,,1,0,0,,,,ECDC,ECDC,DXY,,,,9770526
 2020-01-30,United Arab Emirates,TOTAL,,4,0,0,,,,ECDC,ECDC,DXY,,,,9770526
 2020-01-31,United Arab Emirates,TOTAL,,4,0,0,,,,ECDC,ECDC,DXY,,,,9770526
-2020-01-30,United Kingdom,England,City of York,1,,,,,,Public Health England,,,,,,
-2020-01-31,United Kingdom,England,City of York,1,,,,,,Public Health England,,,,,,
-2020-01-30,United Kingdom,England,TOTAL,1,,,,,,Public Health England,,,,,,
-2020-01-31,United Kingdom,England,TOTAL,1,,,,,,Public Health England,,,,,,
 2020-01-01,United Kingdom,TOTAL,,0,0,,,,,ECDC,ECDC,,,,,67530161
 2020-01-02,United Kingdom,TOTAL,,0,0,,,,,ECDC,ECDC,,,,,67530161
 2020-01-03,United Kingdom,TOTAL,,0,0,,,,,ECDC,ECDC,,,,,67530161
@@ -3835,8 +3831,8 @@ Date,Country,State/Province,Admin2,CasesCount,DeathsCount,RecoveryCount,TotalDos
 2020-01-27,United Kingdom,TOTAL,,0,0,,,,,ECDC,ECDC,,,,,67530161
 2020-01-28,United Kingdom,TOTAL,,0,0,,,,,ECDC,ECDC,,,,,67530161
 2020-01-29,United Kingdom,TOTAL,,0,0,,,,,ECDC,ECDC,,,,,67530161
-2020-01-30,United Kingdom,TOTAL,,1,0,,,,,Public Health England,ECDC,,,,,67530161
-2020-01-31,United Kingdom,TOTAL,,1,0,,,,,Public Health England,ECDC,,,,,67530161
+2020-01-30,United Kingdom,TOTAL,,0,0,,,,,ECDC,ECDC,,,,,67530161
+2020-01-31,United Kingdom,TOTAL,,0,0,,,,,ECDC,ECDC,,,,,67530161
 2020-01-22,United States,Alabama,Autauga County,0,0,,,,,USAFacts,USAFacts,,,,,55601
 2020-01-23,United States,Alabama,Autauga County,0,0,,,,,USAFacts,USAFacts,,,,,55601
 2020-01-24,United States,Alabama,Autauga County,0,0,,,,,USAFacts,USAFacts,,,,,55601
