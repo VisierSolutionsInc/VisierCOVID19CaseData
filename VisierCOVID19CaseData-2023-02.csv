@@ -1,23 +1,23 @@
 Date,Country,State/Province,Admin2,CasesCount,DeathsCount,RecoveryCount,TotalDosesCount,PartiallyVaccinatedCount,FullyVaccinatedCount,CasesCountSource,DeathsCountSource,RecoveryCountSource,TotalDosesCountSource,PartiallyVaccinatedCountSource,FullyVaccinatedCountSource,PopulationCount
-2023-02-01,Afghanistan,TOTAL,,49273,1971,,12672379,11672740,10956289,ECDC,ECDC,,12672379,Our World in Data,Our World in Data,38041757
-2023-02-01,Albania,TOTAL,,48530,1003,,3042696,1344067,1272309,ECDC,ECDC,,3042696,Our World in Data,Our World in Data,2880913
+2023-02-01,Afghanistan,TOTAL,,49273,1971,,12684950,11684678,10967235,ECDC,ECDC,,12684950,Our World in Data,Our World in Data,38041757
+2023-02-01,Albania,TOTAL,,48530,1003,,3047340,1344582,1273313,ECDC,ECDC,,3047340,Our World in Data,Our World in Data,2880913
 2023-02-01,Algeria,TOTAL,,92102,2596,,15267442,7840131,6481186,ECDC,ECDC,,15267442,Our World in Data,Our World in Data,43053054
 2023-02-01,Andorra,TOTAL,,7338,79,,156242,57901,53489,ECDC,ECDC,,156242,Our World in Data,Our World in Data,77146
 2023-02-01,Angola,TOTAL,,16188,371,,23893345,15079129,8306664,ECDC,ECDC,,23893345,Our World in Data,Our World in Data,31825299
 2023-02-01,Anguilla,TOTAL,,10,0,,24474,10853,10377,ECDC,ECDC,,24474,Our World in Data,Our World in Data,14872
 2023-02-01,Antigua and Barbuda,TOTAL,,148,4,,136512,64290,62384,ECDC,ECDC,,136512,Our World in Data,Our World in Data,97115
-2023-02-01,Argentina,TOTAL,,1498160,40766,,114234147,41447379,34815412,ECDC,ECDC,,114234147,Our World in Data,Our World in Data,44780675
+2023-02-01,Argentina,TOTAL,,1498160,40766,,114305522,41449770,34818665,ECDC,ECDC,,114305522,Our World in Data,Our World in Data,44780675
 2023-02-01,Armenia,TOTAL,,148682,2503,,2150112,1129669,985807,ECDC,ECDC,,2150112,Our World in Data,Our World in Data,2957728
-2023-02-01,Aruba,TOTAL,,5049,46,,174293,90228,84065,ECDC,ECDC,,174293,Our World in Data,Our World in Data,106310
-2023-02-01,Australia,TOTAL,,28031,908,,63668170,22236993,21655047,ECDC,ECDC,,63668170,Our World in Data,Our World in Data,25364300
+2023-02-01,Aruba,TOTAL,,5049,46,,174299,90231,84068,ECDC,ECDC,,174299,Our World in Data,Our World in Data,106310
+2023-02-01,Australia,TOTAL,,28031,908,,63668170,22235981,21654109,ECDC,ECDC,,63668170,Our World in Data,Our World in Data,25364300
 2023-02-01,Austria,TOTAL,,320036,4400,,20263306,6895915,6822860,ECDC,ECDC,,20263306,Our World in Data,Our World in Data,8955108
 2023-02-01,Azerbaijan,TOTAL,,175874,1922,,13857111,5373253,4862494,ECDC,ECDC,,13857111,Our World in Data,Our World in Data,10047719
 2023-02-01,Bahamas,TOTAL,,7674,163,,364701,174147,165633,ECDC,ECDC,,364701,Our World in Data,Our World in Data,389486
 2023-02-01,Bahrain,TOTAL,,89143,348,,3476633,1241174,1226796,ECDC,ECDC,,3476633,Our World in Data,Our World in Data,1641164
 2023-02-01,Bangladesh,TOTAL,,490533,7052,,351955968,150956628,135108210,ECDC,ECDC,,351955968,Our World in Data,Our World in Data,163046173
 2023-02-01,Barbados,TOTAL,,292,7,,381013,163833,155010,ECDC,ECDC,,381013,Our World in Data,Our World in Data,287021
-2023-02-01,Belarus,TOTAL,,160295,1263,,18630189,6522522,6407034,ECDC,ECDC,,18630189,Our World in Data,Our World in Data,9452409
-2023-02-01,Belgium,TOTAL,,608001,17951,,29609249,9264927,9167413,ECDC,ECDC,,29609249,Our World in Data,Our World in Data,11539326
+2023-02-01,Belarus,TOTAL,,160295,1263,,18871846,6527591,6410184,ECDC,ECDC,,18871846,Our World in Data,Our World in Data,9452409
+2023-02-01,Belgium,TOTAL,,608001,17951,,29614404,9265134,9167544,ECDC,ECDC,,29614404,Our World in Data,Our World in Data,11539326
 2023-02-01,Belize,TOTAL,,9295,195,,502020,251881,221297,ECDC,ECDC,,502020,Our World in Data,Our World in Data,390351
 2023-02-01,Benin,TOTAL,,3090,44,,4232541,3697190,2742837,ECDC,ECDC,,4232541,Our World in Data,Our World in Data,11801151
 2023-02-01,Bermuda,TOTAL,,431,9,,132042,48554,47657,ECDC,ECDC,,132042,Our World in Data,Our World in Data,62508
@@ -28,19 +28,19 @@ Date,Country,State/Province,Admin2,CasesCount,DeathsCount,RecoveryCount,TotalDos
 2023-02-01,Botswana,TOTAL,,12501,37,,3121142,1691984,1427883,ECDC,ECDC,,3121142,Our World in Data,Our World in Data,2303703
 2023-02-01,Brazil,TOTAL,,6901952,181402,,483587737,189047444,175512132,ECDC,ECDC,,483587737,Our World in Data,Our World in Data,211049519
 2023-02-01,British Virgin Islands,TOTAL,,76,1,,41453,19466,18261,ECDC,ECDC,,41453,Our World in Data,Our World in Data,30033
-2023-02-01,Brunei,TOTAL,,152,3,,1283392,450404,445929,ECDC,ECDC,,1283392,Our World in Data,Our World in Data,433296
-2023-02-01,Bulgaria,TOTAL,,179449,5688,,4606990,2105767,2075494,ECDC,ECDC,,4606990,Our World in Data,Our World in Data,7000117
+2023-02-01,Brunei,TOTAL,,152,3,,1287323,450788,446323,ECDC,ECDC,,1287323,Our World in Data,Our World in Data,433296
+2023-02-01,Bulgaria,TOTAL,,179449,5688,,4607098,2106111,2075518,ECDC,ECDC,,4607098,Our World in Data,Our World in Data,7000117
 2023-02-01,Burkina Faso,TOTAL,,4030,71,,5117982,4366726,3335753,ECDC,ECDC,,5117982,Our World in Data,Our World in Data,20321383
 2023-02-01,Burundi,TOTAL,,729,1,,32265,31292,30699,ECDC,ECDC,,32265,Our World in Data,Our World in Data,11530577
-2023-02-01,Cambodia,TOTAL,,359,0,,45407927,15248971,14614006,ECDC,ECDC,,45407927,Our World in Data,Our World in Data,16486542
+2023-02-01,Cambodia,TOTAL,,359,0,,45612652,15254468,14620423,ECDC,ECDC,,45612652,Our World in Data,Our World in Data,16486542
 2023-02-01,Cameroon,TOTAL,,25143,443,,4251876,3666816,3323604,ECDC,ECDC,,4251876,Our World in Data,Our World in Data,25876387
 2023-02-01,Canada,Alberta,TOTAL,627184,5486,523679,8698772,5309596,3389176,Covid19Canada,Covid19Canada,Covid19Canada,Covid19Canada,Covid19Canada,Covid19Canada,4395586
-2023-02-01,Canada,British Columbia,TOTAL,394383,5061,318871,11605045,7249472,4355573,Covid19Canada,Covid19Canada,Covid19Canada,Covid19Canada,Covid19Canada,Covid19Canada,5105576
+2023-02-01,Canada,British Columbia,TOTAL,394679,5106,318871,11605045,7249472,4355573,Covid19Canada,Covid19Canada,Covid19Canada,Covid19Canada,Covid19Canada,Covid19Canada,5105576
 2023-02-01,Canada,Manitoba,TOTAL,154098,2418,129338,2863534,1754714,1108820,Covid19Canada,Covid19Canada,Covid19Canada,Covid19Canada,Covid19Canada,Covid19Canada,1373859
 2023-02-01,Canada,New Brunswick/Nouveau-Brunswick,TOTAL,87435,689,59468,1740082,1082421,657661,Covid19Canada,Covid19Canada,Covid19Canada,Covid19Canada,Covid19Canada,Covid19Canada,780021
 2023-02-01,Canada,Newfoundland and Labrador,TOTAL,54448,307,25162,1256652,780761,475891,Covid19Canada,Covid19Canada,Covid19Canada,Covid19Canada,Covid19Canada,Covid19Canada,521922
 2023-02-01,Canada,Northwest Territories,TOTAL,11508,22,11810,100450,60925,39525,Covid19Canada,Covid19Canada,Covid19Canada,Covid19Canada,Covid19Canada,Covid19Canada,44895
-2023-02-01,Canada,Nova Scotia,TOTAL,140846,718,44380,2217196,1386187,831009,Covid19Canada,Covid19Canada,Covid19Canada,Covid19Canada,Covid19Canada,Covid19Canada,976768
+2023-02-01,Canada,Nova Scotia,TOTAL,141595,726,44380,2217196,1386187,831009,Covid19Canada,Covid19Canada,Covid19Canada,Covid19Canada,Covid19Canada,Covid19Canada,976768
 2023-02-01,Canada,Nunavut,TOTAL,3531,7,3435,77083,48062,29021,Covid19Canada,Covid19Canada,Covid19Canada,Covid19Canada,Covid19Canada,Covid19Canada,38873
 2023-02-01,Canada,Ontario,Algoma,11530,87,,,,,Covid19Canada,Covid19Canada,,,,,
 2023-02-01,Canada,Ontario,Brant,14427,122,,,,,Covid19Canada,Covid19Canada,,,,,
@@ -71,32 +71,32 @@ Date,Country,State/Province,Admin2,CasesCount,DeathsCount,RecoveryCount,TotalDos
 2023-02-01,Canada,Québec,Nord-du-Québec,1907,7,,,,,Covid19Canada,Covid19Canada,,,,,
 2023-02-01,Canada,Québec,Outaouais,44924,389,,,,,Covid19Canada,Covid19Canada,,,,,
 2023-02-01,Canada,Québec,TOTAL,1295910,17855,1010824,19864546,12710293,7154253,Covid19Canada,Covid19Canada,Covid19Canada,Covid19Canada,Covid19Canada,Covid19Canada,8522800
-2023-02-01,Canada,Saskatchewan,TOTAL,150935,1761,113023,2400239,1486688,913551,Covid19Canada,Covid19Canada,Covid19Canada,Covid19Canada,Covid19Canada,Covid19Canada,1178657
-2023-02-01,Canada,TOTAL,,4550590,50292,,96937360,34759355,31761111,Covid19Canada,Covid19Canada,,96937360,Our World in Data,Our World in Data,37797496
+2023-02-01,Canada,Saskatchewan,TOTAL,151450,1781,113023,2400239,1486688,913551,Covid19Canada,Covid19Canada,Covid19Canada,Covid19Canada,Covid19Canada,Covid19Canada,1178657
+2023-02-01,Canada,TOTAL,,4552150,50365,,96954232,34761719,31762055,Covid19Canada,Covid19Canada,,96954232,Our World in Data,Our World in Data,37797496
 2023-02-01,Canada,Yukon,TOTAL,5588,32,4146,91963,56820,35143,Covid19Canada,Covid19Canada,Covid19Canada,Covid19Canada,Covid19Canada,Covid19Canada,41022
 2023-02-01,Cape Verde,TOTAL,,11357,110,,,,,ECDC,ECDC,,,,,549936
 2023-02-01,Cayman Islands,TOTAL,,298,2,,150816,61859,60589,ECDC,ECDC,,150816,Our World in Data,Our World in Data,64948
 2023-02-01,Central African Republic,TOTAL,,4936,63,,2457192,2252721,2089053,ECDC,ECDC,,2457192,Our World in Data,Our World in Data,4745179
 2023-02-01,Chad,TOTAL,,1770,102,,6347672,6208632,6081324,ECDC,ECDC,,6347672,Our World in Data,Our World in Data,15946882
-2023-02-01,Chile,TOTAL,,571919,15886,,62663777,18086318,17698313,ECDC,ECDC,,62663777,Our World in Data,Our World in Data,18952035
+2023-02-01,Chile,TOTAL,,571919,15886,,62679168,18087656,17699301,ECDC,ECDC,,62679168,Our World in Data,Our World in Data,18952035
 2023-02-01,China,TOTAL,,92021,4739,,3489746000,1310207000,1276549000,ECDC,ECDC,,3489746000,Our World in Data,Our World in Data,1433783692
-2023-02-01,Colombia,TOTAL,,1425774,39053,,90101737,42944647,36928012,ECDC,ECDC,,90101737,Our World in Data,Our World in Data,50339443
+2023-02-01,Colombia,TOTAL,,1425774,39053,,90210929,42959468,36948604,ECDC,ECDC,,90210929,Our World in Data,Our World in Data,50339443
 2023-02-01,Comoros,TOTAL,,628,7,,835021,438825,397080,ECDC,ECDC,,835021,Our World in Data,Our World in Data,850891
 2023-02-01,Costa Rica,TOTAL,,150947,1895,,12778229,4605172,4314443,ECDC,ECDC,,12778229,Our World in Data,Our World in Data,5047561
-2023-02-01,Croatia,TOTAL,,175886,2640,,5358949,2320999,2250917,ECDC,ECDC,,5358949,Our World in Data,Our World in Data,4130299
-2023-02-01,Cuba,TOTAL,,9423,137,,43348660,10724247,10006699,ECDC,ECDC,,43348660,Our World in Data,Our World in Data,11333484
+2023-02-01,Croatia,TOTAL,,175886,2640,,5359205,2321026,2250952,ECDC,ECDC,,5359205,Our World in Data,Our World in Data,4130299
+2023-02-01,Cuba,TOTAL,,9423,137,,43389857,10724646,10006870,ECDC,ECDC,,43389857,Our World in Data,Our World in Data,11333484
 2023-02-01,Curaçao,TOTAL,,3624,11,,256029,108601,99955,ECDC,ECDC,,256029,Our World in Data,Our World in Data,163423
 2023-02-01,Cyprus,TOTAL,,15101,78,,1797542,670969,646021,ECDC,ECDC,,1797542,Our World in Data,Our World in Data,1198574
-2023-02-01,Czech Republic,TOTAL,,581079,9609,,18614456,6977807,6893558,ECDC,ECDC,,18614456,Our World in Data,Our World in Data,10689213
+2023-02-01,Czech Republic,TOTAL,,581079,9609,,18614938,6977841,6893578,ECDC,ECDC,,18614938,Our World in Data,Our World in Data,10689213
 2023-02-01,Democratic Republic of the Congo,TOTAL,,14512,355,,9988117,9145982,6848697,ECDC,ECDC,,9988117,Our World in Data,Our World in Data,86790568
 2023-02-01,Denmark,Faroe Islands,TOTAL,528,0,,,,,ECDC,ECDC,,,,,
-2023-02-01,Denmark,TOTAL,,109758,941,,13155732,4790863,4755449,ECDC,ECDC,,13155732,Our World in Data,Our World in Data,5771877
+2023-02-01,Denmark,TOTAL,,109758,941,,13155068,4790605,4755204,ECDC,ECDC,,13155068,Our World in Data,Our World in Data,5771877
 2023-02-01,Djibouti,TOTAL,,5728,61,,338051,317428,297060,ECDC,ECDC,,338051,Our World in Data,Our World in Data,973557
 2023-02-01,Dominica,TOTAL,,87,0,,67647,32995,30659,ECDC,ECDC,,67647,Our World in Data,Our World in Data,71808
-2023-02-01,Dominican Republic,TOTAL,,154692,2361,,16209468,7305726,6077962,ECDC,ECDC,,16209468,Our World in Data,Our World in Data,10738957
-2023-02-01,East Timor,TOTAL,,31,0,,2006100,882276,796926,ECDC,ECDC,,2006100,Our World in Data,Our World in Data,1293120
+2023-02-01,Dominican Republic,TOTAL,,154692,2361,,16211082,7305984,6078255,ECDC,ECDC,,16211082,Our World in Data,Our World in Data,10738957
+2023-02-01,East Timor,TOTAL,,31,0,,2008429,882547,797351,ECDC,ECDC,,2008429,Our World in Data,Our World in Data,1293120
 2023-02-01,Ecuador,TOTAL,,202110,13875,,39424111,15324257,14226313,ECDC,ECDC,,39424111,Our World in Data,Our World in Data,17373657
-2023-02-01,Egypt,TOTAL,,121575,6920,,101357078,53839162,40162146,ECDC,ECDC,,101357078,Our World in Data,Our World in Data,100388076
+2023-02-01,Egypt,TOTAL,,121575,6920,,101407664,53850471,40166210,ECDC,ECDC,,101407664,Our World in Data,Our World in Data,100388076
 2023-02-01,El Salvador,TOTAL,,41880,1205,,11289175,4652597,4344286,ECDC,ECDC,,11289175,Our World in Data,Our World in Data,6453550
 2023-02-01,Equatorial Guinea,TOTAL,,5185,85,,488738,270109,214032,ECDC,ECDC,,488738,Our World in Data,Our World in Data,1355982
 2023-02-01,Eritrea,TOTAL,,711,0,,,,,ECDC,ECDC,,,,,3497117
@@ -105,9 +105,9 @@ Date,Country,State/Province,Admin2,CasesCount,DeathsCount,RecoveryCount,TotalDos
 2023-02-01,Falkland Islands,TOTAL,,19,0,,4407,2632,1775,ECDC,ECDC,,4407,Our World in Data,Our World in Data,
 2023-02-01,Faroe Islands,TOTAL,,528,0,,103894,41715,40895,ECDC,ECDC,,103894,Our World in Data,Our World in Data,48677
 2023-02-01,Fiji,TOTAL,,46,2,,1552330,711715,640757,ECDC,ECDC,,1552330,Our World in Data,Our World in Data,889955
-2023-02-01,Finland,TOTAL,,30810,453,,13173313,4524248,4347573,ECDC,ECDC,,13173313,Our World in Data,Our World in Data,5532159
+2023-02-01,Finland,TOTAL,,30810,453,,13185055,4524351,4347780,ECDC,ECDC,,13185055,Our World in Data,Our World in Data,5532159
 2023-02-01,France,French Polynesia,TOTAL,15618,91,,,,,ECDC,ECDC,,,,,
-2023-02-01,France,TOTAL,,2376852,57911,,154112774,54648123,53154398,ECDC,ECDC,,154112774,Our World in Data,Our World in Data,65129731
+2023-02-01,France,TOTAL,,2376852,57911,,154141805,54649291,53155783,ECDC,ECDC,,154141805,Our World in Data,Our World in Data,65129731
 2023-02-01,French Polynesia,TOTAL,,15618,91,,502352,190908,186203,ECDC,ECDC,,502352,Our World in Data,Our World in Data,279285
 2023-02-01,Gabon,TOTAL,,9330,63,,572672,311040,257378,ECDC,ECDC,,572672,Our World in Data,Our World in Data,2172578
 2023-02-01,Gambia,TOTAL,,3782,123,,815861,548701,454249,ECDC,ECDC,,815861,Our World in Data,Our World in Data,2347696
@@ -127,11 +127,11 @@ Date,Country,State/Province,Admin2,CasesCount,DeathsCount,RecoveryCount,TotalDos
 2023-02-01,Germany,Saxony,TOTAL,1944561,16738,,,,,Robert Koch Institut,Robert Koch Institut,,,,,
 2023-02-01,Germany,Saxony-Anhalt,TOTAL,953949,6236,,,,,Robert Koch Institut,Robert Koch Institut,,,,,
 2023-02-01,Germany,Schleswig-Holstein,TOTAL,1167328,3442,,,,,Robert Koch Institut,Robert Koch Institut,,,,,
-2023-02-01,Germany,TOTAL,,37796790,165865,,191951071,64869352,63555479,Robert Koch Institut,Robert Koch Institut,,191951071,Our World in Data,Our World in Data,83517046
+2023-02-01,Germany,TOTAL,,37796790,165865,,191974134,64869796,63555839,Robert Koch Institut,Robert Koch Institut,,191974134,Our World in Data,Our World in Data,83517046
 2023-02-01,Germany,Thuringia,TOTAL,878387,8224,,,,,Robert Koch Institut,Robert Koch Institut,,,,,
 2023-02-01,Ghana,TOTAL,,53014,327,,22384226,12853113,9806758,ECDC,ECDC,,22384226,Our World in Data,Our World in Data,30417858
 2023-02-01,Gibraltar,TOTAL,,1075,5,,132810,42175,41465,ECDC,ECDC,,132810,Our World in Data,Our World in Data,33706
-2023-02-01,Greece,TOTAL,,124534,3625,,22093887,7933390,7643899,ECDC,ECDC,,22093887,Our World in Data,Our World in Data,10473452
+2023-02-01,Greece,TOTAL,,124534,3625,,22094988,7933418,7643923,ECDC,ECDC,,22094988,Our World in Data,Our World in Data,10473452
 2023-02-01,Greenland,TOTAL,,19,0,,79738,41227,38511,ECDC,ECDC,,79738,Our World in Data,Our World in Data,56660
 2023-02-01,Grenada,TOTAL,,69,0,,90507,44180,38975,ECDC,ECDC,,90507,Our World in Data,Our World in Data,112002
 2023-02-01,Guam,TOTAL,,7106,118,,393684,,,ECDC,ECDC,,US CDC,US CDC,US CDC,167295
@@ -141,7 +141,7 @@ Date,Country,State/Province,Admin2,CasesCount,DeathsCount,RecoveryCount,TotalDos
 2023-02-01,Guinea-Bissau,TOTAL,,2444,44,,673091,640393,404228,ECDC,ECDC,,673091,Our World in Data,Our World in Data,1920917
 2023-02-01,Guyana,TOTAL,,5920,155,,953690,493404,380118,ECDC,ECDC,,953690,Our World in Data,Our World in Data,782775
 2023-02-01,Haiti,TOTAL,,9565,234,,515718,406534,238352,ECDC,ECDC,,515718,Our World in Data,Our World in Data,11263079
-2023-02-01,Honduras,TOTAL,,114359,2975,,16912440,6454805,5772495,ECDC,ECDC,,16912440,Our World in Data,Our World in Data,9746115
+2023-02-01,Honduras,TOTAL,,114359,2975,,16987951,6479241,5784379,ECDC,ECDC,,16987951,Our World in Data,Our World in Data,9746115
 2023-02-01,Hungary,TOTAL,,283870,7130,,16701238,6420813,6207249,ECDC,ECDC,,16701238,Our World in Data,Our World in Data,9684680
 2023-02-01,Iceland,TOTAL,,5557,28,,805469,309770,290193,ECDC,ECDC,,805469,Our World in Data,Our World in Data,339037
 2023-02-01,India,Assam,TOTAL,610543,8035,738065,,,,Covid-19 India Working Group,Ministry of Health and Family Welfare - India,Ministry of Health and Family Welfare - India,,,,
@@ -171,7 +171,7 @@ Date,Country,State/Province,Admin2,CasesCount,DeathsCount,RecoveryCount,TotalDos
 2023-02-01,India,State of Rājasthān,TOTAL,954429,9654,1305915,,,,Covid-19 India Working Group,Ministry of Health and Family Welfare - India,Ministry of Health and Family Welfare - India,,,,
 2023-02-01,India,State of Tamil Nādu,TOTAL,2702623,38049,3556570,,,,Covid-19 India Working Group,Ministry of Health and Family Welfare - India,Ministry of Health and Family Welfare - India,,,,
 2023-02-01,India,State of Uttarakhand,TOTAL,343896,7753,441679,,,,Covid-19 India Working Group,Ministry of Health and Family Welfare - India,Ministry of Health and Family Welfare - India,,,,
-2023-02-01,India,TOTAL,,34284758,530740,44150372,2204868897,1027325954,951695297,Covid-19 India Working Group,Ministry of Health and Family Welfare - India,Ministry of Health and Family Welfare - India,2204868897,Our World in Data,Our World in Data,1366417756
+2023-02-01,India,TOTAL,,34284758,530740,44150372,2205104562,1027331515,951722099,Covid-19 India Working Group,Ministry of Health and Family Welfare - India,Ministry of Health and Family Welfare - India,2205104562,Our World in Data,Our World in Data,1366417756
 2023-02-01,India,Telangana,TOTAL,670953,4111,837369,,,,Covid-19 India Working Group,Ministry of Health and Family Welfare - India,Ministry of Health and Family Welfare - India,,,,
 2023-02-01,India,Tripura,TOTAL,84468,940,107094,,,,Covid-19 India Working Group,Ministry of Health and Family Welfare - India,Ministry of Health and Family Welfare - India,,,,
 2023-02-01,India,Union Territory of Andaman and Nicobar Islands,TOTAL,7647,129,10618,,,,Covid-19 India Working Group,Ministry of Health and Family Welfare - India,Ministry of Health and Family Welfare - India,,,,
@@ -183,11 +183,11 @@ Date,Country,State/Province,Admin2,CasesCount,DeathsCount,RecoveryCount,TotalDos
 2023-02-01,India,Uttar Pradesh,TOTAL,1710168,23636,2104519,,,,Covid-19 India Working Group,Ministry of Health and Family Welfare - India,Ministry of Health and Family Welfare - India,,,,
 2023-02-01,India,West Bengal,TOTAL,1592908,21532,2097171,,,,Covid-19 India Working Group,Ministry of Health and Family Welfare - India,Ministry of Health and Family Welfare - India,,,,
 2023-02-01,Indonesia,TOTAL,,617820,18819,,444303130,203657535,172693321,ECDC,ECDC,,444303130,Our World in Data,Our World in Data,270625567
-2023-02-01,Iran,TOTAL,,1108269,52196,,154942435,65132600,58527648,ECDC,ECDC,,154942435,Our World in Data,Our World in Data,82913893
+2023-02-01,Iran,TOTAL,,1108269,52196,,155011109,65150916,58536022,ECDC,ECDC,,155011109,Our World in Data,Our World in Data,82913893
 2023-02-01,Iraq,TOTAL,,574634,12579,,19557364,11332925,7944775,ECDC,ECDC,,19557364,Our World in Data,Our World in Data,39309789
-2023-02-01,Ireland,TOTAL,,76185,2124,,11105113,4106921,4059312,ECDC,ECDC,,11105113,Our World in Data,Our World in Data,4882498
+2023-02-01,Ireland,TOTAL,,76185,2124,,11105958,4107168,4059519,ECDC,ECDC,,11105958,Our World in Data,Our World in Data,4882498
 2023-02-01,Isle of Man,TOTAL,,370,25,,189994,69560,67106,ECDC,ECDC,,189994,Our World in Data,Our World in Data,84589
-2023-02-01,Israel,TOTAL,,357859,2999,,18635383,6722035,6158343,ECDC,ECDC,,18635383,Our World in Data,Our World in Data,8519373
+2023-02-01,Israel,TOTAL,,357859,2999,,18636493,6722080,6158406,ECDC,ECDC,,18636493,Our World in Data,Our World in Data,8519373
 2023-02-01,Italy,Abruzzo,TOTAL,647390,3893,632144,,,,Civil Protection Department,Civil Protection Department,Civil Protection Department,,,,
 2023-02-01,Italy,Basilicata,TOTAL,199038,1017,189684,,,,Civil Protection Department,Civil Protection Department,Civil Protection Department,,,,
 2023-02-01,Italy,Calabria,TOTAL,627783,3291,622602,,,,Civil Protection Department,Civil Protection Department,Civil Protection Department,,,,
@@ -204,14 +204,14 @@ Date,Country,State/Province,Admin2,CasesCount,DeathsCount,RecoveryCount,TotalDos
 2023-02-01,Italy,Regione Autonoma Valle d'Aosta,TOTAL,50290,566,49100,,,,Civil Protection Department,Civil Protection Department,Civil Protection Department,,,,
 2023-02-01,Italy,Sardegna,TOTAL,506065,2898,499551,,,,Civil Protection Department,Civil Protection Department,Civil Protection Department,,,,
 2023-02-01,Italy,Sicilia,TOTAL,1807317,12587,1777640,,,,Civil Protection Department,Civil Protection Department,Civil Protection Department,,,,
-2023-02-01,Italy,TOTAL,,25453789,186833,25014986,143691503,50873659,47974468,Civil Protection Department,Civil Protection Department,Civil Protection Department,143691503,Our World in Data,Our World in Data,60550092
+2023-02-01,Italy,TOTAL,,25453789,186833,25014986,143695672,50873342,47974425,Civil Protection Department,Civil Protection Department,Civil Protection Department,143695672,Our World in Data,Our World in Data,60550092
 2023-02-01,Italy,Toscana,TOTAL,1581392,11468,1509771,,,,Civil Protection Department,Civil Protection Department,Civil Protection Department,,,,
 2023-02-01,Italy,Trentino-Alto Adige,Bolzano,291861,1608,289937,,,,Civil Protection Department,Civil Protection Department,Civil Protection Department,,,,
 2023-02-01,Italy,Trentino-Alto Adige,Provincia di Trento,242702,1639,240690,,,,Civil Protection Department,Civil Protection Department,Civil Protection Department,,,,
 2023-02-01,Italy,Umbria,TOTAL,434912,2403,430695,,,,Civil Protection Department,Civil Protection Department,Civil Protection Department,,,,
 2023-02-01,Italy,Veneto,TOTAL,2674092,16550,2640674,,,,Civil Protection Department,Civil Protection Department,Civil Protection Department,,,,
 2023-02-01,Ivory Coast,TOTAL,,21680,133,,24277616,13388664,11966195,ECDC,ECDC,,24277616,Our World in Data,Our World in Data,25716554
-2023-02-01,Jamaica,TOTAL,,11710,273,,266854,84365,81876,ECDC,ECDC,,266854,Our World in Data,Our World in Data,2948277
+2023-02-01,Jamaica,TOTAL,,11710,273,,266953,84365,81882,ECDC,ECDC,,266953,Our World in Data,Our World in Data,2948277
 2023-02-01,Japan,Aichi-ken,TOTAL,1355079,2832,9273,,,,Reustle,Reustle,Reustle,,,,
 2023-02-01,Japan,Akita,TOTAL,98783,162,86,,,,Reustle,Reustle,Reustle,,,,
 2023-02-01,Japan,Aomori-ken,TOTAL,162684,293,274,,,,Reustle,Reustle,Reustle,,,,
@@ -249,7 +249,7 @@ Date,Country,State/Province,Admin2,CasesCount,DeathsCount,RecoveryCount,TotalDos
 2023-02-01,Japan,Shiga,TOTAL,231436,315,745,,,,Reustle,Reustle,Reustle,,,,
 2023-02-01,Japan,Shimane-ken,TOTAL,81567,85,149,,,,Reustle,Reustle,Reustle,,,,
 2023-02-01,Japan,Shizuoka,TOTAL,487349,730,1315,,,,Reustle,Reustle,Reustle,,,,
-2023-02-01,Japan,TOTAL,,21127507,44046,20330289,379045051,104624695,103243353,Reustle,Reustle,Reustle,379045051,Our World in Data,Our World in Data,126860299
+2023-02-01,Japan,TOTAL,,21127507,44046,20330289,379482568,104629108,103252378,Reustle,Reustle,Reustle,379482568,Our World in Data,Our World in Data,126860299
 2023-02-01,Japan,Tochigi,TOTAL,222029,489,579,,,,Reustle,Reustle,Reustle,,,,
 2023-02-01,Japan,Tokushima-ken,TOTAL,92285,169,170,,,,Reustle,Reustle,Reustle,,,,
 2023-02-01,Japan,Tokyo Prefecture,TOTAL,3160666,5620,39124,,,,Reustle,Reustle,Reustle,,,,
@@ -265,7 +265,7 @@ Date,Country,State/Province,Admin2,CasesCount,DeathsCount,RecoveryCount,TotalDos
 2023-02-01,Kazakhstan,TOTAL,,186277,2552,,20918681,10858101,10629063,ECDC,ECDC,,20918681,Our World in Data,Our World in Data,18551428
 2023-02-01,Kenya,TOTAL,,91892,1587,,23132128,14242625,10864421,ECDC,ECDC,,23132128,Our World in Data,Our World in Data,52573967
 2023-02-01,Kosovo,TOTAL,,46580,1198,,1837363,906807,825060,ECDC,ECDC,,1837363,Our World in Data,Our World in Data,
-2023-02-01,Kuwait,TOTAL,,146218,911,,8257593,3455871,3344375,ECDC,ECDC,,8257593,Our World in Data,Our World in Data,4207077
+2023-02-01,Kuwait,TOTAL,,146218,911,,8258076,3456075,3344576,ECDC,ECDC,,8258076,Our World in Data,Our World in Data,4207077
 2023-02-01,Kyrgyzstan,TOTAL,,77674,1312,,3413210,1646141,1368271,ECDC,ECDC,,3413210,Our World in Data,Our World in Data,6415851
 2023-02-01,Laos,TOTAL,,41,0,,11111066,5888649,5222417,ECDC,ECDC,,11111066,Our World in Data,Our World in Data,
 2023-02-01,Latvia,TOTAL,,25675,349,,2895716,1346184,1305976,ECDC,ECDC,,2895716,Our World in Data,Our World in Data,1906740
@@ -274,32 +274,32 @@ Date,Country,State/Province,Admin2,CasesCount,DeathsCount,RecoveryCount,TotalDos
 2023-02-01,Liberia,TOTAL,,1676,83,,4460668,3903802,3730967,ECDC,ECDC,,4460668,Our World in Data,Our World in Data,4937374
 2023-02-01,Libya,TOTAL,,90779,1299,,3739158,2316327,1236102,ECDC,ECDC,,3739158,Our World in Data,Our World in Data,6777453
 2023-02-01,Liechtenstein,TOTAL,,1514,18,,74275,26765,26461,ECDC,ECDC,,74275,Our World in Data,Our World in Data,38020
-2023-02-01,Lithuania,TOTAL,,95021,825,,4543144,1956680,1880058,ECDC,ECDC,,4543144,Our World in Data,Our World in Data,2759631
-2023-02-01,Luxembourg,TOTAL,,41272,396,,1373341,481927,462609,ECDC,ECDC,,1373341,Our World in Data,Our World in Data,615730
-2023-02-01,Macedonia,TOTAL,,73638,2121,,1862722,854475,838084,ECDC,ECDC,,1862722,Our World in Data,Our World in Data,2083458
+2023-02-01,Lithuania,TOTAL,,95021,825,,4543297,1956692,1880081,ECDC,ECDC,,4543297,Our World in Data,Our World in Data,2759631
+2023-02-01,Luxembourg,TOTAL,,41272,396,,1373341,481927,462639,ECDC,ECDC,,1373341,Our World in Data,Our World in Data,615730
+2023-02-01,Macedonia,TOTAL,,73638,2121,,1862732,854479,838085,ECDC,ECDC,,1862732,Our World in Data,Our World in Data,2083458
 2023-02-01,Madagascar,TOTAL,,17638,258,,2514403,2183010,2107097,ECDC,ECDC,,2514403,Our World in Data,Our World in Data,26969306
 2023-02-01,Malawi,TOTAL,,6066,187,,6876517,4932472,3927293,ECDC,ECDC,,6876517,Our World in Data,Our World in Data,18628749
-2023-02-01,Malaysia,TOTAL,,83475,415,,72532144,28126275,27537956,ECDC,ECDC,,72532144,Our World in Data,Our World in Data,31949789
+2023-02-01,Malaysia,TOTAL,,83475,415,,72534904,28126432,27538136,ECDC,ECDC,,72534904,Our World in Data,Our World in Data,31949789
 2023-02-01,Maldives,TOTAL,,13368,48,,951419,399151,385081,ECDC,ECDC,,951419,Our World in Data,Our World in Data,530957
 2023-02-01,Mali,TOTAL,,5814,194,,4713015,3494626,2847193,ECDC,ECDC,,4713015,Our World in Data,Our World in Data,19658023
-2023-02-01,Malta,TOTAL,,11101,166,,1413619,478633,471381,ECDC,ECDC,,1413619,Our World in Data,Our World in Data,440377
+2023-02-01,Malta,TOTAL,,11101,166,,1379551,478633,471381,ECDC,ECDC,,1379551,Our World in Data,Our World in Data,440377
 2023-02-01,Marshall Islands,TOTAL,,4,0,,94349,,,ECDC,ECDC,,US CDC,US CDC,US CDC,58791
 2023-02-01,Mauritania,TOTAL,,10780,222,,4066473,2098993,1537298,ECDC,ECDC,,4066473,Our World in Data,Our World in Data,4525698
 2023-02-01,Mauritius,TOTAL,,515,10,,2613037,1123773,1088142,ECDC,ECDC,,2613037,Our World in Data,Our World in Data,1269670
 2023-02-01,Mexico,TOTAL,,1250044,113953,,225063079,99071001,82652919,ECDC,ECDC,,225063079,Our World in Data,Our World in Data,127575529
-2023-02-01,Moldova,TOTAL,,126518,2572,,2274620,1105617,1075068,ECDC,ECDC,,2274620,Our World in Data,Our World in Data,4043258
+2023-02-01,Moldova,TOTAL,,126518,2572,,2276473,1106068,1075464,ECDC,ECDC,,2276473,Our World in Data,Our World in Data,4043258
 2023-02-01,Monaco,TOTAL,,668,2,,65140,28875,25667,ECDC,ECDC,,65140,Our World in Data,Our World in Data,38967
 2023-02-01,Mongolia,TOTAL,,912,0,,5492919,2272965,2175617,ECDC,ECDC,,5492919,Our World in Data,Our World in Data,3225166
 2023-02-01,Montenegro,TOTAL,,41426,582,,679171,292783,284869,ECDC,ECDC,,679171,Our World in Data,Our World in Data,627988
 2023-02-01,Montserrat,TOTAL,,13,1,,4619,2104,1952,ECDC,ECDC,,4619,Our World in Data,Our World in Data,4991
-2023-02-01,Morocco,TOTAL,,399609,6624,,55370997,25017159,23518299,ECDC,ECDC,,55370997,Our World in Data,Our World in Data,36471766
+2023-02-01,Morocco,TOTAL,,399609,6624,,55373731,25017528,23518734,ECDC,ECDC,,55373731,Our World in Data,Our World in Data,36471766
 2023-02-01,Mozambique,TOTAL,,16954,142,,29140427,18640008,18454569,ECDC,ECDC,,29140427,Our World in Data,Our World in Data,30366043
 2023-02-01,Myanmar,TOTAL,,108342,2268,,64549994,34777314,27545329,ECDC,ECDC,,64549994,Our World in Data,Our World in Data,54045422
 2023-02-01,Nepal,TOTAL,,248423,1698,,60789000,27678479,24159118,ECDC,ECDC,,60789000,Our World in Data,Our World in Data,28608715
 2023-02-01,Netherlands,Curaçao,TOTAL,3624,11,,,,,ECDC,ECDC,,,,,
 2023-02-01,Netherlands,TOTAL,,612746,10034,,36104942,12775557,11957652,ECDC,ECDC,,36104942,Our World in Data,Our World in Data,17097123
 2023-02-01,New Caledonia,TOTAL,,36,0,,479043,192241,184675,ECDC,ECDC,,479043,Our World in Data,Our World in Data,282757
-2023-02-01,New Zealand,TOTAL,,1740,25,,11976900,4300660,4139870,ECDC,ECDC,,11976900,Our World in Data,Our World in Data,4783062
+2023-02-01,New Zealand,TOTAL,,1740,25,,11977450,4300684,4139900,ECDC,ECDC,,11977450,Our World in Data,Our World in Data,4783062
 2023-02-01,Nicaragua,TOTAL,,5887,162,,12190274,6205237,5985037,ECDC,ECDC,,12190274,Our World in Data,Our World in Data,6545503
 2023-02-01,Niger,TOTAL,,2258,80,,7187711,6072321,5308074,ECDC,ECDC,,7187711,Our World in Data,Our World in Data,23310719
 2023-02-01,Nigeria,TOTAL,,73175,1197,,108052995,76507342,63966056,ECDC,ECDC,,108052995,Our World in Data,Our World in Data,200963603
@@ -311,14 +311,14 @@ Date,Country,State/Province,Admin2,CasesCount,DeathsCount,RecoveryCount,TotalDos
 2023-02-01,Panama,TOTAL,,193007,3356,,8720218,3523328,3166438,ECDC,ECDC,,8720218,Our World in Data,Our World in Data,4246440
 2023-02-01,Papua New Guinea,TOTAL,,725,8,,715322,371474,311068,ECDC,ECDC,,715322,Our World in Data,Our World in Data,8776119
 2023-02-01,Paraguay,TOTAL,,93582,1953,,9538513,3984150,3539333,ECDC,ECDC,,9538513,Our World in Data,Our World in Data,7044639
-2023-02-01,Peru,TOTAL,,984973,36677,,87026284,30265403,28476822,ECDC,ECDC,,87026284,Our World in Data,Our World in Data,32510462
-2023-02-01,Philippines,TOTAL,,449400,8733,,169916574,78385135,73946192,ECDC,ECDC,,169916574,Our World in Data,Our World in Data,108116622
-2023-02-01,Poland,TOTAL,,1135676,22864,,57879747,22867372,22638509,ECDC,ECDC,,57879747,Our World in Data,Our World in Data,37887771
-2023-02-01,Portugal,TOTAL,,348744,5559,,28040800,9776863,8890719,ECDC,ECDC,,28040800,Our World in Data,Our World in Data,10226178
+2023-02-01,Peru,TOTAL,,984973,36677,,87044184,30268768,28479572,ECDC,ECDC,,87044184,Our World in Data,Our World in Data,32510462
+2023-02-01,Philippines,TOTAL,,449400,8733,,170014442,78397169,73960026,ECDC,ECDC,,170014442,Our World in Data,Our World in Data,108116622
+2023-02-01,Poland,TOTAL,,1135676,22864,,57883195,22867688,22638779,ECDC,ECDC,,57883195,Our World in Data,Our World in Data,37887771
+2023-02-01,Portugal,TOTAL,,348744,5559,,28064850,9777719,8891728,ECDC,ECDC,,28064850,Our World in Data,Our World in Data,10226178
 2023-02-01,Puerto Rico,TOTAL,,107158,1272,,7749944,,,ECDC,ECDC,,US CDC,US CDC,US CDC,3195153
-2023-02-01,Qatar,TOTAL,,140961,240,,7603722,2850786,2850786,ECDC,ECDC,,7603722,Our World in Data,Our World in Data,2832071
+2023-02-01,Qatar,TOTAL,,140961,240,,7605455,2851272,2851271,ECDC,ECDC,,7605455,Our World in Data,Our World in Data,2832071
 2023-02-01,Republic of the Congo,TOTAL,,6049,99,,833210,695760,654119,ECDC,ECDC,,833210,Our World in Data,Our World in Data,5380504
-2023-02-01,Romania,TOTAL,,556335,13385,,16827486,8185912,8114769,ECDC,ECDC,,16827486,Our World in Data,Our World in Data,19364558
+2023-02-01,Romania,TOTAL,,556335,13385,,16827486,8186209,8114769,ECDC,ECDC,,16827486,Our World in Data,Our World in Data,19364558
 2023-02-01,Russia,TOTAL,,2653928,46941,,184434902,87919862,79066362,ECDC,ECDC,,184434902,Our World in Data,Our World in Data,145872260
 2023-02-01,Rwanda,TOTAL,,6659,56,,26106436,10572981,9897876,ECDC,ECDC,,26106436,Our World in Data,Our World in Data,12626938
 2023-02-01,Saint Kitts and Nevis,TOTAL,,27,0,,64297,33794,27000,ECDC,ECDC,,64297,Our World in Data,Our World in Data,52834
@@ -331,7 +331,7 @@ Date,Country,State/Province,Admin2,CasesCount,DeathsCount,RecoveryCount,TotalDos
 2023-02-01,Serbia,TOTAL,,266432,2331,,8534688,3354075,3278198,ECDC,ECDC,,8534688,Our World in Data,Our World in Data,8772228
 2023-02-01,Seychelles,TOTAL,,187,0,,219489,85803,81661,ECDC,ECDC,,219489,Our World in Data,Our World in Data,97741
 2023-02-01,Sierra Leone,TOTAL,,2440,75,,6444983,4506129,3644025,ECDC,ECDC,,6444983,Our World in Data,Our World in Data,7813207
-2023-02-01,Singapore,TOTAL,,58320,29,,14727569,5160547,5120297,ECDC,ECDC,,14727569,Our World in Data,Our World in Data,5804343
+2023-02-01,Singapore,TOTAL,,58320,29,,14727569,5160551,5120969,ECDC,ECDC,,14727569,Our World in Data,Our World in Data,5804343
 2023-02-01,Sint Maarten,TOTAL,,1232,26,,65515,29788,26658,ECDC,ECDC,,65515,Our World in Data,Our World in Data,42389
 2023-02-01,Slovakia,TOTAL,,132984,1175,,5754313,2595901,2577827,ECDC,ECDC,,5754313,Our World in Data,Our World in Data,5457012
 2023-02-01,Slovenia,TOTAL,,96314,1459,,2996643,1265802,1222225,ECDC,ECDC,,2996643,Our World in Data,Our World in Data,2078654
@@ -347,24 +347,24 @@ Date,Country,State/Province,Admin2,CasesCount,DeathsCount,RecoveryCount,TotalDos
 2023-02-01,South Africa,Province of Northern Cape,TOTAL,115290,3249,,,,,Data Science for Social Impact Research,Data Science for Social Impact Research,,,,,
 2023-02-01,South Africa,TOTAL,,4002981,101955,,38050611,23970891,21038797,Data Science for Social Impact Research,Data Science for Social Impact Research,Data Science for Social Impact Research,38050611,Our World in Data,Our World in Data,58558267
 2023-02-01,South Africa,Western Cape,TOTAL,701877,22305,,,,,Data Science for Social Impact Research,Data Science for Social Impact Research,,,,,
-2023-02-01,South Korea,TOTAL,,43484,587,,129647782,44867797,44449767,ECDC,ECDC,,129647782,Our World in Data,Our World in Data,51225321
+2023-02-01,South Korea,TOTAL,,43484,587,,129647782,44851777,44434193,ECDC,ECDC,,129647782,Our World in Data,Our World in Data,51225321
 2023-02-01,South Sudan,TOTAL,,3206,62,,2322220,2271802,2229823,ECDC,ECDC,,2322220,Our World in Data,Our World in Data,11062114
 2023-02-01,Spain,TOTAL,,1730575,47624,,105094800,41338847,40726228,ECDC,ECDC,,105094800,Our World in Data,Our World in Data,46736782
 2023-02-01,Sri Lanka,TOTAL,,32790,152,,40116590,17143761,14752827,ECDC,ECDC,,40116590,Our World in Data,Our World in Data,21323734
 2023-02-01,Sudan,TOTAL,,21386,1347,,13711970,10504568,8302878,ECDC,ECDC,,13711970,Our World in Data,Our World in Data,42813237
 2023-02-01,Suriname,TOTAL,,5353,117,,505699,267820,237879,ECDC,ECDC,,505699,Our World in Data,Our World in Data,581363
 2023-02-01,Swaziland,TOTAL,,6768,127,,820794,507582,413251,ECDC,ECDC,,820794,Our World in Data,Our World in Data,1148133
-2023-02-01,Sweden,TOTAL,,320098,7514,,25614483,7817490,7634904,ECDC,ECDC,,25614483,Our World in Data,Our World in Data,10036391
+2023-02-01,Sweden,TOTAL,,320098,7514,,25633601,7817893,7635229,ECDC,ECDC,,25633601,Our World in Data,Our World in Data,10036391
 2023-02-01,Switzerland,TOTAL,,372329,5378,,16914815,6095843,6012111,ECDC,ECDC,,16914815,Our World in Data,Our World in Data,8591361
 2023-02-01,Syria,TOTAL,,9166,518,,4971203,3209797,2257085,ECDC,ECDC,,4971203,Our World in Data,Our World in Data,17070132
-2023-02-01,TOTAL,,,71503614,1612833,,13259275267,5535966075,5087287955,ECDC,ECDC,,13259275267,Our World in Data,Our World in Data,7713468205
-2023-02-01,Taiwan,TOTAL,,740,7,,66514440,21854842,20691620,ECDC,ECDC,,66514440,Our World in Data,Our World in Data,23773881
+2023-02-01,TOTAL,,,71503614,1612833,,13261218877,5536082989,5087406560,ECDC,ECDC,,13261218877,Our World in Data,Our World in Data,7713468205
+2023-02-01,Taiwan,TOTAL,,740,7,,66536109,21855524,20693318,ECDC,ECDC,,66536109,Our World in Data,Our World in Data,23773881
 2023-02-01,Tajikistan,TOTAL,,12704,88,,18871161,5311967,5170582,ECDC,ECDC,,18871161,Our World in Data,Our World in Data,9321023
 2023-02-01,Tanzania,TOTAL,,509,21,,35994687,31191545,29270881,ECDC,ECDC,,35994687,Our World in Data,Our World in Data,58005461
 2023-02-01,Thailand,TOTAL,,4237,60,,142635014,57005497,53486086,ECDC,ECDC,,142635014,Our World in Data,Our World in Data,69625581
 2023-02-01,Togo,TOTAL,,3251,66,,3398445,2244456,1554066,ECDC,ECDC,,3398445,Our World in Data,Our World in Data,8082359
 2023-02-01,Trinidad and Tobago,TOTAL,,6879,122,,1580898,753588,716898,ECDC,ECDC,,1580898,Our World in Data,Our World in Data,1394969
-2023-02-01,Tunisia,TOTAL,,111361,3894,,13242623,7217476,6398555,ECDC,ECDC,,13242623,Our World in Data,Our World in Data,11694721
+2023-02-01,Tunisia,TOTAL,,111361,3894,,13243018,7217571,6398622,ECDC,ECDC,,13243018,Our World in Data,Our World in Data,11694721
 2023-02-01,Turkey,TOTAL,,995471,16199,,152543341,57941051,53176961,ECDC,ECDC,,152543341,Our World in Data,Our World in Data,83429607
 2023-02-01,Turks and Caicos Islands,TOTAL,,769,6,,73907,32815,30710,ECDC,ECDC,,73907,Our World in Data,Our World in Data,38194
 2023-02-01,U.S. Virgin Islands,TOTAL,,1807,23,,154312,,,ECDC,ECDC,,US CDC,US CDC,US CDC,
@@ -373,122 +373,122 @@ Date,Country,State/Province,Admin2,CasesCount,DeathsCount,RecoveryCount,TotalDos
 2023-02-01,United Arab Emirates,TOTAL,,184949,617,,24922054,9991089,9792266,ECDC,ECDC,,24922054,Our World in Data,Our World in Data,9770526
 2023-02-01,United Kingdom,Bermuda,TOTAL,431,9,,,,,ECDC,ECDC,,,,,
 2023-02-01,United Kingdom,Cayman Islands,TOTAL,298,2,,,,,ECDC,ECDC,,,,,
-2023-02-01,United Kingdom,England,Barnsley,96676,1246,,,,,Public Health England,Public Health England,,,,,
-2023-02-01,United Kingdom,England,Bath and North East Somerset,67409,413,,,,,Public Health England,Public Health England,,,,,
-2023-02-01,United Kingdom,England,Bedford,70991,732,,,,,Public Health England,Public Health England,,,,,
-2023-02-01,United Kingdom,England,Blackburn with Darwen,60332,627,,,,,Public Health England,Public Health England,,,,,
-2023-02-01,United Kingdom,England,Blackpool,55123,730,,,,,Public Health England,Public Health England,,,,,
-2023-02-01,United Kingdom,England,Borough of Bolton,102468,1141,,,,,Public Health England,Public Health England,,,,,
-2023-02-01,United Kingdom,England,Borough of Bury,71499,844,,,,,Public Health England,Public Health England,,,,,
-2023-02-01,United Kingdom,England,Borough of Halton,54213,431,,,,,Public Health England,Public Health England,,,,,
-2023-02-01,United Kingdom,England,Borough of North Tyneside,85613,750,,,,,Public Health England,Public Health England,,,,,
-2023-02-01,United Kingdom,England,Borough of Oldham,84633,982,,,,,Public Health England,Public Health England,,,,,
-2023-02-01,United Kingdom,England,Borough of Rochdale,82203,950,,,,,Public Health England,Public Health England,,,,,
-2023-02-01,United Kingdom,England,Borough of Stockport,112826,1065,,,,,Public Health England,Public Health England,,,,,
-2023-02-01,United Kingdom,England,Borough of Swindon,81633,496,,,,,Public Health England,Public Health England,,,,,
-2023-02-01,United Kingdom,England,Borough of Tameside,86342,947,,,,,Public Health England,Public Health England,,,,,
-2023-02-01,United Kingdom,England,Borough of Thurrock,67091,639,,,,,Public Health England,Public Health England,,,,,
-2023-02-01,United Kingdom,England,Borough of Torbay,48806,418,,,,,Public Health England,Public Health England,,,,,
-2023-02-01,United Kingdom,England,Borough of Wigan,125875,1455,,,,,Public Health England,Public Health England,,,,,
-2023-02-01,United Kingdom,England,Bracknell Forest,47627,271,,,,,Public Health England,Public Health England,,,,,
-2023-02-01,United Kingdom,England,Bradford,185993,1793,,,,,Public Health England,Public Health England,,,,,
-2023-02-01,United Kingdom,England,Brighton and Hove,104897,566,,,,,Public Health England,Public Health England,,,,,
-2023-02-01,United Kingdom,England,Bristol,184195,860,,,,,Public Health England,Public Health England,,,,,
-2023-02-01,United Kingdom,England,Buckinghamshire,200144,1549,,,,,Public Health England,Public Health England,,,,,
-2023-02-01,United Kingdom,England,Calderdale,72757,555,,,,,Public Health England,Public Health England,,,,,
-2023-02-01,United Kingdom,England,Cambridgeshire,238528,1444,,,,,Public Health England,Public Health England,,,,,
-2023-02-01,United Kingdom,England,Central Bedfordshire,108892,911,,,,,Public Health England,Public Health England,,,,,
-2023-02-01,United Kingdom,England,Cheshire East,144276,1390,,,,,Public Health England,Public Health England,,,,,
-2023-02-01,United Kingdom,England,Cheshire West and Chester,133506,1335,,,,,Public Health England,Public Health England,,,,,
-2023-02-01,United Kingdom,England,City and Borough of Birmingham,373192,3999,,,,,Public Health England,Public Health England,,,,,
-2023-02-01,United Kingdom,England,City and Borough of Leeds,300187,2101,,,,,Public Health England,Public Health England,,,,,
-2023-02-01,United Kingdom,England,City and Borough of Salford,103390,874,,,,,Public Health England,Public Health England,,,,,
-2023-02-01,United Kingdom,England,City and Borough of Wakefield,128353,1247,,,,,Public Health England,Public Health England,,,,,
-2023-02-01,United Kingdom,England,City of Kingston upon Hull,97348,1019,,,,,Public Health England,Public Health England,,,,,
-2023-02-01,United Kingdom,England,City of Leicester,129337,1194,,,,,Public Health England,Public Health England,,,,,
-2023-02-01,United Kingdom,England,City of York,73043,580,,,,,Public Health England,Public Health England,,,,,
-2023-02-01,United Kingdom,England,County Durham,201520,2108,,,,,Public Health England,Public Health England,,,,,
-2023-02-01,United Kingdom,England,Coventry,121724,983,,,,,Public Health England,Public Health England,,,,,
-2023-02-01,United Kingdom,England,Cumbria,178526,2156,,,,,Public Health England,Public Health England,,,,,
-2023-02-01,United Kingdom,England,Darlington,41778,411,,,,,Public Health England,Public Health England,,,,,
-2023-02-01,United Kingdom,England,Derby,95292,1009,,,,,Public Health England,Public Health England,,,,,
-2023-02-01,United Kingdom,England,Derbyshire,285889,3071,,,,,Public Health England,Public Health England,,,,,
-2023-02-01,United Kingdom,England,Devon,268183,1847,,,,,Public Health England,Public Health England,,,,,
-2023-02-01,United Kingdom,England,District of Rutland,13207,104,,,,,Public Health England,Public Health England,,,,,
-2023-02-01,United Kingdom,England,Doncaster,117554,1353,,,,,Public Health England,Public Health England,,,,,
-2023-02-01,United Kingdom,England,Dorset,121764,997,,,,,Public Health England,Public Health England,,,,,
-2023-02-01,United Kingdom,England,Dudley,118465,1184,,,,,Public Health England,Public Health England,,,,,
-2023-02-01,United Kingdom,England,East Riding of Yorkshire,118442,1276,,,,,Public Health England,Public Health England,,,,,
-2023-02-01,United Kingdom,England,East Sussex,186447,2074,,,,,Public Health England,Public Health England,,,,,
-2023-02-01,United Kingdom,England,Essex,548616,5828,,,,,Public Health England,Public Health England,,,,,
-2023-02-01,United Kingdom,England,Gateshead,77297,738,,,,,Public Health England,Public Health England,,,,,
-2023-02-01,United Kingdom,England,Gloucestershire,214355,1716,,,,,Public Health England,Public Health England,,,,,
-2023-02-01,United Kingdom,England,Hampshire,501216,3765,,,,,Public Health England,Public Health England,,,,,
-2023-02-01,United Kingdom,England,Hartlepool,36306,385,,,,,Public Health England,Public Health England,,,,,
-2023-02-01,United Kingdom,England,Herefordshire,59810,555,,,,,Public Health England,Public Health England,,,,,
-2023-02-01,United Kingdom,England,Hertfordshire,444718,3715,,,,,Public Health England,Public Health England,,,,,
-2023-02-01,United Kingdom,England,Isle of Wight,45879,493,,,,,Public Health England,Public Health England,,,,,
-2023-02-01,United Kingdom,England,Kent,561120,5616,,,,,Public Health England,Public Health England,,,,,
-2023-02-01,United Kingdom,England,Kirklees,149890,1335,,,,,Public Health England,Public Health England,,,,,
-2023-02-01,United Kingdom,England,Knowsley,64541,635,,,,,Public Health England,Public Health England,,,,,
-2023-02-01,United Kingdom,England,Lancashire,460160,4767,,,,,Public Health England,Public Health England,,,,,
-2023-02-01,United Kingdom,England,Leicestershire,259003,2222,,,,,Public Health England,Public Health England,,,,,
-2023-02-01,United Kingdom,England,Lincolnshire,256883,2629,,,,,Public Health England,Public Health England,,,,,
-2023-02-01,United Kingdom,England,Liverpool,191163,1848,,,,,Public Health England,Public Health England,,,,,
-2023-02-01,United Kingdom,England,Luton,81279,791,,,,,Public Health England,Public Health England,,,,,
-2023-02-01,United Kingdom,England,Manchester,206628,1487,,,,,Public Health England,Public Health England,,,,,
-2023-02-01,United Kingdom,England,Medway,102901,1017,,,,,Public Health England,Public Health England,,,,,
-2023-02-01,United Kingdom,England,Metropolitan Borough of Wirral,124890,1244,,,,,Public Health England,Public Health England,,,,,
-2023-02-01,United Kingdom,England,Middlesbrough,57281,548,,,,,Public Health England,Public Health England,,,,,
-2023-02-01,United Kingdom,England,Milton Keynes,106842,718,,,,,Public Health England,Public Health England,,,,,
-2023-02-01,United Kingdom,England,Newcastle upon Tyne,116181,719,,,,,Public Health England,Public Health England,,,,,
-2023-02-01,United Kingdom,England,Norfolk,297810,2977,,,,,Public Health England,Public Health England,,,,,
-2023-02-01,United Kingdom,England,North East Lincolnshire,57712,472,,,,,Public Health England,Public Health England,,,,,
-2023-02-01,United Kingdom,England,North Lincolnshire,59211,526,,,,,Public Health England,Public Health England,,,,,
-2023-02-01,United Kingdom,England,North Somerset,78885,577,,,,,Public Health England,Public Health England,,,,,
-2023-02-01,United Kingdom,England,North Yorkshire,207889,1727,,,,,Public Health England,Public Health England,,,,,
-2023-02-01,United Kingdom,England,Northamptonshire,280224,2290,,,,,Public Health England,Public Health England,,,,,
-2023-02-01,United Kingdom,England,Northumberland,118987,1247,,,,,Public Health England,Public Health England,,,,,
-2023-02-01,United Kingdom,England,Nottingham,119015,1025,,,,,Public Health England,Public Health England,,,,,
-2023-02-01,United Kingdom,England,Nottinghamshire,309909,3045,,,,,Public Health England,Public Health England,,,,,
-2023-02-01,United Kingdom,England,Oxfordshire,256450,1359,,,,,Public Health England,Public Health England,,,,,
-2023-02-01,United Kingdom,England,Peterborough,81173,541,,,,,Public Health England,Public Health England,,,,,
-2023-02-01,United Kingdom,England,Plymouth,101002,519,,,,,Public Health England,Public Health England,,,,,
-2023-02-01,United Kingdom,England,Portsmouth,78915,579,,,,,Public Health England,Public Health England,,,,,
-2023-02-01,United Kingdom,England,Reading,63742,423,,,,,Public Health England,Public Health England,,,,,
-2023-02-01,United Kingdom,England,Redcar and Cleveland,52022,513,,,,,Public Health England,Public Health England,,,,,
-2023-02-01,United Kingdom,England,Rotherham,101198,1217,,,,,Public Health England,Public Health England,,,,,
-2023-02-01,United Kingdom,England,Royal Borough of Windsor and Maidenhead,56755,427,,,,,Public Health England,Public Health England,,,,,
-2023-02-01,United Kingdom,England,Sandwell,118658,1420,,,,,Public Health England,Public Health England,,,,,
-2023-02-01,United Kingdom,England,Sefton,109059,1239,,,,,Public Health England,Public Health England,,,,,
-2023-02-01,United Kingdom,England,Sheffield,208231,1947,,,,,Public Health England,Public Health England,,,,,
-2023-02-01,United Kingdom,England,Shropshire,109256,1091,,,,,Public Health England,Public Health England,,,,,
-2023-02-01,United Kingdom,England,Slough,55618,408,,,,,Public Health England,Public Health England,,,,,
-2023-02-01,United Kingdom,England,Solihull,80141,830,,,,,Public Health England,Public Health England,,,,,
-2023-02-01,United Kingdom,England,Somerset,188566,1473,,,,,Public Health England,Public Health England,,,,,
-2023-02-01,United Kingdom,England,South Gloucestershire,108684,605,,,,,Public Health England,Public Health England,,,,,
-2023-02-01,United Kingdom,England,South Tyneside,59241,674,,,,,Public Health England,Public Health England,,,,,
-2023-02-01,United Kingdom,England,Southampton,91294,538,,,,,Public Health England,Public Health England,,,,,
-2023-02-01,United Kingdom,England,Southend-on-Sea,67090,839,,,,,Public Health England,Public Health England,,,,,
-2023-02-01,United Kingdom,England,St. Helens,73321,753,,,,,Public Health England,Public Health England,,,,,
-2023-02-01,United Kingdom,England,Staffordshire,324802,3625,,,,,Public Health England,Public Health England,,,,,
-2023-02-01,United Kingdom,England,Stockton-on-Tees,77665,702,,,,,Public Health England,Public Health England,,,,,
-2023-02-01,United Kingdom,England,Stoke-on-Trent,97190,1064,,,,,Public Health England,Public Health England,,,,,
-2023-02-01,United Kingdom,England,Suffolk,246040,2337,,,,,Public Health England,Public Health England,,,,,
-2023-02-01,United Kingdom,England,Sunderland,108098,1195,,,,,Public Health England,Public Health England,,,,,
-2023-02-01,United Kingdom,England,Surrey,451303,3626,,,,,Public Health England,Public Health England,,,,,
-2023-02-01,United Kingdom,England,TOTAL,20517193,180091,,144560165,45394592,42910263,Public Health England,Public Health England,,144560165,Our World in Data,Our World in Data,
-2023-02-01,United Kingdom,England,Telford and Wrekin,69603,525,,,,,Public Health England,Public Health England,,,,,
-2023-02-01,United Kingdom,England,Trafford,92167,770,,,,,Public Health England,Public Health England,,,,,
-2023-02-01,United Kingdom,England,Walsall,101466,1227,,,,,Public Health England,Public Health England,,,,,
-2023-02-01,United Kingdom,England,Warrington,84962,731,,,,,Public Health England,Public Health England,,,,,
-2023-02-01,United Kingdom,England,Warwickshire,216429,1737,,,,,Public Health England,Public Health England,,,,,
-2023-02-01,United Kingdom,England,West Berkshire,55779,329,,,,,Public Health England,Public Health England,,,,,
-2023-02-01,United Kingdom,England,West Sussex,307643,2351,,,,,Public Health England,Public Health England,,,,,
-2023-02-01,United Kingdom,England,Wiltshire,171122,1136,,,,,Public Health England,Public Health England,,,,,
-2023-02-01,United Kingdom,England,Wokingham,66433,375,,,,,Public Health England,Public Health England,,,,,
-2023-02-01,United Kingdom,England,Wolverhampton,96568,1090,,,,,Public Health England,Public Health England,,,,,
-2023-02-01,United Kingdom,England,Worcestershire,206583,1933,,,,,Public Health England,Public Health England,,,,,
+2023-02-01,United Kingdom,England,Barnsley,96801,1246,,,,,Public Health England,Public Health England,,,,,
+2023-02-01,United Kingdom,England,Bath and North East Somerset,67460,413,,,,,Public Health England,Public Health England,,,,,
+2023-02-01,United Kingdom,England,Bedford,71037,732,,,,,Public Health England,Public Health England,,,,,
+2023-02-01,United Kingdom,England,Blackburn with Darwen,60362,627,,,,,Public Health England,Public Health England,,,,,
+2023-02-01,United Kingdom,England,Blackpool,55187,730,,,,,Public Health England,Public Health England,,,,,
+2023-02-01,United Kingdom,England,Borough of Bolton,102558,1141,,,,,Public Health England,Public Health England,,,,,
+2023-02-01,United Kingdom,England,Borough of Bury,71539,844,,,,,Public Health England,Public Health England,,,,,
+2023-02-01,United Kingdom,England,Borough of Halton,54250,431,,,,,Public Health England,Public Health England,,,,,
+2023-02-01,United Kingdom,England,Borough of North Tyneside,85683,750,,,,,Public Health England,Public Health England,,,,,
+2023-02-01,United Kingdom,England,Borough of Oldham,84678,982,,,,,Public Health England,Public Health England,,,,,
+2023-02-01,United Kingdom,England,Borough of Rochdale,82268,950,,,,,Public Health England,Public Health England,,,,,
+2023-02-01,United Kingdom,England,Borough of Stockport,112902,1065,,,,,Public Health England,Public Health England,,,,,
+2023-02-01,United Kingdom,England,Borough of Swindon,81704,496,,,,,Public Health England,Public Health England,,,,,
+2023-02-01,United Kingdom,England,Borough of Tameside,86409,947,,,,,Public Health England,Public Health England,,,,,
+2023-02-01,United Kingdom,England,Borough of Thurrock,67132,639,,,,,Public Health England,Public Health England,,,,,
+2023-02-01,United Kingdom,England,Borough of Torbay,48837,418,,,,,Public Health England,Public Health England,,,,,
+2023-02-01,United Kingdom,England,Borough of Wigan,125979,1455,,,,,Public Health England,Public Health England,,,,,
+2023-02-01,United Kingdom,England,Bracknell Forest,47691,271,,,,,Public Health England,Public Health England,,,,,
+2023-02-01,United Kingdom,England,Bradford,186149,1793,,,,,Public Health England,Public Health England,,,,,
+2023-02-01,United Kingdom,England,Brighton and Hove,104968,566,,,,,Public Health England,Public Health England,,,,,
+2023-02-01,United Kingdom,England,Bristol,184294,860,,,,,Public Health England,Public Health England,,,,,
+2023-02-01,United Kingdom,England,Buckinghamshire,200314,1549,,,,,Public Health England,Public Health England,,,,,
+2023-02-01,United Kingdom,England,Calderdale,72808,555,,,,,Public Health England,Public Health England,,,,,
+2023-02-01,United Kingdom,England,Cambridgeshire,238843,1444,,,,,Public Health England,Public Health England,,,,,
+2023-02-01,United Kingdom,England,Central Bedfordshire,108968,911,,,,,Public Health England,Public Health England,,,,,
+2023-02-01,United Kingdom,England,Cheshire East,144397,1390,,,,,Public Health England,Public Health England,,,,,
+2023-02-01,United Kingdom,England,Cheshire West and Chester,133614,1335,,,,,Public Health England,Public Health England,,,,,
+2023-02-01,United Kingdom,England,City and Borough of Birmingham,373451,3999,,,,,Public Health England,Public Health England,,,,,
+2023-02-01,United Kingdom,England,City and Borough of Leeds,300484,2101,,,,,Public Health England,Public Health England,,,,,
+2023-02-01,United Kingdom,England,City and Borough of Salford,103437,874,,,,,Public Health England,Public Health England,,,,,
+2023-02-01,United Kingdom,England,City and Borough of Wakefield,128455,1247,,,,,Public Health England,Public Health England,,,,,
+2023-02-01,United Kingdom,England,City of Kingston upon Hull,97446,1019,,,,,Public Health England,Public Health England,,,,,
+2023-02-01,United Kingdom,England,City of Leicester,129413,1194,,,,,Public Health England,Public Health England,,,,,
+2023-02-01,United Kingdom,England,City of York,73113,580,,,,,Public Health England,Public Health England,,,,,
+2023-02-01,United Kingdom,England,County Durham,201704,2108,,,,,Public Health England,Public Health England,,,,,
+2023-02-01,United Kingdom,England,Coventry,121807,983,,,,,Public Health England,Public Health England,,,,,
+2023-02-01,United Kingdom,England,Cumbria,178656,2156,,,,,Public Health England,Public Health England,,,,,
+2023-02-01,United Kingdom,England,Darlington,41811,411,,,,,Public Health England,Public Health England,,,,,
+2023-02-01,United Kingdom,England,Derby,95382,1009,,,,,Public Health England,Public Health England,,,,,
+2023-02-01,United Kingdom,England,Derbyshire,286153,3071,,,,,Public Health England,Public Health England,,,,,
+2023-02-01,United Kingdom,England,Devon,268545,1847,,,,,Public Health England,Public Health England,,,,,
+2023-02-01,United Kingdom,England,District of Rutland,13213,104,,,,,Public Health England,Public Health England,,,,,
+2023-02-01,United Kingdom,England,Doncaster,117700,1353,,,,,Public Health England,Public Health England,,,,,
+2023-02-01,United Kingdom,England,Dorset,121904,997,,,,,Public Health England,Public Health England,,,,,
+2023-02-01,United Kingdom,England,Dudley,118554,1184,,,,,Public Health England,Public Health England,,,,,
+2023-02-01,United Kingdom,England,East Riding of Yorkshire,118555,1276,,,,,Public Health England,Public Health England,,,,,
+2023-02-01,United Kingdom,England,East Sussex,186673,2074,,,,,Public Health England,Public Health England,,,,,
+2023-02-01,United Kingdom,England,Essex,549138,5828,,,,,Public Health England,Public Health England,,,,,
+2023-02-01,United Kingdom,England,Gateshead,77378,738,,,,,Public Health England,Public Health England,,,,,
+2023-02-01,United Kingdom,England,Gloucestershire,214550,1716,,,,,Public Health England,Public Health England,,,,,
+2023-02-01,United Kingdom,England,Hampshire,501691,3765,,,,,Public Health England,Public Health England,,,,,
+2023-02-01,United Kingdom,England,Hartlepool,36329,385,,,,,Public Health England,Public Health England,,,,,
+2023-02-01,United Kingdom,England,Herefordshire,59869,555,,,,,Public Health England,Public Health England,,,,,
+2023-02-01,United Kingdom,England,Hertfordshire,445155,3715,,,,,Public Health England,Public Health England,,,,,
+2023-02-01,United Kingdom,England,Isle of Wight,45935,493,,,,,Public Health England,Public Health England,,,,,
+2023-02-01,United Kingdom,England,Kent,561686,5616,,,,,Public Health England,Public Health England,,,,,
+2023-02-01,United Kingdom,England,Kirklees,150051,1335,,,,,Public Health England,Public Health England,,,,,
+2023-02-01,United Kingdom,England,Knowsley,64571,635,,,,,Public Health England,Public Health England,,,,,
+2023-02-01,United Kingdom,England,Lancashire,460550,4767,,,,,Public Health England,Public Health England,,,,,
+2023-02-01,United Kingdom,England,Leicestershire,259193,2222,,,,,Public Health England,Public Health England,,,,,
+2023-02-01,United Kingdom,England,Lincolnshire,257138,2629,,,,,Public Health England,Public Health England,,,,,
+2023-02-01,United Kingdom,England,Liverpool,191285,1848,,,,,Public Health England,Public Health England,,,,,
+2023-02-01,United Kingdom,England,Luton,81317,791,,,,,Public Health England,Public Health England,,,,,
+2023-02-01,United Kingdom,England,Manchester,206770,1487,,,,,Public Health England,Public Health England,,,,,
+2023-02-01,United Kingdom,England,Medway,102990,1017,,,,,Public Health England,Public Health England,,,,,
+2023-02-01,United Kingdom,England,Metropolitan Borough of Wirral,125010,1244,,,,,Public Health England,Public Health England,,,,,
+2023-02-01,United Kingdom,England,Middlesbrough,57336,548,,,,,Public Health England,Public Health England,,,,,
+2023-02-01,United Kingdom,England,Milton Keynes,106945,718,,,,,Public Health England,Public Health England,,,,,
+2023-02-01,United Kingdom,England,Newcastle upon Tyne,116271,719,,,,,Public Health England,Public Health England,,,,,
+2023-02-01,United Kingdom,England,Norfolk,298176,2977,,,,,Public Health England,Public Health England,,,,,
+2023-02-01,United Kingdom,England,North East Lincolnshire,57762,472,,,,,Public Health England,Public Health England,,,,,
+2023-02-01,United Kingdom,England,North Lincolnshire,59278,526,,,,,Public Health England,Public Health England,,,,,
+2023-02-01,United Kingdom,England,North Somerset,78965,577,,,,,Public Health England,Public Health England,,,,,
+2023-02-01,United Kingdom,England,North Yorkshire,208140,1727,,,,,Public Health England,Public Health England,,,,,
+2023-02-01,United Kingdom,England,Northamptonshire,280402,2290,,,,,Public Health England,Public Health England,,,,,
+2023-02-01,United Kingdom,England,Northumberland,119091,1247,,,,,Public Health England,Public Health England,,,,,
+2023-02-01,United Kingdom,England,Nottingham,119120,1025,,,,,Public Health England,Public Health England,,,,,
+2023-02-01,United Kingdom,England,Nottinghamshire,310224,3045,,,,,Public Health England,Public Health England,,,,,
+2023-02-01,United Kingdom,England,Oxfordshire,256726,1359,,,,,Public Health England,Public Health England,,,,,
+2023-02-01,United Kingdom,England,Peterborough,81265,541,,,,,Public Health England,Public Health England,,,,,
+2023-02-01,United Kingdom,England,Plymouth,101166,519,,,,,Public Health England,Public Health England,,,,,
+2023-02-01,United Kingdom,England,Portsmouth,79000,579,,,,,Public Health England,Public Health England,,,,,
+2023-02-01,United Kingdom,England,Reading,63795,423,,,,,Public Health England,Public Health England,,,,,
+2023-02-01,United Kingdom,England,Redcar and Cleveland,52120,513,,,,,Public Health England,Public Health England,,,,,
+2023-02-01,United Kingdom,England,Rotherham,101304,1217,,,,,Public Health England,Public Health England,,,,,
+2023-02-01,United Kingdom,England,Royal Borough of Windsor and Maidenhead,56794,427,,,,,Public Health England,Public Health England,,,,,
+2023-02-01,United Kingdom,England,Sandwell,118744,1420,,,,,Public Health England,Public Health England,,,,,
+2023-02-01,United Kingdom,England,Sefton,109137,1239,,,,,Public Health England,Public Health England,,,,,
+2023-02-01,United Kingdom,England,Sheffield,208461,1947,,,,,Public Health England,Public Health England,,,,,
+2023-02-01,United Kingdom,England,Shropshire,109351,1091,,,,,Public Health England,Public Health England,,,,,
+2023-02-01,United Kingdom,England,Slough,55668,408,,,,,Public Health England,Public Health England,,,,,
+2023-02-01,United Kingdom,England,Solihull,80189,830,,,,,Public Health England,Public Health England,,,,,
+2023-02-01,United Kingdom,England,Somerset,188800,1473,,,,,Public Health England,Public Health England,,,,,
+2023-02-01,United Kingdom,England,South Gloucestershire,108765,605,,,,,Public Health England,Public Health England,,,,,
+2023-02-01,United Kingdom,England,South Tyneside,59281,674,,,,,Public Health England,Public Health England,,,,,
+2023-02-01,United Kingdom,England,Southampton,91380,538,,,,,Public Health England,Public Health England,,,,,
+2023-02-01,United Kingdom,England,Southend-on-Sea,67138,839,,,,,Public Health England,Public Health England,,,,,
+2023-02-01,United Kingdom,England,St. Helens,73377,753,,,,,Public Health England,Public Health England,,,,,
+2023-02-01,United Kingdom,England,Staffordshire,325137,3625,,,,,Public Health England,Public Health England,,,,,
+2023-02-01,United Kingdom,England,Stockton-on-Tees,77714,702,,,,,Public Health England,Public Health England,,,,,
+2023-02-01,United Kingdom,England,Stoke-on-Trent,97312,1064,,,,,Public Health England,Public Health England,,,,,
+2023-02-01,United Kingdom,England,Suffolk,246271,2337,,,,,Public Health England,Public Health England,,,,,
+2023-02-01,United Kingdom,England,Sunderland,108187,1195,,,,,Public Health England,Public Health England,,,,,
+2023-02-01,United Kingdom,England,Surrey,451643,3626,,,,,Public Health England,Public Health England,,,,,
+2023-02-01,United Kingdom,England,TOTAL,20535061,180091,,144615380,45398149,42916983,Public Health England,Public Health England,,144615380,Our World in Data,Our World in Data,
+2023-02-01,United Kingdom,England,Telford and Wrekin,69669,525,,,,,Public Health England,Public Health England,,,,,
+2023-02-01,United Kingdom,England,Trafford,92214,770,,,,,Public Health England,Public Health England,,,,,
+2023-02-01,United Kingdom,England,Walsall,101545,1227,,,,,Public Health England,Public Health England,,,,,
+2023-02-01,United Kingdom,England,Warrington,85030,731,,,,,Public Health England,Public Health England,,,,,
+2023-02-01,United Kingdom,England,Warwickshire,216622,1737,,,,,Public Health England,Public Health England,,,,,
+2023-02-01,United Kingdom,England,West Berkshire,55842,329,,,,,Public Health England,Public Health England,,,,,
+2023-02-01,United Kingdom,England,West Sussex,307884,2351,,,,,Public Health England,Public Health England,,,,,
+2023-02-01,United Kingdom,England,Wiltshire,171297,1136,,,,,Public Health England,Public Health England,,,,,
+2023-02-01,United Kingdom,England,Wokingham,66485,375,,,,,Public Health England,Public Health England,,,,,
+2023-02-01,United Kingdom,England,Wolverhampton,96634,1090,,,,,Public Health England,Public Health England,,,,,
+2023-02-01,United Kingdom,England,Worcestershire,206751,1933,,,,,Public Health England,Public Health England,,,,,
 2023-02-01,United Kingdom,Gibraltar,TOTAL,1075,5,,,,,ECDC,ECDC,,,,,
 2023-02-01,United Kingdom,Montserrat,TOTAL,13,1,,,,,ECDC,ECDC,,,,,
 2023-02-01,United Kingdom,Northern Ireland,Antrim and Newtownabbey,55320,308,,,,,Public Health England,Public Health England,,,,,
@@ -502,7 +502,7 @@ Date,Country,State/Province,Admin2,CasesCount,DeathsCount,RecoveryCount,TotalDos
 2023-02-01,United Kingdom,Northern Ireland,Mid Ulster,56472,316,,,,,Public Health England,Public Health England,,,,,
 2023-02-01,United Kingdom,Northern Ireland,Mid and East Antrim,48123,294,,,,,Public Health England,Public Health England,,,,,
 2023-02-01,United Kingdom,Northern Ireland,Newry Mourne and Down,68270,264,,,,,Public Health England,Public Health England,,,,,
-2023-02-01,United Kingdom,Northern Ireland,TOTAL,713294,3445,,4480271,1429980,1360178,Public Health England,Public Health England,,4480271,Our World in Data,Our World in Data,
+2023-02-01,United Kingdom,Northern Ireland,TOTAL,713294,3445,,4481570,1430032,1360236,Public Health England,Public Health England,,4481570,Our World in Data,Our World in Data,
 2023-02-01,United Kingdom,Scotland,Aberdeen City,80296,348,,,,,Public Health England,Public Health England,,,,,
 2023-02-01,United Kingdom,Scotland,Aberdeenshire,88884,326,,,,,Public Health England,Public Health England,,,,,
 2023-02-01,United Kingdom,Scotland,Angus,40515,239,,,,,Public Health England,Public Health England,,,,,
@@ -532,34 +532,34 @@ Date,Country,State/Province,Admin2,CasesCount,DeathsCount,RecoveryCount,TotalDos
 2023-02-01,United Kingdom,Scotland,South Ayrshire,43296,342,,,,,Public Health England,Public Health England,,,,,
 2023-02-01,United Kingdom,Scotland,South Lanarkshire,142499,938,,,,,Public Health England,Public Health England,,,,,
 2023-02-01,United Kingdom,Scotland,Stirling,35707,192,,,,,Public Health England,Public Health England,,,,,
-2023-02-01,United Kingdom,Scotland,TOTAL,2148273,12389,,13014285,4549556,4285946,Public Health England,Public Health England,,13014285,Our World in Data,Our World in Data,
+2023-02-01,United Kingdom,Scotland,TOTAL,2149502,12389,,13014285,4549556,4285946,Public Health England,Public Health England,,13014285,Our World in Data,Our World in Data,
 2023-02-01,United Kingdom,Scotland,The Scottish Borders,36679,200,,,,,Public Health England,Public Health England,,,,,
 2023-02-01,United Kingdom,Scotland,West Dunbartonshire,39376,284,,,,,Public Health England,Public Health England,,,,,
 2023-02-01,United Kingdom,Scotland,West Lothian,75868,374,,,,,Public Health England,Public Health England,,,,,
 2023-02-01,United Kingdom,TOTAL,,22238713,177977,,151248820,53813491,50762968,Public Health England,Public Health England,,151248820,Our World in Data,Our World in Data,67530161
-2023-02-01,United Kingdom,Wales,Anglesey,15238,,,,,,Public Health England,,,,,,
-2023-02-01,United Kingdom,Wales,Blaenau Gwent,21702,,,,,,Public Health England,,,,,,
-2023-02-01,United Kingdom,Wales,Bridgend county borough,41887,,,,,,Public Health England,,,,,,
-2023-02-01,United Kingdom,Wales,Caerphilly County Borough,52429,,,,,,Public Health England,,,,,,
-2023-02-01,United Kingdom,Wales,Cardiff,106210,,,,,,Public Health England,,,,,,
-2023-02-01,United Kingdom,Wales,Carmarthenshire,48887,,,,,,Public Health England,,,,,,
-2023-02-01,United Kingdom,Wales,City and County of Swansea,69715,,,,,,Public Health England,,,,,,
-2023-02-01,United Kingdom,Wales,Conwy,27361,,,,,,Public Health England,,,,,,
-2023-02-01,United Kingdom,Wales,County of Ceredigion,13170,,,,,,Public Health England,,,,,,
-2023-02-01,United Kingdom,Wales,County of Flintshire,39708,,,,,,Public Health England,,,,,,
-2023-02-01,United Kingdom,Wales,Denbighshire,25452,,,,,,Public Health England,,,,,,
-2023-02-01,United Kingdom,Wales,Gwynedd,27646,,,,,,Public Health England,,,,,,
-2023-02-01,United Kingdom,Wales,Merthyr Tydfil County Borough,19735,,,,,,Public Health England,,,,,,
-2023-02-01,United Kingdom,Wales,Monmouthshire,20537,,,,,,Public Health England,,,,,,
-2023-02-01,United Kingdom,Wales,Neath Port Talbot,43427,,,,,,Public Health England,,,,,,
-2023-02-01,United Kingdom,Wales,Newport,45049,,,,,,Public Health England,,,,,,
-2023-02-01,United Kingdom,Wales,Pembrokeshire,26897,,,,,,Public Health England,,,,,,
-2023-02-01,United Kingdom,Wales,Rhondda Cynon Taf,73175,,,,,,Public Health England,,,,,,
-2023-02-01,United Kingdom,Wales,Sir Powys,26727,,,,,,Public Health England,,,,,,
-2023-02-01,United Kingdom,Wales,TOTAL,895597,8246,,8591636,2591130,2472856,Public Health England,Public Health England,,8591636,Our World in Data,Our World in Data,
-2023-02-01,United Kingdom,Wales,Torfaen County Borough,27507,,,,,,Public Health England,,,,,,
-2023-02-01,United Kingdom,Wales,Vale of Glamorgan,38326,,,,,,Public Health England,,,,,,
-2023-02-01,United Kingdom,Wales,Wrexham,38621,,,,,,Public Health England,,,,,,
+2023-02-01,United Kingdom,Wales,Anglesey,15239,,,,,,Public Health England,,,,,,
+2023-02-01,United Kingdom,Wales,Blaenau Gwent,21704,,,,,,Public Health England,,,,,,
+2023-02-01,United Kingdom,Wales,Bridgend county borough,41907,,,,,,Public Health England,,,,,,
+2023-02-01,United Kingdom,Wales,Caerphilly County Borough,52448,,,,,,Public Health England,,,,,,
+2023-02-01,United Kingdom,Wales,Cardiff,106281,,,,,,Public Health England,,,,,,
+2023-02-01,United Kingdom,Wales,Carmarthenshire,48893,,,,,,Public Health England,,,,,,
+2023-02-01,United Kingdom,Wales,City and County of Swansea,69732,,,,,,Public Health England,,,,,,
+2023-02-01,United Kingdom,Wales,Conwy,27365,,,,,,Public Health England,,,,,,
+2023-02-01,United Kingdom,Wales,County of Ceredigion,13171,,,,,,Public Health England,,,,,,
+2023-02-01,United Kingdom,Wales,County of Flintshire,39711,,,,,,Public Health England,,,,,,
+2023-02-01,United Kingdom,Wales,Denbighshire,25461,,,,,,Public Health England,,,,,,
+2023-02-01,United Kingdom,Wales,Gwynedd,27655,,,,,,Public Health England,,,,,,
+2023-02-01,United Kingdom,Wales,Merthyr Tydfil County Borough,19738,,,,,,Public Health England,,,,,,
+2023-02-01,United Kingdom,Wales,Monmouthshire,20541,,,,,,Public Health England,,,,,,
+2023-02-01,United Kingdom,Wales,Neath Port Talbot,43434,,,,,,Public Health England,,,,,,
+2023-02-01,United Kingdom,Wales,Newport,45071,,,,,,Public Health England,,,,,,
+2023-02-01,United Kingdom,Wales,Pembrokeshire,26899,,,,,,Public Health England,,,,,,
+2023-02-01,United Kingdom,Wales,Rhondda Cynon Taf,73204,,,,,,Public Health England,,,,,,
+2023-02-01,United Kingdom,Wales,Sir Powys,26737,,,,,,Public Health England,,,,,,
+2023-02-01,United Kingdom,Wales,TOTAL,895891,8246,,8591636,2591196,2473698,Public Health England,Public Health England,,8591636,Our World in Data,Our World in Data,
+2023-02-01,United Kingdom,Wales,Torfaen County Borough,27517,,,,,,Public Health England,,,,,,
+2023-02-01,United Kingdom,Wales,Vale of Glamorgan,38346,,,,,,Public Health England,,,,,,
+2023-02-01,United Kingdom,Wales,Wrexham,38637,,,,,,Public Health England,,,,,,
 2023-02-01,United States,Alabama,Autauga County,19318,230,,,,,USAFacts,USAFacts,,,,,55601
 2023-02-01,United States,Alabama,Baldwin County,68518,721,,,,,USAFacts,USAFacts,,,,,218022
 2023-02-01,United States,Alabama,Barbour County,7188,103,,,,,USAFacts,USAFacts,,,,,24881
@@ -3753,8 +3753,8 @@ Date,Country,State/Province,Admin2,CasesCount,DeathsCount,RecoveryCount,TotalDos
 2023-02-01,United States,Wyoming,Uinta County,6333,43,,,,,USAFacts,USAFacts,,,,,20299
 2023-02-01,United States,Wyoming,Washakie County,2731,47,,,,,USAFacts,USAFacts,,,,,7885
 2023-02-01,United States,Wyoming,Weston County,1881,22,,,,,USAFacts,USAFacts,,,,,6967
-2023-02-01,Uruguay,TOTAL,,9708,92,,8905408,3005672,2897876,ECDC,ECDC,,8905408,Our World in Data,Our World in Data,3461731
-2023-02-01,Uzbekistan,TOTAL,,75094,612,,73472066,21542014,17867908,ECDC,ECDC,,73472066,Our World in Data,Our World in Data,32981715
+2023-02-01,Uruguay,TOTAL,,9708,92,,8908466,3005726,2897921,ECDC,ECDC,,8908466,Our World in Data,Our World in Data,3461731
+2023-02-01,Uzbekistan,TOTAL,,75094,612,,73580492,21543755,17868588,ECDC,ECDC,,73580492,Our World in Data,Our World in Data,32981715
 2023-02-01,Vanuatu,TOTAL,,1,0,,293584,144824,131697,ECDC,ECDC,,293584,Our World in Data,Our World in Data,299882
 2023-02-01,Vatican,TOTAL,,26,0,,,,,ECDC,ECDC,,,,,815
 2023-02-01,Venezuela,TOTAL,,107177,949,,37860994,22157232,14966671,ECDC,ECDC,,37860994,Our World in Data,Our World in Data,28515829
